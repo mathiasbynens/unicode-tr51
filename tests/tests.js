@@ -19,6 +19,16 @@ describe('Emoji data', function() {
 		}));
 		assert(emojiSymbols.indexOf('\uD83C\uDDFE\uD83C\uDDEA') >= 0);
 
+		// U+1F1FA REGIONAL INDICATOR SYMBOL LETTER U
+		// U+1F1F8 REGIONAL INDICATOR SYMBOL LETTER S
+		// → flag for United States
+		assert(emojiCodePoints.some(function(value) {
+			return Array.isArray(value) &&
+				value[0] == 0x1F1FA &&
+				value[1] == 0x1F1F8;
+		}));
+		assert(emojiSymbols.indexOf('\uD83C\uDDFA\uD83C\uDDF8') >= 0);
+
 	});
 
 });
