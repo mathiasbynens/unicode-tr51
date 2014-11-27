@@ -32,7 +32,7 @@
 		"test": "tests"
 	},
 	"scripts": {
-		"download": "curl http://www.unicode.org/reports/tr51/emoji-data.txt > data/emoji-data.txt",
+		"download": "curl http://www.unicode.org/Public/emoji/1.0/emoji-data.txt > data/emoji-data.txt",
 		"build": "node scripts/parse-emoji-data.js",
 		"coverage": "istanbul cover --report html node_modules/.bin/_mocha scripts/parse-emoji-data.js -- -u exports -R spec",
 		"test": "mocha tests"

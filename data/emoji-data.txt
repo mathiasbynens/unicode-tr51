@@ -1,5 +1,5 @@
 # DRAFT emoji-data.txt
-# For details about the format and other information, see index.html#Data_Files.
+# For details about the format and other information, see /../../../reports/tr51/index.html#Data_Files.
 #
 # Format
 # Code ;	Default Style ;	Ordering ;	Annotations ;	Sources	# Version Char Name
@@ -105,12 +105,12 @@ U+1F6B6 ;	emoji ;	97 ;	fitz-optional, hiker, hiking, human, pedestrian, person, 
 U+1F3C3 ;	emoji ;	98 ;	fitz-optional, human, marathon, person, runner, running, sport ;	j 	# V6.0 (🏃) runner
 U+1F483 ;	emoji ;	99 ;	dancer, fitz-optional, human, person ;	j 	# V6.0 (💃) dancer
 U+1F574 ;	emoji ;	100 ;	business, human, man, person, suit ;	w 	# V7.0 (🕴) man in business suit levitating
-U+1F48F ;	emoji ;	101 ;	couplekiss, fitz-minimal, human, kiss, person, romance ;	j 	# V6.0 (💏) kiss
-U+1F491 ;	emoji ;	102 ;	couple, fitz-minimal, heart, human, person, romance ;	j 	# V6.0 (💑) couple with heart
-U+1F46A ;	emoji ;	103 ;	child, family, father, fitz-minimal, human, mother, person ;	jw 	# V6.0 (👪) family
-U+1F46B ;	emoji ;	104 ;	couple, fitz-minimal, hand, hold, human, man, person, woman ;	j 	# V6.0 (👫) man and woman holding hands
-U+1F46C ;	emoji ;	105 ;	couple, fitz-minimal, hand, hold, human, men, person ;	x 	# V6.0 (👬) two men holding hands
-U+1F46D ;	emoji ;	106 ;	couple, fitz-minimal, hand, hold, human, person, woman ;	x 	# V6.0 (👭) two women holding hands
+U+1F48F ;	emoji ;	101 ;	couplekiss, human, kiss, person, romance ;	j 	# V6.0 (💏) kiss
+U+1F491 ;	emoji ;	102 ;	couple, heart, human, person, romance ;	j 	# V6.0 (💑) couple with heart
+U+1F46A ;	emoji ;	103 ;	child, family, father, human, mother, person ;	jw 	# V6.0 (👪) family
+U+1F46B ;	emoji ;	104 ;	couple, hand, hold, human, man, person, woman ;	j 	# V6.0 (👫) man and woman holding hands
+U+1F46C ;	emoji ;	105 ;	couple, hand, hold, human, men, person ;	x 	# V6.0 (👬) two men holding hands
+U+1F46D ;	emoji ;	106 ;	couple, hand, hold, human, person, woman ;	x 	# V6.0 (👭) two women holding hands
 U+1F448 ;	emoji ;	107 ;	backhand, body, finger, fitz-optional, hand, human, index, point ;	jw 	# V6.0 (👈) white left pointing backhand index
 U+261A ;	text ;	108 ;	body, finger, hand, human, index, point ;	x 	# V1.1 (☚) black left pointing index
 U+261C ;	text ;	109 ;	body, finger, hand, human, index, point ;	w 	# V1.1 (☜) white left pointing index
@@ -325,114 +325,114 @@ U+1F490 ;	emoji ;	317 ;	animal, bouquet, flower, nature, object, romance ;	j 	# 
 U+1F395 ;	emoji ;	318 ;	bouquet, celebration, emotion, flower, nature, plant ;	w 	# V7.0 (🎕) bouquet of flowers
 U+2698 ;	text ;	319 ;	flower, object ;	x 	# V4.1 (⚘) flower
 U+1F338 ;	emoji ;	320 ;	blossom, cherry, flower, nature, plant ;	j 	# V6.0 (🌸) cherry blossom
-U+1F3F5 ;	emoji ;	321 ;	nature, rosette ;	w 	# V7.0 (🏵) rosette
-U+1F3F6 ;	emoji ;	322 ;	nature, rosette ;	w 	# V7.0 (🏶) black rosette
-U+1F339 ;	emoji ;	323 ;	flower, nature, plant, rose ;	j 	# V6.0 (🌹) rose
-U+1F33A ;	emoji ;	324 ;	flower, hibiscus, nature, plant ;	j 	# V6.0 (🌺) hibiscus
-U+1F33B ;	emoji ;	325 ;	flower, nature, plant, sun, sunflower, weather ;	j 	# V6.0 (🌻) sunflower
-U+1F33C ;	emoji ;	326 ;	blossom, flower, nature, plant ;	j 	# V6.0 (🌼) blossom
-U+1F337 ;	emoji ;	327 ;	flower, nature, plant, tulip ;	j 	# V6.0 (🌷) tulip
-U+2E19 ;	text ;	328 ;	branch, nature, palm, plant ;	x 	# V5.1 (⸙) palm branch
-U+2618 ;	text ;	329 ;	nature, plant, shamrock ;	x 	# V4.1 (☘) shamrock
-U+1F331 ;	emoji ;	330 ;	nature, plant, seedling, young ;	j 	# V6.0 (🌱) seedling
-U+1F332 ;	emoji ;	331 ;	evergreen, nature, plant, tree ;	x 	# V6.0 (🌲) evergreen tree
-U+1F333 ;	emoji ;	332 ;	deciduous, nature, plant, shedding, tree ;	x 	# V6.0 (🌳) deciduous tree
-U+1F334 ;	emoji ;	333 ;	nature, palm, plant, tree ;	j 	# V6.0 (🌴) palm tree
-U+1F335 ;	emoji ;	334 ;	cactus, nature, plant ;	j 	# V6.0 (🌵) cactus
-U+1F33E ;	emoji ;	335 ;	ear, nature, plant, rice ;	j 	# V6.0 (🌾) ear of rice
-U+1F33F ;	emoji ;	336 ;	herb, leaf, nature, plant ;	j 	# V6.0 (🌿) herb
-U+1F340 ;	emoji ;	337 ;	4, clover, four, leaf, nature, plant ;	j 	# V6.0 (🍀) four leaf clover
-U+1F341 ;	emoji ;	338 ;	fallen, leaf, maple, nature, plant ;	j 	# V6.0 (🍁) maple leaf
-U+1F342 ;	emoji ;	339 ;	fallen, falling, leaf, nature, plant ;	j 	# V6.0 (🍂) fallen leaf
-U+1F343 ;	emoji ;	340 ;	blow, fluttering, leaf, leaves, nature, plant, wind ;	j 	# V6.0 (🍃) leaf fluttering in wind
-U+1F347 ;	emoji ;	341 ;	food, fruit, grapes, nature, plant ;	j 	# V6.0 (🍇) grapes
-U+1F348 ;	emoji ;	342 ;	food, fruit, melon, nature, plant ;	j 	# V6.0 (🍈) melon
-U+1F349 ;	emoji ;	343 ;	food, fruit, nature, plant, watermelon ;	j 	# V6.0 (🍉) watermelon
-U+1F34A ;	emoji ;	344 ;	food, fruit, nature, orange, plant, tangerine ;	j 	# V6.0 (🍊) tangerine
-U+1F34B ;	emoji ;	345 ;	citrus, food, fruit, lemon, nature, plant ;	x 	# V6.0 (🍋) lemon
-U+1F34C ;	emoji ;	346 ;	banana, food, fruit, nature, plant ;	j 	# V6.0 (🍌) banana
-U+1F34D ;	emoji ;	347 ;	food, fruit, nature, pineapple, plant ;	j 	# V6.0 (🍍) pineapple
-U+1F34E ;	emoji ;	348 ;	apple, food, fruit, nature, plant, red ;	j 	# V6.0 (🍎) red apple
-U+1F34F ;	emoji ;	349 ;	apple, food, fruit, green, nature, plant ;	j 	# V6.0 (🍏) green apple
-U+1F350 ;	emoji ;	350 ;	food, fruit, nature, pear, plant ;	x 	# V6.0 (🍐) pear
-U+1F351 ;	emoji ;	351 ;	food, fruit, nature, peach, plant ;	j 	# V6.0 (🍑) peach
-U+1F352 ;	emoji ;	352 ;	cherries, cherry, food, fruit, nature, plant ;	j 	# V6.0 (🍒) cherries
-U+1F353 ;	emoji ;	353 ;	berry, food, fruit, nature, plant, strawberry ;	j 	# V6.0 (🍓) strawberry
-U+1F345 ;	emoji ;	354 ;	food, nature, plant, tomato, vegetable ;	j 	# V6.0 (🍅) tomato
-U+1F346 ;	emoji ;	355 ;	aubergine, eggplant, food, nature, plant, vegetable ;	j 	# V6.0 (🍆) aubergine
-U+1F33D ;	emoji ;	356 ;	corn, ear, maize, maze, nature, plant ;	j 	# V6.0 (🌽) ear of maize
-U+1F336 ;	emoji ;	357 ;	food, hot, nature, pepper, plant ;	w 	# V7.0 (🌶) hot pepper
-U+1F344 ;	emoji ;	358 ;	mushroom, nature, plant ;	j 	# V6.0 (🍄) mushroom
-U+1F330 ;	emoji ;	359 ;	chestnut, nature, plant ;	j 	# V6.0 (🌰) chestnut
-U+1F35E ;	emoji ;	360 ;	bread, food, loaf, restaurant ;	j 	# V6.0 (🍞) bread
-U+1F356 ;	emoji ;	361 ;	bone, food, meat, restaurant ;	j 	# V6.0 (🍖) meat on bone
-U+1F357 ;	emoji ;	362 ;	chicken, food, leg, poultry, restaurant ;	j 	# V6.0 (🍗) poultry leg
-U+1F354 ;	emoji ;	363 ;	burger, food, hamburger, restaurant ;	j 	# V6.0 (🍔) hamburger
-U+1F35F ;	emoji ;	364 ;	food, french, fries, restaurant ;	j 	# V6.0 (🍟) french fries
-U+1F355 ;	emoji ;	365 ;	food, pizza, restaurant, slice ;	j 	# V6.0 (🍕) slice of pizza
-U+1F372 ;	emoji ;	366 ;	food, pot, restaurant, stew ;	j 	# V6.0 (🍲) pot of food
-U+1F371 ;	emoji ;	367 ;	bento, box, food, restaurant ;	j 	# V6.0 (🍱) bento box
-U+1F358 ;	emoji ;	368 ;	cracker, food, restaurant, rice ;	j 	# V6.0 (🍘) rice cracker
-U+1F359 ;	emoji ;	369 ;	ball, food, japanese, restaurant, rice ;	j 	# V6.0 (🍙) rice ball
-U+1F35A ;	emoji ;	370 ;	cooked, food, restaurant, rice ;	j 	# V6.0 (🍚) cooked rice
-U+1F35B ;	emoji ;	371 ;	curry, food, restaurant, rice ;	j 	# V6.0 (🍛) curry and rice
-U+1F35C ;	emoji ;	372 ;	bowl, food, noodle, ramen, restaurant, steaming ;	j 	# V6.0 (🍜) steaming bowl
-U+1F35D ;	emoji ;	373 ;	food, pasta, restaurant, spaghetti ;	j 	# V6.0 (🍝) spaghetti
-U+1F360 ;	emoji ;	374 ;	food, potato, restaurant, roasted, sweet ;	j 	# V6.0 (🍠) roasted sweet potato
-U+1F362 ;	emoji ;	375 ;	food, kebab, oden, restaurant, seafood, skewer, stick ;	j 	# V6.0 (🍢) oden
-U+1F363 ;	emoji ;	376 ;	food, restaurant, sushi ;	j 	# V6.0 (🍣) sushi
-U+1F364 ;	emoji ;	377 ;	food, fried, prawn, restaurant, shrimp ;	j 	# V6.0 (🍤) fried shrimp
-U+1F365 ;	emoji ;	378 ;	cake, fish, food, restaurant, swirl ;	j 	# V6.0 (🍥) fish cake with swirl design
-U+1F361 ;	emoji ;	379 ;	dango, dessert, food, japanese, restaurant, skewer, stick, sweet ;	j 	# V6.0 (🍡) dango
-U+1F366 ;	emoji ;	380 ;	cream, dessert, food, ice, icecream, restaurant, soft, sweet ;	j 	# V6.0 (🍦) soft ice cream
-U+1F367 ;	emoji ;	381 ;	dessert, food, ice, restaurant, shaved, sweet ;	j 	# V6.0 (🍧) shaved ice
-U+1F368 ;	emoji ;	382 ;	cream, dessert, food, ice, restaurant, sweet ;	j 	# V6.0 (🍨) ice cream
-U+1F369 ;	emoji ;	383 ;	dessert, donut, doughnut, food, restaurant, sweet ;	j 	# V6.0 (🍩) doughnut
-U+1F36A ;	emoji ;	384 ;	cookie, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍪) cookie
-U+1F382 ;	emoji ;	385 ;	birthday, cake, celebration, dessert, food, sweet ;	j 	# V6.0 (🎂) birthday cake
-U+1F370 ;	emoji ;	386 ;	cake, dessert, food, restaurant, shortcake, sliced, sweet ;	j 	# V6.0 (🍰) shortcake
-U+1F36B ;	emoji ;	387 ;	bar, chocolate, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍫) chocolate bar
-U+1F36C ;	emoji ;	388 ;	candy, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍬) candy
-U+1F36D ;	emoji ;	389 ;	candy, dessert, food, lollipop, restaurant, sweet ;	j 	# V6.0 (🍭) lollipop
-U+1F36E ;	emoji ;	390 ;	custard, dessert, food, pudding, restaurant, sweet ;	j 	# V6.0 (🍮) custard
-U+1F36F ;	emoji ;	391 ;	food, honey, honeypot, pot, restaurant, sweet ;	j 	# V6.0 (🍯) honey pot
-U+2615 ;	emoji ;	392 ;	beverage, coffee, drink, food, hot, tea ;	j 	# V4.0 (☕) hot beverage
-U+26FE ;	text ;	393 ;	cup, drink, food, square, travel ;	a 	# V5.2 (⛾) cup on black square
-U+1F375 ;	emoji ;	394 ;	cup, drink, food, tea, teacup ;	j 	# V6.0 (🍵) teacup without handle
-U+1F376 ;	emoji ;	395 ;	bar, bottle, cup, drink, food, restaurant, sake ;	j 	# V6.0 (🍶) sake bottle and cup
-U+1F377 ;	emoji ;	396 ;	bar, drink, food, glass, restaurant, wine ;	j 	# V6.0 (🍷) wine glass
-U+1F378 ;	emoji ;	397 ;	bar, cocktail, drink, food, glass, restaurant ;	jw 	# V6.0 (🍸) cocktail glass
-U+1F379 ;	emoji ;	398 ;	bar, drink, food, restaurant, tropical ;	j 	# V6.0 (🍹) tropical drink
-U+1F37A ;	emoji ;	399 ;	bar, beer, drink, food, mug, restaurant ;	j 	# V6.0 (🍺) beer mug
-U+1F37B ;	emoji ;	400 ;	bar, beer, beers, clinking, drink, food, mugs, restaurant ;	j 	# V6.0 (🍻) clinking beer mugs
-U+1F37C ;	emoji ;	401 ;	baby, bottle, drink, food, milk ;	x 	# V6.0 (🍼) baby bottle
-U+1F37D ;	emoji ;	402 ;	food, fork, knife, plate, restaurant ;	w 	# V7.0 (🍽) fork and knife with plate
-U+1F374 ;	emoji ;	403 ;	food, fork, knife, restaurant ;	j 	# V6.0 (🍴) fork and knife
-U+1F373 ;	emoji ;	404 ;	cooking, egg, food, frying, pan, restaurant ;	j 	# V6.0 (🍳) cooking
-U+1F30D ;	emoji ;	405 ;	africa, earth, europe, globe, nature, place ;	w 	# V6.0 (🌍) earth globe europe-africa
-U+1F30E ;	emoji ;	406 ;	americas, earth, globe, nature, place ;	w 	# V6.0 (🌎) earth globe americas
-U+1F30F ;	emoji ;	407 ;	asia, australia, earth, globe, nature, place ;	jw 	# V6.0 (🌏) earth globe asia-australia
-U+1F310 ;	emoji ;	408 ;	globe, meridians, nature, place ;	x 	# V6.0 (🌐) globe with meridians
-U+1F5FA ;	emoji ;	409 ;	map, place, world ;	w 	# V7.0 (🗺) world map
-U+1F3D4 ;	emoji ;	410 ;	cold, mountain, nature, place, snow ;	w 	# V7.0 (🏔) snow capped mountain
-U+26F0 ;	text ;	411 ;	mountain, place ;	a 	# V5.2 (⛰) mountain
-U+1F30B ;	emoji ;	412 ;	eruption, place, volcano, weather ;	j 	# V6.0 (🌋) volcano
-U+1F5FB ;	emoji ;	413 ;	fuji, mountain, place ;	j 	# V6.0 (🗻) mount fuji
-U+1F3D5 ;	emoji ;	414 ;	camping, nature, place ;	w 	# V7.0 (🏕) camping
-U+1F3D6 ;	emoji ;	415 ;	beach, nature, place, umbrella ;	w 	# V7.0 (🏖) beach with umbrella
-U+1F3DC ;	emoji ;	416 ;	desert, nature, place ;	w 	# V7.0 (🏜) desert
-U+1F3DD ;	emoji ;	417 ;	desert, island, nature, place ;	w 	# V7.0 (🏝) desert island
-U+1F3DE ;	emoji ;	418 ;	national park, nature, park, place ;	w 	# V7.0 (🏞) national park
-U+1F3DF ;	emoji ;	419 ;	place, stadium ;	w 	# V7.0 (🏟) stadium
-U+1F3DB ;	emoji ;	420 ;	building, classical, place ;	w 	# V7.0 (🏛) classical building
-U+1F3D7 ;	emoji ;	421 ;	building, construction, place ;	w 	# V7.0 (🏗) building construction
-U+1F3D8 ;	emoji ;	422 ;	building, house, place ;	w 	# V7.0 (🏘) house buildings
-U+1F3D9 ;	emoji ;	423 ;	building, city, place ;	w 	# V7.0 (🏙) cityscape
-U+1F3DA ;	emoji ;	424 ;	building, derelict, house, place ;	w 	# V7.0 (🏚) derelict house building
-U+1F3E0 ;	emoji ;	425 ;	building, house, place ;	jw 	# V6.0 (🏠) house building
-U+1F3E1 ;	emoji ;	426 ;	building, garden, home, house, place ;	j 	# V6.0 (🏡) house with garden
-U+26EA ;	emoji ;	427 ;	building, church, place ;	aj 	# V5.2 (⛪) church
-U+26E9 ;	text ;	428 ;	shinto, shrine ;	a 	# V5.2 (⛩) shinto shrine
+U+1F4AE ;	emoji ;	321 ;	flower, object ;	j 	# V6.0 (💮) white flower
+U+1F3F5 ;	emoji ;	322 ;	nature, rosette ;	w 	# V7.0 (🏵) rosette
+U+1F3F6 ;	emoji ;	323 ;	nature, rosette ;	w 	# V7.0 (🏶) black rosette
+U+1F339 ;	emoji ;	324 ;	flower, nature, plant, rose ;	j 	# V6.0 (🌹) rose
+U+1F33A ;	emoji ;	325 ;	flower, hibiscus, nature, plant ;	j 	# V6.0 (🌺) hibiscus
+U+1F33B ;	emoji ;	326 ;	flower, nature, plant, sun, sunflower, weather ;	j 	# V6.0 (🌻) sunflower
+U+1F33C ;	emoji ;	327 ;	blossom, flower, nature, plant ;	j 	# V6.0 (🌼) blossom
+U+1F337 ;	emoji ;	328 ;	flower, nature, plant, tulip ;	j 	# V6.0 (🌷) tulip
+U+2E19 ;	text ;	329 ;	branch, nature, palm, plant ;	x 	# V5.1 (⸙) palm branch
+U+2618 ;	text ;	330 ;	nature, plant, shamrock ;	x 	# V4.1 (☘) shamrock
+U+1F331 ;	emoji ;	331 ;	nature, plant, seedling, young ;	j 	# V6.0 (🌱) seedling
+U+1F332 ;	emoji ;	332 ;	evergreen, nature, plant, tree ;	x 	# V6.0 (🌲) evergreen tree
+U+1F333 ;	emoji ;	333 ;	deciduous, nature, plant, shedding, tree ;	x 	# V6.0 (🌳) deciduous tree
+U+1F334 ;	emoji ;	334 ;	nature, palm, plant, tree ;	j 	# V6.0 (🌴) palm tree
+U+1F335 ;	emoji ;	335 ;	cactus, nature, plant ;	j 	# V6.0 (🌵) cactus
+U+1F33E ;	emoji ;	336 ;	ear, nature, plant, rice ;	j 	# V6.0 (🌾) ear of rice
+U+1F33F ;	emoji ;	337 ;	herb, leaf, nature, plant ;	j 	# V6.0 (🌿) herb
+U+1F340 ;	emoji ;	338 ;	4, clover, four, leaf, nature, plant ;	j 	# V6.0 (🍀) four leaf clover
+U+1F341 ;	emoji ;	339 ;	fallen, leaf, maple, nature, plant ;	j 	# V6.0 (🍁) maple leaf
+U+1F342 ;	emoji ;	340 ;	fallen, falling, leaf, nature, plant ;	j 	# V6.0 (🍂) fallen leaf
+U+1F343 ;	emoji ;	341 ;	blow, fluttering, leaf, leaves, nature, plant, wind ;	j 	# V6.0 (🍃) leaf fluttering in wind
+U+1F347 ;	emoji ;	342 ;	food, fruit, grapes, nature, plant ;	j 	# V6.0 (🍇) grapes
+U+1F348 ;	emoji ;	343 ;	food, fruit, melon, nature, plant ;	j 	# V6.0 (🍈) melon
+U+1F349 ;	emoji ;	344 ;	food, fruit, nature, plant, watermelon ;	j 	# V6.0 (🍉) watermelon
+U+1F34A ;	emoji ;	345 ;	food, fruit, nature, orange, plant, tangerine ;	j 	# V6.0 (🍊) tangerine
+U+1F34B ;	emoji ;	346 ;	citrus, food, fruit, lemon, nature, plant ;	x 	# V6.0 (🍋) lemon
+U+1F34C ;	emoji ;	347 ;	banana, food, fruit, nature, plant ;	j 	# V6.0 (🍌) banana
+U+1F34D ;	emoji ;	348 ;	food, fruit, nature, pineapple, plant ;	j 	# V6.0 (🍍) pineapple
+U+1F34E ;	emoji ;	349 ;	apple, food, fruit, nature, plant, red ;	j 	# V6.0 (🍎) red apple
+U+1F34F ;	emoji ;	350 ;	apple, food, fruit, green, nature, plant ;	j 	# V6.0 (🍏) green apple
+U+1F350 ;	emoji ;	351 ;	food, fruit, nature, pear, plant ;	x 	# V6.0 (🍐) pear
+U+1F351 ;	emoji ;	352 ;	food, fruit, nature, peach, plant ;	j 	# V6.0 (🍑) peach
+U+1F352 ;	emoji ;	353 ;	cherries, cherry, food, fruit, nature, plant ;	j 	# V6.0 (🍒) cherries
+U+1F353 ;	emoji ;	354 ;	berry, food, fruit, nature, plant, strawberry ;	j 	# V6.0 (🍓) strawberry
+U+1F345 ;	emoji ;	355 ;	food, nature, plant, tomato, vegetable ;	j 	# V6.0 (🍅) tomato
+U+1F346 ;	emoji ;	356 ;	aubergine, eggplant, food, nature, plant, vegetable ;	j 	# V6.0 (🍆) aubergine
+U+1F33D ;	emoji ;	357 ;	corn, ear, maize, maze, nature, plant ;	j 	# V6.0 (🌽) ear of maize
+U+1F336 ;	emoji ;	358 ;	food, hot, nature, pepper, plant ;	w 	# V7.0 (🌶) hot pepper
+U+1F344 ;	emoji ;	359 ;	mushroom, nature, plant ;	j 	# V6.0 (🍄) mushroom
+U+1F330 ;	emoji ;	360 ;	chestnut, nature, plant ;	j 	# V6.0 (🌰) chestnut
+U+1F35E ;	emoji ;	361 ;	bread, food, loaf, restaurant ;	j 	# V6.0 (🍞) bread
+U+1F356 ;	emoji ;	362 ;	bone, food, meat, restaurant ;	j 	# V6.0 (🍖) meat on bone
+U+1F357 ;	emoji ;	363 ;	chicken, food, leg, poultry, restaurant ;	j 	# V6.0 (🍗) poultry leg
+U+1F354 ;	emoji ;	364 ;	burger, food, hamburger, restaurant ;	j 	# V6.0 (🍔) hamburger
+U+1F35F ;	emoji ;	365 ;	food, french, fries, restaurant ;	j 	# V6.0 (🍟) french fries
+U+1F355 ;	emoji ;	366 ;	food, pizza, restaurant, slice ;	j 	# V6.0 (🍕) slice of pizza
+U+1F372 ;	emoji ;	367 ;	food, pot, restaurant, stew ;	j 	# V6.0 (🍲) pot of food
+U+1F371 ;	emoji ;	368 ;	bento, box, food, restaurant ;	j 	# V6.0 (🍱) bento box
+U+1F358 ;	emoji ;	369 ;	cracker, food, restaurant, rice ;	j 	# V6.0 (🍘) rice cracker
+U+1F359 ;	emoji ;	370 ;	ball, food, japanese, restaurant, rice ;	j 	# V6.0 (🍙) rice ball
+U+1F35A ;	emoji ;	371 ;	cooked, food, restaurant, rice ;	j 	# V6.0 (🍚) cooked rice
+U+1F35B ;	emoji ;	372 ;	curry, food, restaurant, rice ;	j 	# V6.0 (🍛) curry and rice
+U+1F35C ;	emoji ;	373 ;	bowl, food, noodle, ramen, restaurant, steaming ;	j 	# V6.0 (🍜) steaming bowl
+U+1F35D ;	emoji ;	374 ;	food, pasta, restaurant, spaghetti ;	j 	# V6.0 (🍝) spaghetti
+U+1F360 ;	emoji ;	375 ;	food, potato, restaurant, roasted, sweet ;	j 	# V6.0 (🍠) roasted sweet potato
+U+1F362 ;	emoji ;	376 ;	food, kebab, oden, restaurant, seafood, skewer, stick ;	j 	# V6.0 (🍢) oden
+U+1F363 ;	emoji ;	377 ;	food, restaurant, sushi ;	j 	# V6.0 (🍣) sushi
+U+1F364 ;	emoji ;	378 ;	food, fried, prawn, restaurant, shrimp ;	j 	# V6.0 (🍤) fried shrimp
+U+1F365 ;	emoji ;	379 ;	cake, fish, food, restaurant, swirl ;	j 	# V6.0 (🍥) fish cake with swirl design
+U+1F361 ;	emoji ;	380 ;	dango, dessert, food, japanese, restaurant, skewer, stick, sweet ;	j 	# V6.0 (🍡) dango
+U+1F366 ;	emoji ;	381 ;	cream, dessert, food, ice, icecream, restaurant, soft, sweet ;	j 	# V6.0 (🍦) soft ice cream
+U+1F367 ;	emoji ;	382 ;	dessert, food, ice, restaurant, shaved, sweet ;	j 	# V6.0 (🍧) shaved ice
+U+1F368 ;	emoji ;	383 ;	cream, dessert, food, ice, restaurant, sweet ;	j 	# V6.0 (🍨) ice cream
+U+1F369 ;	emoji ;	384 ;	dessert, donut, doughnut, food, restaurant, sweet ;	j 	# V6.0 (🍩) doughnut
+U+1F36A ;	emoji ;	385 ;	cookie, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍪) cookie
+U+1F382 ;	emoji ;	386 ;	birthday, cake, celebration, dessert, food, sweet ;	j 	# V6.0 (🎂) birthday cake
+U+1F370 ;	emoji ;	387 ;	cake, dessert, food, restaurant, shortcake, sliced, sweet ;	j 	# V6.0 (🍰) shortcake
+U+1F36B ;	emoji ;	388 ;	bar, chocolate, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍫) chocolate bar
+U+1F36C ;	emoji ;	389 ;	candy, dessert, food, restaurant, sweet ;	j 	# V6.0 (🍬) candy
+U+1F36D ;	emoji ;	390 ;	candy, dessert, food, lollipop, restaurant, sweet ;	j 	# V6.0 (🍭) lollipop
+U+1F36E ;	emoji ;	391 ;	custard, dessert, food, pudding, restaurant, sweet ;	j 	# V6.0 (🍮) custard
+U+1F36F ;	emoji ;	392 ;	food, honey, honeypot, pot, restaurant, sweet ;	j 	# V6.0 (🍯) honey pot
+U+2615 ;	emoji ;	393 ;	beverage, coffee, drink, food, hot, tea ;	j 	# V4.0 (☕) hot beverage
+U+26FE ;	text ;	394 ;	cup, drink, food, square, travel ;	a 	# V5.2 (⛾) cup on black square
+U+1F375 ;	emoji ;	395 ;	cup, drink, food, tea, teacup ;	j 	# V6.0 (🍵) teacup without handle
+U+1F376 ;	emoji ;	396 ;	bar, bottle, cup, drink, food, restaurant, sake ;	j 	# V6.0 (🍶) sake bottle and cup
+U+1F377 ;	emoji ;	397 ;	bar, drink, food, glass, restaurant, wine ;	j 	# V6.0 (🍷) wine glass
+U+1F378 ;	emoji ;	398 ;	bar, cocktail, drink, food, glass, restaurant ;	jw 	# V6.0 (🍸) cocktail glass
+U+1F379 ;	emoji ;	399 ;	bar, drink, food, restaurant, tropical ;	j 	# V6.0 (🍹) tropical drink
+U+1F37A ;	emoji ;	400 ;	bar, beer, drink, food, mug, restaurant ;	j 	# V6.0 (🍺) beer mug
+U+1F37B ;	emoji ;	401 ;	bar, beer, beers, clinking, drink, food, mugs, restaurant ;	j 	# V6.0 (🍻) clinking beer mugs
+U+1F37C ;	emoji ;	402 ;	baby, bottle, drink, food, milk ;	x 	# V6.0 (🍼) baby bottle
+U+1F37D ;	emoji ;	403 ;	food, fork, knife, plate, restaurant ;	w 	# V7.0 (🍽) fork and knife with plate
+U+1F374 ;	emoji ;	404 ;	food, fork, knife, restaurant ;	j 	# V6.0 (🍴) fork and knife
+U+1F373 ;	emoji ;	405 ;	cooking, egg, food, frying, pan, restaurant ;	j 	# V6.0 (🍳) cooking
+U+1F30D ;	emoji ;	406 ;	africa, earth, europe, globe, nature, place ;	w 	# V6.0 (🌍) earth globe europe-africa
+U+1F30E ;	emoji ;	407 ;	americas, earth, globe, nature, place ;	w 	# V6.0 (🌎) earth globe americas
+U+1F30F ;	emoji ;	408 ;	asia, australia, earth, globe, nature, place ;	jw 	# V6.0 (🌏) earth globe asia-australia
+U+1F310 ;	emoji ;	409 ;	globe, meridians, nature, place ;	x 	# V6.0 (🌐) globe with meridians
+U+1F5FA ;	emoji ;	410 ;	map, place, world ;	w 	# V7.0 (🗺) world map
+U+1F3D4 ;	emoji ;	411 ;	cold, mountain, nature, place, snow ;	w 	# V7.0 (🏔) snow capped mountain
+U+26F0 ;	text ;	412 ;	mountain, place ;	a 	# V5.2 (⛰) mountain
+U+1F30B ;	emoji ;	413 ;	eruption, place, volcano, weather ;	j 	# V6.0 (🌋) volcano
+U+1F5FB ;	emoji ;	414 ;	fuji, mountain, place ;	j 	# V6.0 (🗻) mount fuji
+U+1F3D5 ;	emoji ;	415 ;	camping, nature, place ;	w 	# V7.0 (🏕) camping
+U+1F3D6 ;	emoji ;	416 ;	beach, nature, place, umbrella ;	w 	# V7.0 (🏖) beach with umbrella
+U+1F3DC ;	emoji ;	417 ;	desert, nature, place ;	w 	# V7.0 (🏜) desert
+U+1F3DD ;	emoji ;	418 ;	desert, island, nature, place ;	w 	# V7.0 (🏝) desert island
+U+1F3DE ;	emoji ;	419 ;	national park, nature, park, place ;	w 	# V7.0 (🏞) national park
+U+1F3DF ;	emoji ;	420 ;	place, stadium ;	w 	# V7.0 (🏟) stadium
+U+1F3DB ;	emoji ;	421 ;	building, classical, place ;	w 	# V7.0 (🏛) classical building
+U+1F3D7 ;	emoji ;	422 ;	building, construction, place ;	w 	# V7.0 (🏗) building construction
+U+1F3D8 ;	emoji ;	423 ;	building, house, place ;	w 	# V7.0 (🏘) house buildings
+U+1F3D9 ;	emoji ;	424 ;	building, city, place ;	w 	# V7.0 (🏙) cityscape
+U+1F3DA ;	emoji ;	425 ;	building, derelict, house, place ;	w 	# V7.0 (🏚) derelict house building
+U+1F3E0 ;	emoji ;	426 ;	building, house, place ;	jw 	# V6.0 (🏠) house building
+U+1F3E1 ;	emoji ;	427 ;	building, garden, home, house, place ;	j 	# V6.0 (🏡) house with garden
+U+26EA ;	emoji ;	428 ;	building, christian, church, cross, place, religion ;	aj 	# V5.2 (⛪) church
 U+1F3E2 ;	emoji ;	429 ;	building, office, place ;	j 	# V6.0 (🏢) office building
 U+1F3E3 ;	emoji ;	430 ;	building, japanese, office, place, post ;	j 	# V6.0 (🏣) japanese post office
 U+1F3E4 ;	emoji ;	431 ;	building, european, office, place, post ;	x 	# V6.0 (🏤) european post office
@@ -598,23 +598,23 @@ U+23F2 ;	text ;	590 ;	clock, time, timer ;	x 	# V6.0 (⏲) timer clock
 U+1F570 ;	emoji ;	591 ;	clock, object ;	w 	# V7.0 (🕰) mantelpiece clock
 U+1F55B ;	emoji ;	592 ;	00, 12, 12:00, clock, face, o’clock, time, twelve ;	jw 	# V6.0 (🕛) clock face twelve oclock
 U+1F567 ;	emoji ;	593 ;	12, 30, 12:30, clock, face, thirty, time, twelve ;	w 	# V6.0 (🕧) clock face twelve-thirty
-U+1F550 ;	emoji ;	594 ;	00, 1, 1:00, clock, face, o’clock, one, time ;	jw 	# V6.0 (🕐) clock face one oclock
+U+1F550 ;	emoji ;	594 ;	1, 00, 1:00, clock, face, o’clock, one, time ;	jw 	# V6.0 (🕐) clock face one oclock
 U+1F55C ;	emoji ;	595 ;	1, 30, 1:30, clock, face, one, thirty, time ;	w 	# V6.0 (🕜) clock face one-thirty
-U+1F551 ;	emoji ;	596 ;	00, 2, 2:00, clock, face, o’clock, time, two ;	jw 	# V6.0 (🕑) clock face two oclock
+U+1F551 ;	emoji ;	596 ;	2, 00, 2:00, clock, face, o’clock, time, two ;	jw 	# V6.0 (🕑) clock face two oclock
 U+1F55D ;	emoji ;	597 ;	2, 30, 2:30, clock, face, thirty, time, two ;	w 	# V6.0 (🕝) clock face two-thirty
-U+1F552 ;	emoji ;	598 ;	00, 3, 3:00, clock, face, o’clock, three, time ;	jw 	# V6.0 (🕒) clock face three oclock
+U+1F552 ;	emoji ;	598 ;	3, 00, 3:00, clock, face, o’clock, three, time ;	jw 	# V6.0 (🕒) clock face three oclock
 U+1F55E ;	emoji ;	599 ;	3, 30, 3:30, clock, face, thirty, three, time ;	w 	# V6.0 (🕞) clock face three-thirty
-U+1F553 ;	emoji ;	600 ;	00, 4, 4:00, clock, face, four, o’clock, time ;	jw 	# V6.0 (🕓) clock face four oclock
+U+1F553 ;	emoji ;	600 ;	4, 00, 4:00, clock, face, four, o’clock, time ;	jw 	# V6.0 (🕓) clock face four oclock
 U+1F55F ;	emoji ;	601 ;	4, 30, 4:30, clock, face, four, thirty, time ;	w 	# V6.0 (🕟) clock face four-thirty
-U+1F554 ;	emoji ;	602 ;	00, 5, 5:00, clock, face, five, o’clock, time ;	jw 	# V6.0 (🕔) clock face five oclock
+U+1F554 ;	emoji ;	602 ;	5, 00, 5:00, clock, face, five, o’clock, time ;	jw 	# V6.0 (🕔) clock face five oclock
 U+1F560 ;	emoji ;	603 ;	5, 30, 5:30, clock, face, five, thirty, time ;	w 	# V6.0 (🕠) clock face five-thirty
-U+1F555 ;	emoji ;	604 ;	00, 6, 6:00, clock, face, o’clock, six, time ;	jw 	# V6.0 (🕕) clock face six oclock
+U+1F555 ;	emoji ;	604 ;	6, 00, 6:00, clock, face, o’clock, six, time ;	jw 	# V6.0 (🕕) clock face six oclock
 U+1F561 ;	emoji ;	605 ;	6, 30, 6:30, clock, face, six, thirty, time ;	w 	# V6.0 (🕡) clock face six-thirty
-U+1F556 ;	emoji ;	606 ;	00, 7, 7:00, clock, face, o’clock, seven, time ;	jw 	# V6.0 (🕖) clock face seven oclock
+U+1F556 ;	emoji ;	606 ;	7, 00, 7:00, clock, face, o’clock, seven, time ;	jw 	# V6.0 (🕖) clock face seven oclock
 U+1F562 ;	emoji ;	607 ;	7, 30, 7:30, clock, face, seven, thirty, time ;	w 	# V6.0 (🕢) clock face seven-thirty
-U+1F557 ;	emoji ;	608 ;	00, 8, 8:00, clock, eight, face, o’clock, time ;	jw 	# V6.0 (🕗) clock face eight oclock
+U+1F557 ;	emoji ;	608 ;	8, 00, 8:00, clock, eight, face, o’clock, time ;	jw 	# V6.0 (🕗) clock face eight oclock
 U+1F563 ;	emoji ;	609 ;	8, 30, 8:30, clock, eight, face, thirty, time ;	w 	# V6.0 (🕣) clock face eight-thirty
-U+1F558 ;	emoji ;	610 ;	00, 9, 9:00, clock, face, nine, o’clock, time ;	jw 	# V6.0 (🕘) clock face nine oclock
+U+1F558 ;	emoji ;	610 ;	9, 00, 9:00, clock, face, nine, o’clock, time ;	jw 	# V6.0 (🕘) clock face nine oclock
 U+1F564 ;	emoji ;	611 ;	9, 30, 9:30, clock, face, nine, thirty, time ;	w 	# V6.0 (🕤) clock face nine-thirty
 U+1F559 ;	emoji ;	612 ;	00, 10, 10:00, clock, face, o’clock, ten, time ;	jw 	# V6.0 (🕙) clock face ten oclock
 U+1F565 ;	emoji ;	613 ;	10, 30, 10:30, clock, face, ten, thirty, time ;	w 	# V6.0 (🕥) clock face ten-thirty
@@ -788,649 +788,665 @@ U+260E ;	text ;	780 ;	office, phone, sound, telephone ;	zaj 	# V1.1 (☎) black 
 U+1F4DE ;	emoji ;	781 ;	communication, phone, receiver, sound, telephone ;	j 	# V6.0 (📞) telephone receiver
 U+260F ;	text ;	782 ;	office, sound, telephone ;	x 	# V1.1 (☏) white telephone
 U+2706 ;	text ;	783 ;	office, telephone ;	zw 	# V1.1 (✆) telephone location sign
-U+0023 U+20E3 ;	text ;	784 ;	hash, keycap, pound, word ;	j 	# V3.0 (#⃣) keycap number sign
-U+002A U+20E3 ;	text ;	785 ;	asterisk, keycap, star ;	x 	# V3.0 (*⃣) keycap asterisk
-U+0030 U+20E3 ;	text ;	786 ;	0, keycap, word, zero ;	j 	# V3.0 (0⃣) keycap digit zero
-U+0031 U+20E3 ;	text ;	787 ;	1, keycap, one, word ;	j 	# V3.0 (1⃣) keycap digit one
-U+0032 U+20E3 ;	text ;	788 ;	2, keycap, two, word ;	j 	# V3.0 (2⃣) keycap digit two
-U+0033 U+20E3 ;	text ;	789 ;	3, keycap, three, word ;	j 	# V3.0 (3⃣) keycap digit three
-U+0034 U+20E3 ;	text ;	790 ;	4, four, keycap, word ;	j 	# V3.0 (4⃣) keycap digit four
-U+0035 U+20E3 ;	text ;	791 ;	5, five, keycap, word ;	j 	# V3.0 (5⃣) keycap digit five
-U+0036 U+20E3 ;	text ;	792 ;	6, keycap, six, word ;	j 	# V3.0 (6⃣) keycap digit six
-U+0037 U+20E3 ;	text ;	793 ;	7, keycap, seven, word ;	j 	# V3.0 (7⃣) keycap digit seven
-U+0038 U+20E3 ;	text ;	794 ;	8, eight, keycap, word ;	j 	# V3.0 (8⃣) keycap digit eight
-U+0039 U+20E3 ;	text ;	795 ;	9, keycap, nine, word ;	j 	# V3.0 (9⃣) keycap digit nine
-U+1F51F ;	emoji ;	796 ;	10, keycap, ten, word ;	j 	# V6.0 (🔟) keycap ten
-U+1F4F6 ;	emoji ;	797 ;	antenna, bars, communication, mobile, object, phone, signal ;	j 	# V6.0 (📶) antenna with bars
-U+1F4DF ;	emoji ;	798 ;	communication, office, pager ;	jw 	# V6.0 (📟) pager
-U+1F4E0 ;	emoji ;	799 ;	communication, fax, office ;	j 	# V6.0 (📠) fax machine
-U+1F3A5 ;	emoji ;	800 ;	activity, camera, cinema, entertainment, movie, object ;	j 	# V6.0 (🎥) movie camera
-U+1F3A6 ;	emoji ;	801 ;	activity, camera, cinema, entertainment, film, movie, object ;	j 	# V6.0 (🎦) cinema
-U+1F3AC ;	emoji ;	802 ;	activity, clapper, entertainment, movie, object ;	jw 	# V6.0 (🎬) clapper board
-U+1F4FD ;	emoji ;	803 ;	cinema, film, movie, object, projector, video ;	w 	# V7.0 (📽) film projector
-U+1F4FA ;	emoji ;	804 ;	object, television, tv, video ;	jw 	# V6.0 (📺) television
-U+1F4F7 ;	emoji ;	805 ;	camera, object, video ;	jw 	# V6.0 (📷) camera
-U+1F4F8 ;	emoji ;	806 ;	camera, flash, object, video ;	x 	# V7.0 (📸) camera with flash
-U+1F4F9 ;	emoji ;	807 ;	camera, object, video ;	jw 	# V6.0 (📹) video camera
-U+1F4FC ;	emoji ;	808 ;	object, tape, vhs, video, videocassette ;	j 	# V6.0 (📼) videocassette
-U+1F505 ;	emoji ;	809 ;	brightness, dim, low, sign ;	x 	# V6.0 (🔅) low brightness symbol
-U+1F506 ;	emoji ;	810 ;	bright, brightness, sign ;	x 	# V6.0 (🔆) high brightness symbol
-U+1F50D ;	emoji ;	811 ;	glass, magnifying, object, search ;	jw 	# V6.0 (🔍) left-pointing magnifying glass
-U+1F50E ;	emoji ;	812 ;	glass, magnifying, object, search ;	j 	# V6.0 (🔎) right-pointing magnifying glass
-U+1F52C ;	emoji ;	813 ;	microscope, object, tool ;	x 	# V6.0 (🔬) microscope
-U+1F52D ;	emoji ;	814 ;	object, telescope, tool ;	x 	# V6.0 (🔭) telescope
-U+1F525 ;	emoji ;	815 ;	fire, flame, object, tool ;	j 	# V6.0 (🔥) fire
-U+1F56F ;	emoji ;	816 ;	candle, object ;	w 	# V7.0 (🕯) candle
-U+1F4A1 ;	emoji ;	817 ;	bulb, comic, electric, idea, light, object ;	j 	# V6.0 (💡) electric light bulb
-U+1F526 ;	emoji ;	818 ;	electric, flashlight, light, object, tool, torch ;	j 	# V6.0 (🔦) electric torch
-U+1F3EE ;	emoji ;	819 ;	bar, japanese, lantern, place, red, restaurant ;	j 	# V6.0 (🏮) izakaya lantern
-U+1F383 ;	emoji ;	820 ;	activity, celebration, halloween, jack, lantern, object ;	j 	# V6.0 (🎃) jack-o-lantern
-U+1F384 ;	emoji ;	821 ;	activity, celebration, christmas, object, tree ;	j 	# V6.0 (🎄) christmas tree
-U+1F386 ;	emoji ;	822 ;	activity, celebration, firework, fireworks, object ;	j 	# V6.0 (🎆) fireworks
-U+1F387 ;	emoji ;	823 ;	activity, celebration, firework, object, sparkle, sparkler ;	j 	# V6.0 (🎇) firework sparkler
-U+2728 ;	emoji ;	824 ;	sign, sparkle, sparkler, sparkles, star ;	j 	# V6.0 (✨) sparkles
-U+1F388 ;	emoji ;	825 ;	activity, balloon, celebration, object ;	j 	# V6.0 (🎈) balloon
-U+1F389 ;	emoji ;	826 ;	activity, celebration, object, party, popper, tada ;	j 	# V6.0 (🎉) party popper
-U+1F38A ;	emoji ;	827 ;	activity, ball, celebration, confetti, object ;	j 	# V6.0 (🎊) confetti ball
-U+1F38B ;	emoji ;	828 ;	activity, banner, celebration, japanese, object, tree ;	j 	# V6.0 (🎋) tanabata tree
-U+1F38C ;	emoji ;	829 ;	activity, celebration, cross, crossed, flag, japanese ;	j 	# V6.0 (🎌) crossed flags
-U+1F38D ;	emoji ;	830 ;	activity, bamboo, celebration, japanese, object, pine, plant ;	j 	# V6.0 (🎍) pine decoration
-U+1F38E ;	emoji ;	831 ;	activity, celebration, doll, dolls, festival, japanese ;	j 	# V6.0 (🎎) japanese dolls
-U+1F38F ;	emoji ;	832 ;	activity, carp, celebration, flags, object, streamer ;	j 	# V6.0 (🎏) carp streamer
-U+1F390 ;	emoji ;	833 ;	activity, celebration, chime, object, wind ;	j 	# V6.0 (🎐) wind chime
-U+1F391 ;	emoji ;	834 ;	activity, celebration, ceremony, moon, object ;	j 	# V6.0 (🎑) moon viewing ceremony
-U+1F393 ;	emoji ;	835 ;	activity, cap, celebration, graduation, object ;	jw 	# V6.0 (🎓) graduation cap
-U+1F3A8 ;	emoji ;	836 ;	activity, art, artist, entertainment, object, paint, palette ;	j 	# V6.0 (🎨) artist palette
-U+1F3AF ;	emoji ;	837 ;	activity, bull’s eye, dart, eye, game, hit, object, target ;	j 	# V6.0 (🎯) direct hit
-U+1F3B4 ;	emoji ;	838 ;	activity, card, flower, game, japanese, object, playing ;	j 	# V6.0 (🎴) flower playing cards
-U+1F380 ;	emoji ;	839 ;	celebration, object, ribbon ;	j 	# V6.0 (🎀) ribbon
-U+1F381 ;	emoji ;	840 ;	celebration, gift, object, present, wrapped ;	j 	# V6.0 (🎁) wrapped present
-U+1F396 ;	emoji ;	841 ;	celebration, medal, military, object ;	w 	# V7.0 (🎖) military medal
-U+1F397 ;	emoji ;	842 ;	celebration, object, reminder, ribbon ;	w 	# V7.0 (🎗) reminder ribbon
-U+1F39E ;	emoji ;	843 ;	cinema, entertainment, film, frames, movie, object ;	w 	# V7.0 (🎞) film frames
-U+1F39F ;	emoji ;	844 ;	admission, entertainment, object, ticket ;	w 	# V7.0 (🎟) admission tickets
-U+1F3F7 ;	emoji ;	845 ;	label, object ;	w 	# V7.0 (🏷) label
-U+1F4D4 ;	emoji ;	846 ;	book, cover, decorated, notebook, office ;	j 	# V6.0 (📔) notebook with decorative cover
-U+1F4D5 ;	emoji ;	847 ;	book, closed, office ;	j 	# V6.0 (📕) closed book
-U+1F4D6 ;	emoji ;	848 ;	book, office, open ;	j 	# V6.0 (📖) open book
-U+1F4D7 ;	emoji ;	849 ;	book, green, office ;	j 	# V6.0 (📗) green book
-U+1F4D8 ;	emoji ;	850 ;	blue, book, office ;	j 	# V6.0 (📘) blue book
-U+1F4D9 ;	emoji ;	851 ;	book, office, orange ;	j 	# V6.0 (📙) orange book
-U+1F4DA ;	emoji ;	852 ;	book, books, office ;	jw 	# V6.0 (📚) books
-U+1F56E ;	emoji ;	853 ;	book, object ;	w 	# V7.0 (🕮) book
-U+1F4D3 ;	emoji ;	854 ;	notebook, office ;	j 	# V6.0 (📓) notebook
-U+1F4D2 ;	emoji ;	855 ;	ledger, notebook, office ;	j 	# V6.0 (📒) ledger
-U+1F4C3 ;	emoji ;	856 ;	curl, document, office, page ;	j 	# V6.0 (📃) page with curl
-U+1F4DC ;	emoji ;	857 ;	office, paper, scroll ;	j 	# V6.0 (📜) scroll
-U+1F5B9 ;	emoji ;	858 ;	document, office, text ;	w 	# V7.0 (🖹) document with text
-U+1F5BA ;	emoji ;	859 ;	document, office, picture, text ;	w 	# V7.0 (🖺) document with text and picture
-U+1F5BB ;	emoji ;	860 ;	document, object, office, picture ;	w 	# V7.0 (🖻) document with picture
-U+1F4C4 ;	emoji ;	861 ;	document, office, page ;	j 	# V6.0 (📄) page facing up
-U+1F5C5 ;	emoji ;	862 ;	empty, note, office ;	w 	# V7.0 (🗅) empty note
-U+1F5C6 ;	emoji ;	863 ;	empty, note, office, page, paper ;	w 	# V7.0 (🗆) empty note page
-U+1F5C7 ;	emoji ;	864 ;	empty, note, office, pad ;	w 	# V7.0 (🗇) empty note pad
-U+1F5C8 ;	emoji ;	865 ;	note, office ;	w 	# V7.0 (🗈) note
-U+1F5C9 ;	emoji ;	866 ;	note, office, page, paper ;	w 	# V7.0 (🗉) note page
-U+1F5CA ;	emoji ;	867 ;	note, office, pad ;	w 	# V7.0 (🗊) note pad
-U+1F5CB ;	emoji ;	868 ;	document, empty, office ;	w 	# V7.0 (🗋) empty document
-U+1F5CC ;	emoji ;	869 ;	empty, office, page, paper ;	w 	# V7.0 (🗌) empty page
-U+1F5CD ;	emoji ;	870 ;	empty, office, page ;	w 	# V7.0 (🗍) empty pages
-U+1F5CE ;	emoji ;	871 ;	document, office ;	w 	# V7.0 (🗎) document
-U+1F5CF ;	emoji ;	872 ;	office, page, paper ;	w 	# V7.0 (🗏) page
-U+1F5D0 ;	emoji ;	873 ;	office, page ;	w 	# V7.0 (🗐) pages
-U+1F4F0 ;	emoji ;	874 ;	communication, news, newspaper, object, paper ;	j 	# V6.0 (📰) newspaper
-U+1F5DE ;	emoji ;	875 ;	news, newspaper, object, paper, rolled ;	w 	# V7.0 (🗞) rolled-up newspaper
-U+1F5DF ;	emoji ;	876 ;	circle, object, page, paper, text ;	w 	# V7.0 (🗟) page with circled text
-U+1F4D1 ;	emoji ;	877 ;	bookmark, mark, marker, office, tabs ;	j 	# V6.0 (📑) bookmark tabs
-U+1F516 ;	emoji ;	878 ;	bookmark, mark, object ;	j 	# V6.0 (🔖) bookmark
-U+1F5BC ;	emoji ;	879 ;	frame, object, office, picture ;	w 	# V7.0 (🖼) frame with picture
-U+1F5BD ;	emoji ;	880 ;	frame, object, office, tiled ;	w 	# V7.0 (🖽) frame with tiles
-U+1F5BE ;	emoji ;	881 ;	frame, object, office ;	w 	# V7.0 (🖾) frame with an x
-U+1F4B0 ;	emoji ;	882 ;	bag, dollar, money, moneybag, office ;	jw 	# V6.0 (💰) money bag
-U+1F4B4 ;	emoji ;	883 ;	bank, banknote, bill, money, note, office, yen ;	j 	# V6.0 (💴) banknote with yen sign
-U+1F4B5 ;	emoji ;	884 ;	bank, banknote, bill, dollar, money, note, office ;	j 	# V6.0 (💵) banknote with dollar sign
-U+1F4B6 ;	emoji ;	885 ;	bank, banknote, bill, euro, money, note, office ;	x 	# V6.0 (💶) banknote with euro sign
-U+1F4B7 ;	emoji ;	886 ;	bank, banknote, bill, money, note, office, pound ;	x 	# V6.0 (💷) banknote with pound sign
-U+1F4B8 ;	emoji ;	887 ;	bank, banknote, bill, dollar, flying, money, note, office, wings ;	j 	# V6.0 (💸) money with wings
-U+1F4B1 ;	emoji ;	888 ;	currency, exchange, money, office ;	j 	# V6.0 (💱) currency exchange
-U+1F4B2 ;	emoji ;	889 ;	dollar, money, office ;	j 	# V6.0 (💲) heavy dollar sign
-U+1F4B3 ;	emoji ;	890 ;	card, credit, office ;	jw 	# V6.0 (💳) credit card
-U+1F4B9 ;	emoji ;	891 ;	chart, graph, market, office, rising, trend, upward, yen ;	j 	# V6.0 (💹) chart with upwards trend and yen sign
-U+2709 ;	text ;	892 ;	email, envelope, office ;	zj 	# V1.1 (✉) envelope
-U+1F582 ;	emoji ;	893 ;	back, communication, envelope, office ;	w 	# V7.0 (🖂) back of envelope
-U+1F583 ;	emoji ;	894 ;	communication, envelope, office, stamped ;	w 	# V7.0 (🖃) stamped envelope
-U+1F585 ;	emoji ;	895 ;	communication, envelope, flying, office ;	w 	# V7.0 (🖅) flying envelope
-U+1F586 ;	emoji ;	896 ;	communication, envelope, office, pen, stamped ;	w 	# V7.0 (🖆) pen over stamped envelope
-U+1F4E7 ;	emoji ;	897 ;	communication, e-mail, email, letter, mail, office ;	j 	# V6.0 (📧) e-mail symbol
-U+1F4E8 ;	emoji ;	898 ;	communication, email, envelope, incoming, letter, mail, office, receive ;	j 	# V6.0 (📨) incoming envelope
-U+1F4E9 ;	emoji ;	899 ;	above, arrow, communication, down, email, envelope, letter, mail, office, outgoing, sent ;	j 	# V6.0 (📩) envelope with downwards arrow above
-U+1F584 ;	emoji ;	900 ;	communication, email, envelope, letter, lightning, mail, office ;	w 	# V7.0 (🖄) envelope with lightning
-U+1F4E4 ;	emoji ;	901 ;	box, communication, letter, mail, office, outbox, sent, tray ;	jw 	# V6.0 (📤) outbox tray
-U+1F4E5 ;	emoji ;	902 ;	box, communication, inbox, letter, mail, office, receive, tray ;	jw 	# V6.0 (📥) inbox tray
-U+1F4E6 ;	emoji ;	903 ;	box, communication, office, package, parcel ;	jw 	# V6.0 (📦) package
-U+1F4EB ;	emoji ;	904 ;	closed, communication, flag, mail, mailbox, office, postbox ;	jw 	# V6.0 (📫) closed mailbox with raised flag
-U+1F4EA ;	emoji ;	905 ;	closed, communication, flag, lowered, mail, mailbox, office, postbox ;	jw 	# V6.0 (📪) closed mailbox with lowered flag
-U+1F4EC ;	emoji ;	906 ;	communication, flag, mail, mailbox, office, open, postbox ;	w 	# V6.0 (📬) open mailbox with raised flag
-U+1F4ED ;	emoji ;	907 ;	communication, flag, lowered, mail, mailbox, office, open, postbox ;	w 	# V6.0 (📭) open mailbox with lowered flag
-U+1F4EE ;	emoji ;	908 ;	communication, mail, mailbox, office, postbox ;	j 	# V6.0 (📮) postbox
-U+270E ;	text ;	909 ;	office, pencil ;	z 	# V1.1 (✎) lower right pencil
-U+270F ;	text ;	910 ;	office, pencil ;	zj 	# V1.1 (✏) pencil
-U+2710 ;	text ;	911 ;	office, pencil ;	z 	# V1.1 (✐) upper right pencil
-U+1F589 ;	emoji ;	912 ;	communication, office, pencil ;	w 	# V7.0 (🖉) lower left pencil
-U+2711 ;	text ;	913 ;	nib, office ;	z 	# V1.1 (✑) white nib
-U+2712 ;	text ;	914 ;	nib, office ;	zj 	# V1.1 (✒) black nib
-U+1F58B ;	emoji ;	915 ;	communication, fountain, office, pen ;	w 	# V7.0 (🖋) lower left fountain pen
-U+1F58A ;	emoji ;	916 ;	ballpoint, communication, office, pen ;	w 	# V7.0 (🖊) lower left ballpoint pen
-U+1F58C ;	emoji ;	917 ;	communication, office, paintbrush ;	w 	# V7.0 (🖌) lower left paintbrush
-U+1F58D ;	emoji ;	918 ;	communication, crayon, office ;	w 	# V7.0 (🖍) lower left crayon
-U+1F4DD ;	emoji ;	919 ;	communication, memo, office, pencil ;	j 	# V6.0 (📝) memo
-U+1F4BB ;	emoji ;	920 ;	computer, office, pc, personal ;	jw 	# V6.0 (💻) personal computer
-U+1F5A5 ;	emoji ;	921 ;	computer, desktop, office ;	w 	# V7.0 (🖥) desktop computer
-U+1F5A6 ;	emoji ;	922 ;	computer, keyboard, mouse, office ;	w 	# V7.0 (🖦) keyboard and mouse
-U+1F5A7 ;	emoji ;	923 ;	3, computer, networked, office, three ;	w 	# V7.0 (🖧) three networked computers
-U+1F5A8 ;	emoji ;	924 ;	computer, office, printer ;	w 	# V7.0 (🖨) printer
-U+1F5A9 ;	emoji ;	925 ;	calculator, computer, office, pocket ;	w 	# V7.0 (🖩) pocket calculator
-U+1F5AE ;	emoji ;	926 ;	computer, keyboard, office ;	w 	# V7.0 (🖮) wired keyboard
-U+2328 ;	text ;	927 ;	computer, keyboard, sign ;	x 	# V1.1 (⌨) keyboard
-U+1F5AF ;	emoji ;	928 ;	1, button, computer, mouse, office, one ;	w 	# V7.0 (🖯) one button mouse
-U+1F5B0 ;	emoji ;	929 ;	2, button, computer, mouse, office, two ;	w 	# V7.0 (🖰) two button mouse
-U+1F5B1 ;	emoji ;	930 ;	3, button, computer, mouse, office, three ;	w 	# V7.0 (🖱) three button mouse
-U+1F5B2 ;	emoji ;	931 ;	computer, office, trackball ;	w 	# V7.0 (🖲) trackball
-U+1F5B3 ;	emoji ;	932 ;	computer, office, personal ;	w 	# V7.0 (🖳) old personal computer
-U+1F5B4 ;	emoji ;	933 ;	computer, disk, hard, office ;	w 	# V7.0 (🖴) hard disk
-U+1F5B5 ;	emoji ;	934 ;	computer, office, screen ;	w 	# V7.0 (🖵) screen
-U+1F5B6 ;	emoji ;	935 ;	computer, office, printer ;	w 	# V7.0 (🖶) printer icon
-U+1F5B7 ;	emoji ;	936 ;	computer, fax, office ;	w 	# V7.0 (🖷) fax icon
-U+1F5B8 ;	emoji ;	937 ;	computer, disc, office, optical ;	w 	# V7.0 (🖸) optical disc icon
-U+1F4BD ;	emoji ;	938 ;	computer, disc, minidisc, office ;	j 	# V6.0 (💽) minidisc
-U+1F4BE ;	emoji ;	939 ;	computer, disc, disk, floppy, office ;	j 	# V6.0 (💾) floppy disk
-U+1F4BF ;	emoji ;	940 ;	blu-ray, cd, computer, disc, dvd, office, optical ;	jw 	# V6.0 (💿) optical disc
-U+1F4C0 ;	emoji ;	941 ;	computer, disc, dvd, office ;	j 	# V6.0 (📀) dvd
-U+1F5D4 ;	emoji ;	942 ;	computer, desktop, office, window ;	w 	# V7.0 (🗔) desktop window
-U+1F5D5 ;	emoji ;	943 ;	computer, minimize, office ;	w 	# V7.0 (🗕) minimize
-U+1F5D6 ;	emoji ;	944 ;	computer, maximize, office ;	w 	# V7.0 (🗖) maximize
-U+1F5D7 ;	emoji ;	945 ;	computer, office, overlap ;	w 	# V7.0 (🗗) overlap
-U+1F4BC ;	emoji ;	946 ;	briefcase, office ;	j 	# V6.0 (💼) briefcase
-U+1F4C1 ;	emoji ;	947 ;	file, folder, office ;	j 	# V6.0 (📁) file folder
-U+1F4C2 ;	emoji ;	948 ;	file, folder, office, open ;	j 	# V6.0 (📂) open file folder
-U+1F5BF ;	emoji ;	949 ;	folder, office ;	w 	# V7.0 (🖿) black folder
-U+1F5C0 ;	emoji ;	950 ;	folder, office ;	w 	# V7.0 (🗀) folder
-U+1F5C1 ;	emoji ;	951 ;	folder, office, open ;	w 	# V7.0 (🗁) open folder
-U+1F5C2 ;	emoji ;	952 ;	card, dividers, index, office ;	w 	# V7.0 (🗂) card index dividers
-U+1F4C5 ;	emoji ;	953 ;	calendar, date, office ;	j 	# V6.0 (📅) calendar
-U+1F4C6 ;	emoji ;	954 ;	calendar, office ;	j 	# V6.0 (📆) tear-off calendar
-U+1F5D2 ;	emoji ;	955 ;	note, office, pad, spiral ;	w 	# V7.0 (🗒) spiral note pad
-U+1F5D3 ;	emoji ;	956 ;	calendar, office, pad, spiral ;	w 	# V7.0 (🗓) spiral calendar pad
-U+1F4C7 ;	emoji ;	957 ;	card, index, office, rolodex ;	j 	# V6.0 (📇) card index
-U+1F4C8 ;	emoji ;	958 ;	chart, graph, office, trend, upward ;	j 	# V6.0 (📈) chart with upwards trend
-U+1F4C9 ;	emoji ;	959 ;	chart, down, graph, office, trend ;	j 	# V6.0 (📉) chart with downwards trend
-U+1F5E0 ;	emoji ;	960 ;	chart, graph, object, stock ;	w 	# V7.0 (🗠) stock chart
-U+1F4CA ;	emoji ;	961 ;	bar, chart, graph, office ;	j 	# V6.0 (📊) bar chart
-U+1F4CB ;	emoji ;	962 ;	clipboard, office ;	jw 	# V6.0 (📋) clipboard
-U+1F4CC ;	emoji ;	963 ;	office, pin, pushpin ;	j 	# V6.0 (📌) pushpin
-U+1F588 ;	emoji ;	964 ;	communication, office, pushpin ;	w 	# V7.0 (🖈) black pushpin
-U+1F4CD ;	emoji ;	965 ;	office, pin, place, pushpin ;	j 	# V6.0 (📍) round pushpin
-U+1F4CE ;	emoji ;	966 ;	office, paperclip ;	j 	# V6.0 (📎) paperclip
-U+1F587 ;	emoji ;	967 ;	communication, links, office, paperclip ;	w 	# V7.0 (🖇) linked paperclips
-U+1F4CF ;	emoji ;	968 ;	office, ruler, straight edge ;	j 	# V6.0 (📏) straight ruler
-U+1F4D0 ;	emoji ;	969 ;	office, ruler, set, triangle ;	j 	# V6.0 (📐) triangular ruler
-U+1F4DB ;	emoji ;	970 ;	badge, name, office ;	j 	# V6.0 (📛) name badge
-U+2700 ;	text ;	971 ;	object, office, scissors, tool ;	w 	# V7.0 (✀) black safety scissors
-U+2701 ;	text ;	972 ;	office, scissors, tool ;	zw 	# V1.1 (✁) upper blade scissors
-U+2702 ;	text ;	973 ;	office, scissors, tool ;	zjw 	# V1.1 (✂) black scissors
-U+2703 ;	text ;	974 ;	office, scissors, tool ;	z 	# V1.1 (✃) lower blade scissors
-U+2704 ;	text ;	975 ;	office, scissors, tool ;	zw 	# V1.1 (✄) white scissors
-U+2707 ;	text ;	976 ;	drive, office, tape ;	zw 	# V1.1 (✇) tape drive
-U+1F5C3 ;	emoji ;	977 ;	box, card, file, office ;	w 	# V7.0 (🗃) card file box
-U+1F5C4 ;	emoji ;	978 ;	cabinet, file, office ;	w 	# V7.0 (🗄) file cabinet
-U+1F5D1 ;	emoji ;	979 ;	office, wastebasket ;	w 	# V7.0 (🗑) wastebasket
-U+1F512 ;	emoji ;	980 ;	closed, lock, object ;	jw 	# V6.0 (🔒) lock
-U+1F513 ;	emoji ;	981 ;	lock, object, open, unlock ;	jw 	# V6.0 (🔓) open lock
-U+1F50F ;	emoji ;	982 ;	ink, lock, object, pen, privacy ;	j 	# V6.0 (🔏) lock with ink pen
-U+1F510 ;	emoji ;	983 ;	closed, key, lock, object, secure ;	j 	# V6.0 (🔐) closed lock with key
-U+1F511 ;	emoji ;	984 ;	key, lock, object, password ;	j 	# V6.0 (🔑) key
-U+1F5DD ;	emoji ;	985 ;	clue, key, lock, object, old ;	w 	# V7.0 (🗝) old key
-U+26BF ;	text ;	986 ;	key, lock, object ;	a 	# V5.2 (⚿) squared key
-U+1F528 ;	emoji ;	987 ;	hammer, object, tool ;	j 	# V6.0 (🔨) hammer
-U+26CF ;	text ;	988 ;	mining, object, pick, tool, travel ;	a 	# V5.2 (⛏) pick
-U+2692 ;	text ;	989 ;	hammer, object, pick, tool ;	x 	# V4.1 (⚒) hammer and pick
-U+1F6E0 ;	emoji ;	990 ;	hammer, object, tool, wrench ;	w 	# V7.0 (🛠) hammer and wrench
-U+1F527 ;	emoji ;	991 ;	object, tool, wrench ;	j 	# V6.0 (🔧) wrench
-U+1F529 ;	emoji ;	992 ;	bolt, nut, object, tool ;	j 	# V6.0 (🔩) nut and bolt
-U+2699 ;	text ;	993 ;	gear, object, tool ;	x 	# V4.1 (⚙) gear
-U+1F5DC ;	emoji ;	994 ;	compression, object, tool, vice ;	w 	# V7.0 (🗜) compression
-U+2697 ;	text ;	995 ;	alembic, chemistry, object, tool ;	x 	# V4.1 (⚗) alembic
-U+2696 ;	text ;	996 ;	balance, justice, object, scales, tool, weight ;	x 	# V4.1 (⚖) scales
-U+1F489 ;	emoji ;	997 ;	doctor, medicine, needle, object, shot, syringe, tool ;	j 	# V6.0 (💉) syringe
-U+1F5E1 ;	emoji ;	998 ;	dagger, knife, object, rating, weapon ;	w 	# V7.0 (🗡) dagger knife
-U+1F52A ;	emoji ;	999 ;	cooking, hocho, knife, object, tool, weapon ;	j 	# V6.0 (🔪) hocho
-U+2694 ;	text ;	1000 ;	crossed, object, swords, weapon ;	x 	# V4.1 (⚔) crossed swords
-U+1F52B ;	emoji ;	1001 ;	gun, object, pistol, revolver, tool, weapon ;	j 	# V6.0 (🔫) pistol
-U+1F6E1 ;	emoji ;	1002 ;	object, shield, weapon ;	w 	# V7.0 (🛡) shield
-U+26E8 ;	text ;	1003 ;	cross, object, shield, travel, weapon ;	a 	# V5.2 (⛨) black cross on shield
-U+1F392 ;	emoji ;	1004 ;	activity, bag, object, satchel, school ;	j 	# V6.0 (🎒) school satchel
-U+1F50B ;	emoji ;	1005 ;	battery, object ;	j 	# V6.0 (🔋) battery
-U+1F50C ;	emoji ;	1006 ;	electric, electricity, object, plug ;	j 	# V6.0 (🔌) electric plug
-U+1F517 ;	emoji ;	1007 ;	link, links, object ;	j 	# V6.0 (🔗) link symbol
-U+26D3 ;	text ;	1008 ;	chain, object, travel ;	a 	# V5.2 (⛓) chains
-U+1F6AC ;	emoji ;	1009 ;	activity, allowed, object, permitted, smoking, travel ;	j 	# V6.0 (🚬) smoking symbol
-U+1F484 ;	emoji ;	1010 ;	cosmetics, lipstick, makeup, object ;	j 	# V6.0 (💄) lipstick
-U+1F48D ;	emoji ;	1011 ;	object, ring, romance ;	j 	# V6.0 (💍) ring
-U+1F48E ;	emoji ;	1012 ;	diamond, gem, jewel, object, romance ;	j 	# V6.0 (💎) gem stone
-U+1F6E2 ;	emoji ;	1013 ;	drum, object, oil ;	w 	# V7.0 (🛢) oil drum
-U+1F52E ;	emoji ;	1014 ;	ball, crystal, fantasy, fortune, object, telling, tool ;	j 	# V6.0 (🔮) crystal ball
-U+1F52F ;	emoji ;	1015 ;	fortune, object, star, telling ;	j 	# V6.0 (🔯) six pointed star with middle dot
-U+1F531 ;	emoji ;	1016 ;	anchor, emblem, object, tool, trident ;	j 	# V6.0 (🔱) trident emblem
-U+1F5F3 ;	emoji ;	1017 ;	ballot, box, object ;	w 	# V7.0 (🗳) ballot box with ballot
-U+2624 ;	text ;	1018 ;	caduceus, doctor, medicine, object ;	x 	# V1.1 (☤) caduceus
-U+269A ;	text ;	1019 ;	hermes, object, staff ;	x 	# V4.1 (⚚) staff of hermes
-U+2695 ;	text ;	1020 ;	aesculapius, object, staff ;	x 	# V4.1 (⚕) staff of aesculapius
-U+1F48A ;	emoji ;	1021 ;	doctor, medicine, object, pill ;	j 	# V6.0 (💊) pill
-U+269B ;	text ;	1022 ;	atom, object ;	x 	# V4.1 (⚛) atom symbol
-U+269C ;	text ;	1023 ;	fleur, lis, object ;	x 	# V4.1 (⚜) fleur-de-lis
-U+26B0 ;	text ;	1024 ;	coffin, object ;	x 	# V4.1 (⚰) coffin
-U+26B1 ;	text ;	1025 ;	funeral, object, urn ;	x 	# V4.1 (⚱) funeral urn
-U+1F530 ;	emoji ;	1026 ;	beginner, chevron, green, japanese, leaf, object, place, tool, yellow ;	j 	# V6.0 (🔰) japanese symbol for beginner
-U+1F4AF ;	emoji ;	1027 ;	100, full, hundred, office, score ;	j 	# V6.0 (💯) hundred points symbol
-U+1F4E1 ;	emoji ;	1028 ;	antenna, communication, dish, office, satellite ;	j 	# V6.0 (📡) satellite antenna
-U+1F3C1 ;	emoji ;	1029 ;	checkered, chequered, flag, sport ;	j 	# V6.0 (🏁) chequered flag
-U+2690 ;	text ;	1030 ;	flag ;	x 	# V4.0 (⚐) white flag
-U+2691 ;	text ;	1031 ;	flag ;	x 	# V4.0 (⚑) black flag
-U+26FF ;	text ;	1032 ;	flag, travel ;	a 	# V5.2 (⛿) white flag with horizontal middle black stripe
-U+1F3F1 ;	emoji ;	1033 ;	flag, pennant ;	w 	# V7.0 (🏱) white pennant
-U+1F3F2 ;	emoji ;	1034 ;	flag, pennant ;	x 	# V7.0 (🏲) black pennant
-U+1F3F3 ;	emoji ;	1035 ;	flag, waving ;	w 	# V7.0 (🏳) waving white flag
-U+1F3F4 ;	emoji ;	1036 ;	flag, waving ;	x 	# V7.0 (🏴) waving black flag
-U+1F6A9 ;	emoji ;	1037 ;	flag, post, travel ;	j 	# V6.0 (🚩) triangular flag on post
-U+1F1E8 U+1F1FE ;	emoji ;	1038 ;	cyprus, flag, Cyprus ;	x 	# V6.0 (🇨🇾) flag for Cyprus
-U+1F1FB U+1F1E6 ;	emoji ;	1039 ;	city, flag, holy, see, vatican, Vatican City ;	x 	# V6.0 (🇻🇦) flag for Vatican City
-U+1F1EE U+1F1F1 ;	emoji ;	1040 ;	flag, israel, Israel ;	x 	# V6.0 (🇮🇱) flag for Israel
-U+1F1FB U+1F1EE ;	emoji ;	1041 ;	flag, islands, u.s., united, virgin, U.S. Virgin Islands ;	x 	# V6.0 (🇻🇮) flag for U.S. Virgin Islands
-U+1F1FA U+1F1FE ;	emoji ;	1042 ;	flag, uruguay, Uruguay ;	x 	# V6.0 (🇺🇾) flag for Uruguay
-U+1F1E6 U+1F1F7 ;	emoji ;	1043 ;	argentina, flag, Argentina ;	x 	# V6.0 (🇦🇷) flag for Argentina
-U+1F1EC U+1F1F9 ;	emoji ;	1044 ;	flag, guatemala, Guatemala ;	x 	# V6.0 (🇬🇹) flag for Guatemala
-U+1F1EF U+1F1EA ;	emoji ;	1045 ;	flag, jersey, Jersey ;	x 	# V6.0 (🇯🇪) flag for Jersey
-U+1F1F8 U+1F1F2 ;	emoji ;	1046 ;	flag, marino, san, San Marino ;	x 	# V6.0 (🇸🇲) flag for San Marino
-U+1F1FE U+1F1F9 ;	emoji ;	1047 ;	flag, mayotte, Mayotte ;	x 	# V6.0 (🇾🇹) flag for Mayotte
-U+1F1F3 U+1F1FA ;	emoji ;	1048 ;	flag, niue, Niue ;	x 	# V6.0 (🇳🇺) flag for Niue
-U+1F1EF U+1F1F5 ;	emoji ;	1049 ;	flag, japan, Japan ;	j 	# V6.0 (🇯🇵) flag for Japan
-U+1F1EC U+1F1EC ;	emoji ;	1050 ;	channel, flag, guernsey, islands, Guernsey ;	x 	# V6.0 (🇬🇬) flag for Guernsey
-U+1F1EC U+1F1F7 ;	emoji ;	1051 ;	flag, greece, Greece ;	x 	# V6.0 (🇬🇷) flag for Greece
-U+1F1F8 U+1F1F4 ;	emoji ;	1052 ;	flag, somalia, Somalia ;	x 	# V6.0 (🇸🇴) flag for Somalia
-U+1F1EC U+1F1EA ;	emoji ;	1053 ;	flag, georgia, Georgia ;	x 	# V6.0 (🇬🇪) flag for Georgia
-U+1F1EB U+1F1F4 ;	emoji ;	1054 ;	faeroe, faroe, flag, islands, Faroe Islands ;	x 	# V6.0 (🇫🇴) flag for Faroe Islands
-U+1F1F0 U+1F1F7 ;	emoji ;	1055 ;	flag, korea, rep., republic, south, South Korea ;	j 	# V6.0 (🇰🇷) flag for South Korea
-U+1F1FA U+1F1E6 ;	emoji ;	1056 ;	flag, ukraine, Ukraine ;	x 	# V6.0 (🇺🇦) flag for Ukraine
-U+1F1F8 U+1F1F1 ;	emoji ;	1057 ;	flag, leone, sierra, Sierra Leone ;	x 	# V6.0 (🇸🇱) flag for Sierra Leone
-U+1F1EB U+1F1EE ;	emoji ;	1058 ;	finland, flag, Finland ;	x 	# V6.0 (🇫🇮) flag for Finland
-U+1F1F9 U+1F1FB ;	emoji ;	1059 ;	flag, tuvalu, Tuvalu ;	x 	# V6.0 (🇹🇻) flag for Tuvalu
-U+1F1EC U+1F1EE ;	emoji ;	1060 ;	flag, gibraltar, Gibraltar ;	x 	# V6.0 (🇬🇮) flag for Gibraltar
-U+1F1F8 U+1F1EC ;	emoji ;	1061 ;	flag, singapore, Singapore ;	x 	# V6.0 (🇸🇬) flag for Singapore
-U+1F1F5 U+1F1EB ;	emoji ;	1062 ;	flag, french, polynesia, French Polynesia ;	x 	# V6.0 (🇵🇫) flag for French Polynesia
-U+1F1E8 U+1F1EE ;	emoji ;	1063 ;	coast, cote, côte, flag, ivoire, ivory, Côte d’Ivoire ;	x 	# V6.0 (🇨🇮) flag for Côte d’Ivoire
-U+1F1E7 U+1F1F3 ;	emoji ;	1064 ;	brunei, darussalam, flag, Brunei ;	x 	# V6.0 (🇧🇳) flag for Brunei
-U+1F1E9 U+1F1EF ;	emoji ;	1065 ;	djibouti, flag, Djibouti ;	x 	# V6.0 (🇩🇯) flag for Djibouti
-U+1F1F3 U+1F1EA ;	emoji ;	1066 ;	flag, niger, Niger ;	x 	# V6.0 (🇳🇪) flag for Niger
-U+1F1EE U+1F1E8 ;	emoji ;	1067 ;	canary, flag, islands, Canary Islands ;	x 	# V6.0 (🇮🇨) flag for Canary Islands
-U+1F1E9 U+1F1FF ;	emoji ;	1068 ;	algeria, flag, Algeria ;	x 	# V6.0 (🇩🇿) flag for Algeria
-U+1F1EE U+1F1E9 ;	emoji ;	1069 ;	flag, indonesia, Indonesia ;	x 	# V6.0 (🇮🇩) flag for Indonesia
-U+1F1F5 U+1F1F1 ;	emoji ;	1070 ;	flag, poland, Poland ;	x 	# V6.0 (🇵🇱) flag for Poland
-U+1F1EC U+1F1F1 ;	emoji ;	1071 ;	flag, greenland, Greenland ;	x 	# V6.0 (🇬🇱) flag for Greenland
-U+1F1EE U+1F1EA ;	emoji ;	1072 ;	flag, ireland, Ireland ;	x 	# V6.0 (🇮🇪) flag for Ireland
-U+1F1FA U+1F1FF ;	emoji ;	1073 ;	flag, uzbekistan, Uzbekistan ;	x 	# V6.0 (🇺🇿) flag for Uzbekistan
-U+1F1F2 U+1F1F9 ;	emoji ;	1074 ;	flag, malta, Malta ;	x 	# V6.0 (🇲🇹) flag for Malta
-U+1F1F5 U+1F1FC ;	emoji ;	1075 ;	flag, palau, Palau ;	x 	# V6.0 (🇵🇼) flag for Palau
-U+1F1F1 U+1F1FA ;	emoji ;	1076 ;	flag, luxembourg, Luxembourg ;	x 	# V6.0 (🇱🇺) flag for Luxembourg
-U+1F1EB U+1F1F2 ;	emoji ;	1077 ;	fed., federated, flag, micronesia, Micronesia ;	x 	# V6.0 (🇫🇲) flag for Micronesia
-U+1F1F1 U+1F1E7 ;	emoji ;	1078 ;	flag, lebanon, Lebanon ;	x 	# V6.0 (🇱🇧) flag for Lebanon
-U+1F1F9 U+1F1EF ;	emoji ;	1079 ;	flag, tajikistan, Tajikistan ;	x 	# V6.0 (🇹🇯) flag for Tajikistan
-U+1F1F1 U+1F1F7 ;	emoji ;	1080 ;	flag, liberia, Liberia ;	x 	# V6.0 (🇱🇷) flag for Liberia
-U+1F1F5 U+1F1E6 ;	emoji ;	1081 ;	flag, panama, Panama ;	x 	# V6.0 (🇵🇦) flag for Panama
-U+1F1EE U+1F1F3 ;	emoji ;	1082 ;	flag, india, India ;	x 	# V6.0 (🇮🇳) flag for India
-U+1F1F5 U+1F1F0 ;	emoji ;	1083 ;	flag, pakistan, Pakistan ;	x 	# V6.0 (🇵🇰) flag for Pakistan
-U+1F1F3 U+1F1EC ;	emoji ;	1084 ;	flag, nigeria, Nigeria ;	x 	# V6.0 (🇳🇬) flag for Nigeria
-U+1F1E8 U+1F1E6 ;	emoji ;	1085 ;	canada, flag, Canada ;	x 	# V6.0 (🇨🇦) flag for Canada
-U+1F1F2 U+1F1E8 ;	emoji ;	1086 ;	flag, monaco, Monaco ;	x 	# V6.0 (🇲🇨) flag for Monaco
-U+1F1EA U+1F1F8 ;	emoji ;	1087 ;	flag, spain, Spain ;	j 	# V6.0 (🇪🇸) flag for Spain
-U+1F1E7 U+1F1EE ;	emoji ;	1088 ;	burundi, flag, Burundi ;	x 	# V6.0 (🇧🇮) flag for Burundi
-U+1F1E6 U+1F1F6 ;	emoji ;	1089 ;	antarctica, flag, Antarctica ;	x 	# V6.0 (🇦🇶) flag for Antarctica
-U+1F1ED U+1F1F3 ;	emoji ;	1090 ;	flag, honduras, Honduras ;	x 	# V6.0 (🇭🇳) flag for Honduras
-U+1F1F3 U+1F1EB ;	emoji ;	1091 ;	flag, island, norfolk, Norfolk Island ;	x 	# V6.0 (🇳🇫) flag for Norfolk Island
-U+1F1F8 U+1F1E7 ;	emoji ;	1092 ;	flag, islands, solomon, Solomon Islands ;	x 	# V6.0 (🇸🇧) flag for Solomon Islands
-U+1F1EA U+1F1E8 ;	emoji ;	1093 ;	ecuador, flag, Ecuador ;	x 	# V6.0 (🇪🇨) flag for Ecuador
-U+1F1EE U+1F1F7 ;	emoji ;	1094 ;	flag, iran, islamic, rep., republic, Iran ;	x 	# V6.0 (🇮🇷) flag for Iran
-U+1F1F8 U+1F1FB ;	emoji ;	1095 ;	el, flag, salvador, El Salvador ;	x 	# V6.0 (🇸🇻) flag for El Salvador
-U+1F1E7 U+1F1ED ;	emoji ;	1096 ;	bahrain, flag, Bahrain ;	x 	# V6.0 (🇧🇭) flag for Bahrain
-U+1F1F7 U+1F1FC ;	emoji ;	1097 ;	flag, republic, rwanda, Rwanda ;	x 	# V6.0 (🇷🇼) flag for Rwanda
-U+1F1F2 U+1F1F2 ;	emoji ;	1098 ;	burma, flag, myanmar, Myanmar  ;	x 	# V6.0 (🇲🇲) flag for Myanmar
-U+1F1E8 U+1F1F4 ;	emoji ;	1099 ;	colombia, flag, Colombia ;	x 	# V6.0 (🇨🇴) flag for Colombia
-U+1F1E7 U+1F1F9 ;	emoji ;	1100 ;	bhutan, flag, Bhutan ;	x 	# V6.0 (🇧🇹) flag for Bhutan
-U+1F1F3 U+1F1EE ;	emoji ;	1101 ;	flag, nicaragua, Nicaragua ;	x 	# V6.0 (🇳🇮) flag for Nicaragua
-U+1F1E6 U+1F1F9 ;	emoji ;	1102 ;	austria, flag, Austria ;	x 	# V6.0 (🇦🇹) flag for Austria
-U+1F1E8 U+1F1EB ;	emoji ;	1103 ;	african, central, flag, republic, Central African Republic ;	x 	# V6.0 (🇨🇫) flag for Central African Republic
-U+1F1ED U+1F1FA ;	emoji ;	1104 ;	flag, hungary, Hungary ;	x 	# V6.0 (🇭🇺) flag for Hungary
-U+1F1EA U+1F1E6 ;	emoji ;	1105 ;	ceuta, flag, melilla, Ceuta & Melilla ;	x 	# V6.0 (🇪🇦) flag for Ceuta & Melilla
-U+1F1F2 U+1F1FE ;	emoji ;	1106 ;	flag, malaysia, Malaysia ;	x 	# V6.0 (🇲🇾) flag for Malaysia
-U+1F1F0 U+1F1F2 ;	emoji ;	1107 ;	comoros, flag, Comoros ;	x 	# V6.0 (🇰🇲) flag for Comoros
-U+1F1E8 U+1F1F1 ;	emoji ;	1108 ;	chile, flag, Chile ;	x 	# V6.0 (🇨🇱) flag for Chile
-U+1F1FB U+1F1E8 ;	emoji ;	1109 ;	flag, grenadines, saint, st., vincent, St. Vincent & Grenadines ;	x 	# V6.0 (🇻🇨) flag for St. Vincent & Grenadines
-U+1F1E8 U+1F1FF ;	emoji ;	1110 ;	czech, flag, republic, Czech Republic ;	x 	# V6.0 (🇨🇿) flag for Czech Republic
-U+1F1EC U+1F1FC ;	emoji ;	1111 ;	bissau, flag, guinea, Guinea-Bissau ;	x 	# V6.0 (🇬🇼) flag for Guinea-Bissau
-U+1F1F4 U+1F1F2 ;	emoji ;	1112 ;	flag, oman, Oman ;	x 	# V6.0 (🇴🇲) flag for Oman
-U+1F1E7 U+1F1FC ;	emoji ;	1113 ;	botswana, flag, Botswana ;	x 	# V6.0 (🇧🇼) flag for Botswana
-U+1F1F5 U+1F1EA ;	emoji ;	1114 ;	flag, peru, Peru ;	x 	# V6.0 (🇵🇪) flag for Peru
-U+1F1F1 U+1F1E8 ;	emoji ;	1115 ;	flag, lucia, saint, st., St. Lucia ;	x 	# V6.0 (🇱🇨) flag for St. Lucia
-U+1F1EE U+1F1F9 ;	emoji ;	1116 ;	flag, italy, Italy ;	j 	# V6.0 (🇮🇹) flag for Italy
-U+1F1F8 U+1F1F9 ;	emoji ;	1117 ;	flag, principe, príncipe, sao, são, tome, tomé, São Tomé & Príncipe ;	x 	# V6.0 (🇸🇹) flag for São Tomé & Príncipe
-U+1F1E9 U+1F1EC ;	emoji ;	1118 ;	diego, flag, garcia, Diego Garcia ;	x 	# V6.0 (🇩🇬) flag for Diego Garcia
-U+1F1EE U+1F1F4 ;	emoji ;	1119 ;	british, flag, indian, ocean, territory, British Indian Ocean Territory ;	x 	# V6.0 (🇮🇴) flag for British Indian Ocean Territory
-U+1F1E7 U+1F1EC ;	emoji ;	1120 ;	bulgaria, flag, Bulgaria ;	x 	# V6.0 (🇧🇬) flag for Bulgaria
-U+1F1FA U+1F1F8 ;	emoji ;	1121 ;	america, flag, u.s., u.s.a., united, us, usa, United States ;	j 	# V6.0 (🇺🇸) flag for United States
-U+1F1F0 U+1F1FF ;	emoji ;	1122 ;	flag, kazakhstan, Kazakhstan ;	x 	# V6.0 (🇰🇿) flag for Kazakhstan
-U+1F1E9 U+1F1F0 ;	emoji ;	1123 ;	denmark, flag, Denmark ;	x 	# V6.0 (🇩🇰) flag for Denmark
-U+1F1E8 U+1F1ED ;	emoji ;	1124 ;	flag, switzerland, Switzerland ;	x 	# V6.0 (🇨🇭) flag for Switzerland
-U+1F1F9 U+1F1EC ;	emoji ;	1125 ;	flag, togo, Togo ;	x 	# V6.0 (🇹🇬) flag for Togo
-U+1F1E8 U+1F1F7 ;	emoji ;	1126 ;	costa, flag, rica, Costa Rica ;	x 	# V6.0 (🇨🇷) flag for Costa Rica
-U+1F1F7 U+1F1FA ;	emoji ;	1127 ;	federation, flag, russia, russian, Russia ;	j 	# V6.0 (🇷🇺) flag for Russia
-U+1F1F1 U+1F1F0 ;	emoji ;	1128 ;	flag, lanka, sri, Sri Lanka ;	x 	# V6.0 (🇱🇰) flag for Sri Lanka
-U+1F1F5 U+1F1F7 ;	emoji ;	1129 ;	flag, puerto, rico, Puerto Rico ;	x 	# V6.0 (🇵🇷) flag for Puerto Rico
-U+1F1FF U+1F1FC ;	emoji ;	1130 ;	flag, zimbabwe, Zimbabwe ;	x 	# V6.0 (🇿🇼) flag for Zimbabwe
-U+1F1E7 U+1F1F7 ;	emoji ;	1131 ;	brazil, flag, Brazil ;	x 	# V6.0 (🇧🇷) flag for Brazil
-U+1F1F2 U+1F1F6 ;	emoji ;	1132 ;	flag, martinique, Martinique ;	x 	# V6.0 (🇲🇶) flag for Martinique
-U+1F1F3 U+1F1F1 ;	emoji ;	1133 ;	flag, netherlands, Netherlands ;	x 	# V6.0 (🇳🇱) flag for Netherlands
-U+1F1F2 U+1F1EC ;	emoji ;	1134 ;	flag, madagascar, Madagascar ;	x 	# V6.0 (🇲🇬) flag for Madagascar
-U+1F1EB U+1F1EF ;	emoji ;	1135 ;	fiji, flag, Fiji ;	x 	# V6.0 (🇫🇯) flag for Fiji
-U+1F1F1 U+1F1F8 ;	emoji ;	1136 ;	flag, lesotho, Lesotho ;	x 	# V6.0 (🇱🇸) flag for Lesotho
-U+1F1E8 U+1F1F2 ;	emoji ;	1137 ;	cameroon, flag, Cameroon ;	x 	# V6.0 (🇨🇲) flag for Cameroon
-U+1F1E8 U+1F1EC ;	emoji ;	1138 ;	brazzaville, congo, flag, rep., republic, Congo - Brazzaville ;	x 	# V6.0 (🇨🇬) flag for Congo - Brazzaville
-U+1F1E6 U+1F1F8 ;	emoji ;	1139 ;	american, flag, samoa, American Samoa ;	x 	# V6.0 (🇦🇸) flag for American Samoa
-U+1F1F8 U+1F1F0 ;	emoji ;	1140 ;	flag, republic, slovak, slovakia, Slovakia ;	x 	# V6.0 (🇸🇰) flag for Slovakia
-U+1F1F8 U+1F1E8 ;	emoji ;	1141 ;	flag, seychelles, Seychelles ;	x 	# V6.0 (🇸🇨) flag for Seychelles
-U+1F1EC U+1F1F3 ;	emoji ;	1142 ;	flag, guinea, Guinea ;	x 	# V6.0 (🇬🇳) flag for Guinea
-U+1F1F2 U+1F1F1 ;	emoji ;	1143 ;	flag, mali, Mali ;	x 	# V6.0 (🇲🇱) flag for Mali
-U+1F1E7 U+1F1F1 ;	emoji ;	1144 ;	barthelemy, barthélemy, flag, saint, st., St. Barthélemy ;	x 	# V6.0 (🇧🇱) flag for St. Barthélemy
-U+1F1E8 U+1F1F5 ;	emoji ;	1145 ;	clipperton, flag, island, Clipperton Island ;	x 	# V6.0 (🇨🇵) flag for Clipperton Island
-U+1F1F2 U+1F1EB ;	emoji ;	1146 ;	flag, french, martin, saint, st., St. Martin ;	x 	# V6.0 (🇲🇫) flag for St. Martin
-U+1F1F3 U+1F1E8 ;	emoji ;	1147 ;	caledonia, flag, new, New Caledonia ;	x 	# V6.0 (🇳🇨) flag for New Caledonia
-U+1F1F9 U+1F1EB ;	emoji ;	1148 ;	flag, french, southern, territories, French Southern Territories ;	x 	# V6.0 (🇹🇫) flag for French Southern Territories
-U+1F1F7 U+1F1F8 ;	emoji ;	1149 ;	flag, serbia, Serbia ;	x 	# V6.0 (🇷🇸) flag for Serbia
-U+1F1EA U+1F1F9 ;	emoji ;	1150 ;	ethiopia, flag, Ethiopia ;	x 	# V6.0 (🇪🇹) flag for Ethiopia
-U+1F1E7 U+1F1F4 ;	emoji ;	1151 ;	bolivia, flag, plurinational, Bolivia ;	x 	# V6.0 (🇧🇴) flag for Bolivia
-U+1F1F1 U+1F1F9 ;	emoji ;	1152 ;	flag, lithuania, Lithuania ;	x 	# V6.0 (🇱🇹) flag for Lithuania
-U+1F1EC U+1F1E6 ;	emoji ;	1153 ;	flag, gabon, Gabon ;	x 	# V6.0 (🇬🇦) flag for Gabon
-U+1F1F8 U+1F1F3 ;	emoji ;	1154 ;	flag, senegal, Senegal ;	x 	# V6.0 (🇸🇳) flag for Senegal
-U+1F1EC U+1F1E7 ;	emoji ;	1155 ;	britain, cornwall, flag, great, ireland, kingdom, northern, scotland, united, wales, United Kingdom ;	j 	# V6.0 (🇬🇧) flag for United Kingdom
-U+1F1F5 U+1F1F2 ;	emoji ;	1156 ;	flag, miquelon, pierre, saint, st., St. Pierre & Miquelon ;	x 	# V6.0 (🇵🇲) flag for St. Pierre & Miquelon
-U+1F1EC U+1F1ED ;	emoji ;	1157 ;	flag, ghana, Ghana ;	x 	# V6.0 (🇬🇭) flag for Ghana
-U+1F1FC U+1F1EB ;	emoji ;	1158 ;	flag, futuna, islands, wallis, Wallis & Futuna ;	x 	# V6.0 (🇼🇫) flag for Wallis & Futuna
-U+1F1E9 U+1F1F4 ;	emoji ;	1159 ;	dominica, dominican, flag, republic, Dominican Republic ;	x 	# V6.0 (🇩🇴) flag for Dominican Republic
-U+1F1F8 U+1F1FF ;	emoji ;	1160 ;	flag, swaziland, Swaziland ;	x 	# V6.0 (🇸🇿) flag for Swaziland
-U+1F1E6 U+1F1FC ;	emoji ;	1161 ;	aruba, flag, Aruba ;	x 	# V6.0 (🇦🇼) flag for Aruba
-U+1F1F5 U+1F1FE ;	emoji ;	1162 ;	flag, paraguay, Paraguay ;	x 	# V6.0 (🇵🇾) flag for Paraguay
-U+1F1F8 U+1F1EE ;	emoji ;	1163 ;	flag, slovenia, Slovenia ;	x 	# V6.0 (🇸🇮) flag for Slovenia
-U+1F1E8 U+1F1FA ;	emoji ;	1164 ;	cuba, flag, Cuba ;	x 	# V6.0 (🇨🇺) flag for Cuba
-U+1F1E7 U+1F1F8 ;	emoji ;	1165 ;	bahamas, flag, Bahamas ;	x 	# V6.0 (🇧🇸) flag for Bahamas
-U+1F1EC U+1F1F6 ;	emoji ;	1166 ;	equatorial, flag, guinea, Equatorial Guinea ;	x 	# V6.0 (🇬🇶) flag for Equatorial Guinea
-U+1F1F9 U+1F1F4 ;	emoji ;	1167 ;	flag, tonga, Tonga ;	x 	# V6.0 (🇹🇴) flag for Tonga
-U+1F1E7 U+1F1EF ;	emoji ;	1168 ;	benin, flag, Benin ;	x 	# V6.0 (🇧🇯) flag for Benin
-U+1F1EB U+1F1F7 ;	emoji ;	1169 ;	flag, france, France ;	j 	# V6.0 (🇫🇷) flag for France
+U+0030 ;	text ;	784 ;	digits ;	x 	# V1.1 (0) digit zero
+U+0031 ;	text ;	785 ;	digits ;	x 	# V1.1 (1) digit one
+U+0032 ;	text ;	786 ;	digits ;	x 	# V1.1 (2) digit two
+U+0033 ;	text ;	787 ;	digits ;	x 	# V1.1 (3) digit three
+U+0034 ;	text ;	788 ;	digits ;	x 	# V1.1 (4) digit four
+U+0035 ;	text ;	789 ;	digits ;	x 	# V1.1 (5) digit five
+U+0036 ;	text ;	790 ;	digits ;	x 	# V1.1 (6) digit six
+U+0037 ;	text ;	791 ;	digits ;	x 	# V1.1 (7) digit seven
+U+0038 ;	text ;	792 ;	digits ;	x 	# V1.1 (8) digit eight
+U+0039 ;	text ;	793 ;	digits ;	x 	# V1.1 (9) digit nine
+U+0023 U+20E3 ;	text ;	794 ;	hash, keycap, pound, word ;	j 	# V3.0 (#⃣) keycap number sign
+U+002A U+20E3 ;	text ;	795 ;	asterisk, keycap, star ;	x 	# V3.0 (*⃣) keycap asterisk
+U+0030 U+20E3 ;	text ;	796 ;	0, keycap, word, zero ;	j 	# V3.0 (0⃣) keycap digit zero
+U+0031 U+20E3 ;	text ;	797 ;	1, keycap, one, word ;	j 	# V3.0 (1⃣) keycap digit one
+U+0032 U+20E3 ;	text ;	798 ;	2, keycap, two, word ;	j 	# V3.0 (2⃣) keycap digit two
+U+0033 U+20E3 ;	text ;	799 ;	3, keycap, three, word ;	j 	# V3.0 (3⃣) keycap digit three
+U+0034 U+20E3 ;	text ;	800 ;	4, four, keycap, word ;	j 	# V3.0 (4⃣) keycap digit four
+U+0035 U+20E3 ;	text ;	801 ;	5, five, keycap, word ;	j 	# V3.0 (5⃣) keycap digit five
+U+0036 U+20E3 ;	text ;	802 ;	6, keycap, six, word ;	j 	# V3.0 (6⃣) keycap digit six
+U+0037 U+20E3 ;	text ;	803 ;	7, keycap, seven, word ;	j 	# V3.0 (7⃣) keycap digit seven
+U+0038 U+20E3 ;	text ;	804 ;	8, eight, keycap, word ;	j 	# V3.0 (8⃣) keycap digit eight
+U+0039 U+20E3 ;	text ;	805 ;	9, keycap, nine, word ;	j 	# V3.0 (9⃣) keycap digit nine
+U+1F51F ;	emoji ;	806 ;	10, keycap, ten, word ;	j 	# V6.0 (🔟) keycap ten
+U+1F4F6 ;	emoji ;	807 ;	antenna, bars, communication, mobile, object, phone, signal ;	j 	# V6.0 (📶) antenna with bars
+U+1F4DF ;	emoji ;	808 ;	communication, office, pager ;	jw 	# V6.0 (📟) pager
+U+1F4E0 ;	emoji ;	809 ;	communication, fax, office ;	j 	# V6.0 (📠) fax machine
+U+1F3A5 ;	emoji ;	810 ;	activity, camera, cinema, entertainment, movie, object ;	j 	# V6.0 (🎥) movie camera
+U+1F3A6 ;	emoji ;	811 ;	activity, camera, cinema, entertainment, film, movie, object ;	j 	# V6.0 (🎦) cinema
+U+1F3AC ;	emoji ;	812 ;	activity, clapper, entertainment, movie, object ;	jw 	# V6.0 (🎬) clapper board
+U+1F4FD ;	emoji ;	813 ;	cinema, film, movie, object, projector, video ;	w 	# V7.0 (📽) film projector
+U+1F4FA ;	emoji ;	814 ;	object, television, tv, video ;	jw 	# V6.0 (📺) television
+U+1F4F7 ;	emoji ;	815 ;	camera, object, video ;	jw 	# V6.0 (📷) camera
+U+1F4F8 ;	emoji ;	816 ;	camera, flash, object, video ;	x 	# V7.0 (📸) camera with flash
+U+1F4F9 ;	emoji ;	817 ;	camera, object, video ;	jw 	# V6.0 (📹) video camera
+U+1F4FC ;	emoji ;	818 ;	object, tape, vhs, video, videocassette ;	j 	# V6.0 (📼) videocassette
+U+1F505 ;	emoji ;	819 ;	brightness, dim, low, sign ;	x 	# V6.0 (🔅) low brightness symbol
+U+1F506 ;	emoji ;	820 ;	bright, brightness, sign ;	x 	# V6.0 (🔆) high brightness symbol
+U+1F50D ;	emoji ;	821 ;	glass, magnifying, object, search ;	jw 	# V6.0 (🔍) left-pointing magnifying glass
+U+1F50E ;	emoji ;	822 ;	glass, magnifying, object, search ;	j 	# V6.0 (🔎) right-pointing magnifying glass
+U+1F52C ;	emoji ;	823 ;	microscope, object, tool ;	x 	# V6.0 (🔬) microscope
+U+1F52D ;	emoji ;	824 ;	object, telescope, tool ;	x 	# V6.0 (🔭) telescope
+U+1F525 ;	emoji ;	825 ;	fire, flame, object, tool ;	j 	# V6.0 (🔥) fire
+U+1F56F ;	emoji ;	826 ;	candle, object ;	w 	# V7.0 (🕯) candle
+U+1F4A1 ;	emoji ;	827 ;	bulb, comic, electric, idea, light, object ;	j 	# V6.0 (💡) electric light bulb
+U+1F526 ;	emoji ;	828 ;	electric, flashlight, light, object, tool, torch ;	j 	# V6.0 (🔦) electric torch
+U+1F3EE ;	emoji ;	829 ;	bar, japanese, lantern, place, red, restaurant ;	j 	# V6.0 (🏮) izakaya lantern
+U+1F383 ;	emoji ;	830 ;	activity, celebration, halloween, jack, lantern, object ;	j 	# V6.0 (🎃) jack-o-lantern
+U+1F384 ;	emoji ;	831 ;	activity, celebration, christmas, object, tree ;	j 	# V6.0 (🎄) christmas tree
+U+1F386 ;	emoji ;	832 ;	activity, celebration, firework, fireworks, object ;	j 	# V6.0 (🎆) fireworks
+U+1F387 ;	emoji ;	833 ;	activity, celebration, firework, object, sparkle, sparkler ;	j 	# V6.0 (🎇) firework sparkler
+U+2728 ;	emoji ;	834 ;	sign, sparkle, sparkler, sparkles, star ;	j 	# V6.0 (✨) sparkles
+U+1F388 ;	emoji ;	835 ;	activity, balloon, celebration, object ;	j 	# V6.0 (🎈) balloon
+U+1F389 ;	emoji ;	836 ;	activity, celebration, object, party, popper, tada ;	j 	# V6.0 (🎉) party popper
+U+1F38A ;	emoji ;	837 ;	activity, ball, celebration, confetti, object ;	j 	# V6.0 (🎊) confetti ball
+U+1F38B ;	emoji ;	838 ;	activity, banner, celebration, japanese, object, tree ;	j 	# V6.0 (🎋) tanabata tree
+U+1F38C ;	emoji ;	839 ;	activity, celebration, cross, crossed, flag, japanese ;	j 	# V6.0 (🎌) crossed flags
+U+1F38D ;	emoji ;	840 ;	activity, bamboo, celebration, japanese, object, pine, plant ;	j 	# V6.0 (🎍) pine decoration
+U+1F38E ;	emoji ;	841 ;	activity, celebration, doll, dolls, festival, japanese ;	j 	# V6.0 (🎎) japanese dolls
+U+1F38F ;	emoji ;	842 ;	activity, carp, celebration, flags, object, streamer ;	j 	# V6.0 (🎏) carp streamer
+U+1F390 ;	emoji ;	843 ;	activity, celebration, chime, object, wind ;	j 	# V6.0 (🎐) wind chime
+U+1F391 ;	emoji ;	844 ;	activity, celebration, ceremony, moon, object ;	j 	# V6.0 (🎑) moon viewing ceremony
+U+1F393 ;	emoji ;	845 ;	activity, cap, celebration, graduation, object ;	jw 	# V6.0 (🎓) graduation cap
+U+1F3A8 ;	emoji ;	846 ;	activity, art, artist, entertainment, object, paint, palette ;	j 	# V6.0 (🎨) artist palette
+U+1F3AF ;	emoji ;	847 ;	activity, bull’s eye, dart, eye, game, hit, object, target ;	j 	# V6.0 (🎯) direct hit
+U+1F3B4 ;	emoji ;	848 ;	activity, card, flower, game, japanese, object, playing ;	j 	# V6.0 (🎴) flower playing cards
+U+1F380 ;	emoji ;	849 ;	celebration, object, ribbon ;	j 	# V6.0 (🎀) ribbon
+U+1F381 ;	emoji ;	850 ;	celebration, gift, object, present, wrapped ;	j 	# V6.0 (🎁) wrapped present
+U+1F396 ;	emoji ;	851 ;	celebration, medal, military, object ;	w 	# V7.0 (🎖) military medal
+U+1F397 ;	emoji ;	852 ;	celebration, object, reminder, ribbon ;	w 	# V7.0 (🎗) reminder ribbon
+U+1F39E ;	emoji ;	853 ;	cinema, entertainment, film, frames, movie, object ;	w 	# V7.0 (🎞) film frames
+U+1F39F ;	emoji ;	854 ;	admission, entertainment, object, ticket ;	w 	# V7.0 (🎟) admission tickets
+U+1F3F7 ;	emoji ;	855 ;	label, object ;	w 	# V7.0 (🏷) label
+U+1F4D4 ;	emoji ;	856 ;	book, cover, decorated, notebook, office ;	j 	# V6.0 (📔) notebook with decorative cover
+U+1F4D5 ;	emoji ;	857 ;	book, closed, office ;	j 	# V6.0 (📕) closed book
+U+1F4D6 ;	emoji ;	858 ;	book, office, open ;	j 	# V6.0 (📖) open book
+U+1F4D7 ;	emoji ;	859 ;	book, green, office ;	j 	# V6.0 (📗) green book
+U+1F4D8 ;	emoji ;	860 ;	blue, book, office ;	j 	# V6.0 (📘) blue book
+U+1F4D9 ;	emoji ;	861 ;	book, office, orange ;	j 	# V6.0 (📙) orange book
+U+1F4DA ;	emoji ;	862 ;	book, books, office ;	jw 	# V6.0 (📚) books
+U+1F56E ;	emoji ;	863 ;	book, object ;	w 	# V7.0 (🕮) book
+U+1F4D3 ;	emoji ;	864 ;	notebook, office ;	j 	# V6.0 (📓) notebook
+U+1F4D2 ;	emoji ;	865 ;	ledger, notebook, office ;	j 	# V6.0 (📒) ledger
+U+1F4C3 ;	emoji ;	866 ;	curl, document, office, page ;	j 	# V6.0 (📃) page with curl
+U+1F4DC ;	emoji ;	867 ;	office, paper, scroll ;	j 	# V6.0 (📜) scroll
+U+1F5B9 ;	emoji ;	868 ;	document, office, text ;	w 	# V7.0 (🖹) document with text
+U+1F5BA ;	emoji ;	869 ;	document, office, picture, text ;	w 	# V7.0 (🖺) document with text and picture
+U+1F5BB ;	emoji ;	870 ;	document, object, office, picture ;	w 	# V7.0 (🖻) document with picture
+U+1F4C4 ;	emoji ;	871 ;	document, office, page ;	j 	# V6.0 (📄) page facing up
+U+1F5C5 ;	emoji ;	872 ;	empty, note, office ;	w 	# V7.0 (🗅) empty note
+U+1F5C6 ;	emoji ;	873 ;	empty, note, office, page, paper ;	w 	# V7.0 (🗆) empty note page
+U+1F5C7 ;	emoji ;	874 ;	empty, note, office, pad ;	w 	# V7.0 (🗇) empty note pad
+U+1F5C8 ;	emoji ;	875 ;	note, office ;	w 	# V7.0 (🗈) note
+U+1F5C9 ;	emoji ;	876 ;	note, office, page, paper ;	w 	# V7.0 (🗉) note page
+U+1F5CA ;	emoji ;	877 ;	note, office, pad ;	w 	# V7.0 (🗊) note pad
+U+1F5CB ;	emoji ;	878 ;	document, empty, office ;	w 	# V7.0 (🗋) empty document
+U+1F5CC ;	emoji ;	879 ;	empty, office, page, paper ;	w 	# V7.0 (🗌) empty page
+U+1F5CD ;	emoji ;	880 ;	empty, office, page ;	w 	# V7.0 (🗍) empty pages
+U+1F5CE ;	emoji ;	881 ;	document, office ;	w 	# V7.0 (🗎) document
+U+1F5CF ;	emoji ;	882 ;	office, page, paper ;	w 	# V7.0 (🗏) page
+U+1F5D0 ;	emoji ;	883 ;	office, page ;	w 	# V7.0 (🗐) pages
+U+1F4F0 ;	emoji ;	884 ;	communication, news, newspaper, object, paper ;	j 	# V6.0 (📰) newspaper
+U+1F5DE ;	emoji ;	885 ;	news, newspaper, object, paper, rolled ;	w 	# V7.0 (🗞) rolled-up newspaper
+U+1F5DF ;	emoji ;	886 ;	circle, object, page, paper, text ;	w 	# V7.0 (🗟) page with circled text
+U+1F4D1 ;	emoji ;	887 ;	bookmark, mark, marker, office, tabs ;	j 	# V6.0 (📑) bookmark tabs
+U+1F516 ;	emoji ;	888 ;	bookmark, mark, object ;	j 	# V6.0 (🔖) bookmark
+U+1F5BC ;	emoji ;	889 ;	frame, object, office, picture ;	w 	# V7.0 (🖼) frame with picture
+U+1F5BD ;	emoji ;	890 ;	frame, object, office, tiled ;	w 	# V7.0 (🖽) frame with tiles
+U+1F5BE ;	emoji ;	891 ;	frame, object, office ;	w 	# V7.0 (🖾) frame with an x
+U+1F4B0 ;	emoji ;	892 ;	bag, dollar, money, moneybag, office ;	jw 	# V6.0 (💰) money bag
+U+1F4B4 ;	emoji ;	893 ;	bank, banknote, bill, money, note, office, yen ;	j 	# V6.0 (💴) banknote with yen sign
+U+1F4B5 ;	emoji ;	894 ;	bank, banknote, bill, dollar, money, note, office ;	j 	# V6.0 (💵) banknote with dollar sign
+U+1F4B6 ;	emoji ;	895 ;	bank, banknote, bill, euro, money, note, office ;	x 	# V6.0 (💶) banknote with euro sign
+U+1F4B7 ;	emoji ;	896 ;	bank, banknote, bill, money, note, office, pound ;	x 	# V6.0 (💷) banknote with pound sign
+U+1F4B8 ;	emoji ;	897 ;	bank, banknote, bill, dollar, flying, money, note, office, wings ;	j 	# V6.0 (💸) money with wings
+U+1F4B1 ;	emoji ;	898 ;	currency, exchange, money, office ;	j 	# V6.0 (💱) currency exchange
+U+1F4B2 ;	emoji ;	899 ;	dollar, money, office ;	j 	# V6.0 (💲) heavy dollar sign
+U+1F4B3 ;	emoji ;	900 ;	card, credit, office ;	jw 	# V6.0 (💳) credit card
+U+1F4B9 ;	emoji ;	901 ;	chart, graph, market, office, rising, trend, upward, yen ;	j 	# V6.0 (💹) chart with upwards trend and yen sign
+U+2709 ;	text ;	902 ;	email, envelope, office ;	zj 	# V1.1 (✉) envelope
+U+1F582 ;	emoji ;	903 ;	back, communication, envelope, office ;	w 	# V7.0 (🖂) back of envelope
+U+1F583 ;	emoji ;	904 ;	communication, envelope, office, stamped ;	w 	# V7.0 (🖃) stamped envelope
+U+1F585 ;	emoji ;	905 ;	communication, envelope, flying, office ;	w 	# V7.0 (🖅) flying envelope
+U+1F586 ;	emoji ;	906 ;	communication, envelope, office, pen, stamped ;	w 	# V7.0 (🖆) pen over stamped envelope
+U+1F4E7 ;	emoji ;	907 ;	communication, e-mail, email, letter, mail, office ;	j 	# V6.0 (📧) e-mail symbol
+U+1F4E8 ;	emoji ;	908 ;	communication, email, envelope, incoming, letter, mail, office, receive ;	j 	# V6.0 (📨) incoming envelope
+U+1F4E9 ;	emoji ;	909 ;	above, arrow, communication, down, email, envelope, letter, mail, office, outgoing, sent ;	j 	# V6.0 (📩) envelope with downwards arrow above
+U+1F584 ;	emoji ;	910 ;	communication, email, envelope, letter, lightning, mail, office ;	w 	# V7.0 (🖄) envelope with lightning
+U+1F4E4 ;	emoji ;	911 ;	box, communication, letter, mail, office, outbox, sent, tray ;	jw 	# V6.0 (📤) outbox tray
+U+1F4E5 ;	emoji ;	912 ;	box, communication, inbox, letter, mail, office, receive, tray ;	jw 	# V6.0 (📥) inbox tray
+U+1F4E6 ;	emoji ;	913 ;	box, communication, office, package, parcel ;	jw 	# V6.0 (📦) package
+U+1F4EB ;	emoji ;	914 ;	closed, communication, flag, mail, mailbox, office, postbox ;	jw 	# V6.0 (📫) closed mailbox with raised flag
+U+1F4EA ;	emoji ;	915 ;	closed, communication, flag, lowered, mail, mailbox, office, postbox ;	jw 	# V6.0 (📪) closed mailbox with lowered flag
+U+1F4EC ;	emoji ;	916 ;	communication, flag, mail, mailbox, office, open, postbox ;	w 	# V6.0 (📬) open mailbox with raised flag
+U+1F4ED ;	emoji ;	917 ;	communication, flag, lowered, mail, mailbox, office, open, postbox ;	w 	# V6.0 (📭) open mailbox with lowered flag
+U+1F4EE ;	emoji ;	918 ;	communication, mail, mailbox, office, postbox ;	j 	# V6.0 (📮) postbox
+U+270E ;	text ;	919 ;	office, pencil ;	z 	# V1.1 (✎) lower right pencil
+U+270F ;	text ;	920 ;	office, pencil ;	zj 	# V1.1 (✏) pencil
+U+2710 ;	text ;	921 ;	office, pencil ;	z 	# V1.1 (✐) upper right pencil
+U+1F589 ;	emoji ;	922 ;	communication, office, pencil ;	w 	# V7.0 (🖉) lower left pencil
+U+2711 ;	text ;	923 ;	nib, office ;	z 	# V1.1 (✑) white nib
+U+2712 ;	text ;	924 ;	nib, office ;	zj 	# V1.1 (✒) black nib
+U+1F58B ;	emoji ;	925 ;	communication, fountain, office, pen ;	w 	# V7.0 (🖋) lower left fountain pen
+U+1F58A ;	emoji ;	926 ;	ballpoint, communication, office, pen ;	w 	# V7.0 (🖊) lower left ballpoint pen
+U+1F58C ;	emoji ;	927 ;	communication, office, paintbrush ;	w 	# V7.0 (🖌) lower left paintbrush
+U+1F58D ;	emoji ;	928 ;	communication, crayon, office ;	w 	# V7.0 (🖍) lower left crayon
+U+1F4DD ;	emoji ;	929 ;	communication, memo, office, pencil ;	j 	# V6.0 (📝) memo
+U+1F4BB ;	emoji ;	930 ;	computer, office, pc, personal ;	jw 	# V6.0 (💻) personal computer
+U+1F5A5 ;	emoji ;	931 ;	computer, desktop, office ;	w 	# V7.0 (🖥) desktop computer
+U+1F5A6 ;	emoji ;	932 ;	computer, keyboard, mouse, office ;	w 	# V7.0 (🖦) keyboard and mouse
+U+1F5A7 ;	emoji ;	933 ;	3, computer, networked, office, three ;	w 	# V7.0 (🖧) three networked computers
+U+1F5A8 ;	emoji ;	934 ;	computer, office, printer ;	w 	# V7.0 (🖨) printer
+U+1F5A9 ;	emoji ;	935 ;	calculator, computer, office, pocket ;	w 	# V7.0 (🖩) pocket calculator
+U+1F5AE ;	emoji ;	936 ;	computer, keyboard, office ;	w 	# V7.0 (🖮) wired keyboard
+U+2328 ;	text ;	937 ;	computer, keyboard, sign ;	x 	# V1.1 (⌨) keyboard
+U+1F5AF ;	emoji ;	938 ;	1, button, computer, mouse, office, one ;	w 	# V7.0 (🖯) one button mouse
+U+1F5B0 ;	emoji ;	939 ;	2, button, computer, mouse, office, two ;	w 	# V7.0 (🖰) two button mouse
+U+1F5B1 ;	emoji ;	940 ;	3, button, computer, mouse, office, three ;	w 	# V7.0 (🖱) three button mouse
+U+1F5B2 ;	emoji ;	941 ;	computer, office, trackball ;	w 	# V7.0 (🖲) trackball
+U+1F5B3 ;	emoji ;	942 ;	computer, office, personal ;	w 	# V7.0 (🖳) old personal computer
+U+1F5B4 ;	emoji ;	943 ;	computer, disk, hard, office ;	w 	# V7.0 (🖴) hard disk
+U+1F5B5 ;	emoji ;	944 ;	computer, office, screen ;	w 	# V7.0 (🖵) screen
+U+1F5B6 ;	emoji ;	945 ;	computer, office, printer ;	w 	# V7.0 (🖶) printer icon
+U+1F5B7 ;	emoji ;	946 ;	computer, fax, office ;	w 	# V7.0 (🖷) fax icon
+U+1F5B8 ;	emoji ;	947 ;	computer, disc, office, optical ;	w 	# V7.0 (🖸) optical disc icon
+U+1F4BD ;	emoji ;	948 ;	computer, disc, minidisc, office ;	j 	# V6.0 (💽) minidisc
+U+1F4BE ;	emoji ;	949 ;	computer, disc, disk, floppy, office ;	j 	# V6.0 (💾) floppy disk
+U+1F4BF ;	emoji ;	950 ;	blu-ray, cd, computer, disc, dvd, office, optical ;	jw 	# V6.0 (💿) optical disc
+U+1F4C0 ;	emoji ;	951 ;	computer, disc, dvd, office ;	j 	# V6.0 (📀) dvd
+U+1F5D4 ;	emoji ;	952 ;	computer, desktop, office, window ;	w 	# V7.0 (🗔) desktop window
+U+1F5D5 ;	emoji ;	953 ;	computer, minimize, office ;	w 	# V7.0 (🗕) minimize
+U+1F5D6 ;	emoji ;	954 ;	computer, maximize, office ;	w 	# V7.0 (🗖) maximize
+U+1F5D7 ;	emoji ;	955 ;	computer, office, overlap ;	w 	# V7.0 (🗗) overlap
+U+1F4BC ;	emoji ;	956 ;	briefcase, office ;	j 	# V6.0 (💼) briefcase
+U+1F4C1 ;	emoji ;	957 ;	file, folder, office ;	j 	# V6.0 (📁) file folder
+U+1F4C2 ;	emoji ;	958 ;	file, folder, office, open ;	j 	# V6.0 (📂) open file folder
+U+1F5BF ;	emoji ;	959 ;	folder, office ;	w 	# V7.0 (🖿) black folder
+U+1F5C0 ;	emoji ;	960 ;	folder, office ;	w 	# V7.0 (🗀) folder
+U+1F5C1 ;	emoji ;	961 ;	folder, office, open ;	w 	# V7.0 (🗁) open folder
+U+1F5C2 ;	emoji ;	962 ;	card, dividers, index, office ;	w 	# V7.0 (🗂) card index dividers
+U+1F4C5 ;	emoji ;	963 ;	calendar, date, office ;	j 	# V6.0 (📅) calendar
+U+1F4C6 ;	emoji ;	964 ;	calendar, office ;	j 	# V6.0 (📆) tear-off calendar
+U+1F5D2 ;	emoji ;	965 ;	note, office, pad, spiral ;	w 	# V7.0 (🗒) spiral note pad
+U+1F5D3 ;	emoji ;	966 ;	calendar, office, pad, spiral ;	w 	# V7.0 (🗓) spiral calendar pad
+U+1F4C7 ;	emoji ;	967 ;	card, index, office, rolodex ;	j 	# V6.0 (📇) card index
+U+1F4C8 ;	emoji ;	968 ;	chart, graph, office, trend, upward ;	j 	# V6.0 (📈) chart with upwards trend
+U+1F4C9 ;	emoji ;	969 ;	chart, down, graph, office, trend ;	j 	# V6.0 (📉) chart with downwards trend
+U+1F5E0 ;	emoji ;	970 ;	chart, graph, object, stock ;	w 	# V7.0 (🗠) stock chart
+U+1F4CA ;	emoji ;	971 ;	bar, chart, graph, office ;	j 	# V6.0 (📊) bar chart
+U+1F4CB ;	emoji ;	972 ;	clipboard, office ;	jw 	# V6.0 (📋) clipboard
+U+1F4CC ;	emoji ;	973 ;	office, pin, pushpin ;	j 	# V6.0 (📌) pushpin
+U+1F588 ;	emoji ;	974 ;	communication, office, pushpin ;	w 	# V7.0 (🖈) black pushpin
+U+1F4CD ;	emoji ;	975 ;	office, pin, place, pushpin ;	j 	# V6.0 (📍) round pushpin
+U+1F4CE ;	emoji ;	976 ;	office, paperclip ;	j 	# V6.0 (📎) paperclip
+U+1F587 ;	emoji ;	977 ;	communication, links, office, paperclip ;	w 	# V7.0 (🖇) linked paperclips
+U+1F4CF ;	emoji ;	978 ;	office, ruler, straight edge ;	j 	# V6.0 (📏) straight ruler
+U+1F4D0 ;	emoji ;	979 ;	office, ruler, set, triangle ;	j 	# V6.0 (📐) triangular ruler
+U+1F4DB ;	emoji ;	980 ;	badge, name, office ;	j 	# V6.0 (📛) name badge
+U+2700 ;	text ;	981 ;	object, office, scissors, tool ;	w 	# V7.0 (✀) black safety scissors
+U+2701 ;	text ;	982 ;	office, scissors, tool ;	zw 	# V1.1 (✁) upper blade scissors
+U+2702 ;	text ;	983 ;	office, scissors, tool ;	zjw 	# V1.1 (✂) black scissors
+U+2703 ;	text ;	984 ;	office, scissors, tool ;	z 	# V1.1 (✃) lower blade scissors
+U+2704 ;	text ;	985 ;	office, scissors, tool ;	zw 	# V1.1 (✄) white scissors
+U+2707 ;	text ;	986 ;	drive, office, tape ;	zw 	# V1.1 (✇) tape drive
+U+1F5C3 ;	emoji ;	987 ;	box, card, file, office ;	w 	# V7.0 (🗃) card file box
+U+1F5C4 ;	emoji ;	988 ;	cabinet, file, office ;	w 	# V7.0 (🗄) file cabinet
+U+1F5D1 ;	emoji ;	989 ;	office, wastebasket ;	w 	# V7.0 (🗑) wastebasket
+U+1F512 ;	emoji ;	990 ;	closed, lock, object ;	jw 	# V6.0 (🔒) lock
+U+1F513 ;	emoji ;	991 ;	lock, object, open, unlock ;	jw 	# V6.0 (🔓) open lock
+U+1F50F ;	emoji ;	992 ;	ink, lock, object, pen, privacy ;	j 	# V6.0 (🔏) lock with ink pen
+U+1F510 ;	emoji ;	993 ;	closed, key, lock, object, secure ;	j 	# V6.0 (🔐) closed lock with key
+U+1F511 ;	emoji ;	994 ;	key, lock, object, password ;	j 	# V6.0 (🔑) key
+U+1F5DD ;	emoji ;	995 ;	clue, key, lock, object, old ;	w 	# V7.0 (🗝) old key
+U+26BF ;	text ;	996 ;	key, lock, object ;	a 	# V5.2 (⚿) squared key
+U+1F528 ;	emoji ;	997 ;	hammer, object, tool ;	j 	# V6.0 (🔨) hammer
+U+26CF ;	text ;	998 ;	mining, object, pick, tool, travel ;	a 	# V5.2 (⛏) pick
+U+2692 ;	text ;	999 ;	hammer, object, pick, tool ;	x 	# V4.1 (⚒) hammer and pick
+U+1F6E0 ;	emoji ;	1000 ;	hammer, object, tool, wrench ;	w 	# V7.0 (🛠) hammer and wrench
+U+1F527 ;	emoji ;	1001 ;	object, tool, wrench ;	j 	# V6.0 (🔧) wrench
+U+1F529 ;	emoji ;	1002 ;	bolt, nut, object, tool ;	j 	# V6.0 (🔩) nut and bolt
+U+2699 ;	text ;	1003 ;	gear, object, tool ;	x 	# V4.1 (⚙) gear
+U+1F5DC ;	emoji ;	1004 ;	compression, object, tool, vice ;	w 	# V7.0 (🗜) compression
+U+2697 ;	text ;	1005 ;	alembic, chemistry, object, tool ;	x 	# V4.1 (⚗) alembic
+U+2696 ;	text ;	1006 ;	balance, justice, object, scales, tool, weight ;	x 	# V4.1 (⚖) scales
+U+1F489 ;	emoji ;	1007 ;	doctor, medicine, needle, object, shot, syringe, tool ;	j 	# V6.0 (💉) syringe
+U+1F5E1 ;	emoji ;	1008 ;	dagger, knife, object, rating, weapon ;	w 	# V7.0 (🗡) dagger knife
+U+1F52A ;	emoji ;	1009 ;	cooking, hocho, knife, object, tool, weapon ;	j 	# V6.0 (🔪) hocho
+U+2694 ;	text ;	1010 ;	crossed, object, swords, weapon ;	x 	# V4.1 (⚔) crossed swords
+U+1F52B ;	emoji ;	1011 ;	gun, object, pistol, revolver, tool, weapon ;	j 	# V6.0 (🔫) pistol
+U+1F6E1 ;	emoji ;	1012 ;	object, shield, weapon ;	w 	# V7.0 (🛡) shield
+U+26E8 ;	text ;	1013 ;	cross, object, shield, travel, weapon ;	a 	# V5.2 (⛨) black cross on shield
+U+1F392 ;	emoji ;	1014 ;	activity, bag, object, satchel, school ;	j 	# V6.0 (🎒) school satchel
+U+1F50B ;	emoji ;	1015 ;	battery, object ;	j 	# V6.0 (🔋) battery
+U+1F50C ;	emoji ;	1016 ;	electric, electricity, object, plug ;	j 	# V6.0 (🔌) electric plug
+U+1F517 ;	emoji ;	1017 ;	link, links, object ;	j 	# V6.0 (🔗) link symbol
+U+26D3 ;	text ;	1018 ;	chain, object, travel ;	a 	# V5.2 (⛓) chains
+U+1F6AC ;	emoji ;	1019 ;	activity, allowed, object, permitted, smoking, travel ;	j 	# V6.0 (🚬) smoking symbol
+U+1F484 ;	emoji ;	1020 ;	cosmetics, lipstick, makeup, object ;	j 	# V6.0 (💄) lipstick
+U+1F48D ;	emoji ;	1021 ;	object, ring, romance ;	j 	# V6.0 (💍) ring
+U+1F48E ;	emoji ;	1022 ;	diamond, gem, jewel, object, romance ;	j 	# V6.0 (💎) gem stone
+U+1F6E2 ;	emoji ;	1023 ;	drum, object, oil ;	w 	# V7.0 (🛢) oil drum
+U+1F52E ;	emoji ;	1024 ;	ball, crystal, fantasy, fortune, object, telling, tool ;	j 	# V6.0 (🔮) crystal ball
+U+1F52F ;	emoji ;	1025 ;	fortune, object, star, telling ;	j 	# V6.0 (🔯) six pointed star with middle dot
+U+1F531 ;	emoji ;	1026 ;	anchor, emblem, object, tool, trident ;	j 	# V6.0 (🔱) trident emblem
+U+1F5F3 ;	emoji ;	1027 ;	ballot, box, object ;	w 	# V7.0 (🗳) ballot box with ballot
+U+2624 ;	text ;	1028 ;	caduceus, doctor, medicine, object ;	x 	# V1.1 (☤) caduceus
+U+269A ;	text ;	1029 ;	hermes, object, staff ;	x 	# V4.1 (⚚) staff of hermes
+U+2695 ;	text ;	1030 ;	aesculapius, object, staff ;	x 	# V4.1 (⚕) staff of aesculapius
+U+1F48A ;	emoji ;	1031 ;	doctor, medicine, object, pill ;	j 	# V6.0 (💊) pill
+U+269B ;	text ;	1032 ;	atheist, atom, object ;	x 	# V4.1 (⚛) atom symbol
+U+269C ;	text ;	1033 ;	fleur, lis, object ;	x 	# V4.1 (⚜) fleur-de-lis
+U+26B0 ;	text ;	1034 ;	coffin, object ;	x 	# V4.1 (⚰) coffin
+U+26B1 ;	text ;	1035 ;	funeral, object, urn ;	x 	# V4.1 (⚱) funeral urn
+U+1F530 ;	emoji ;	1036 ;	beginner, chevron, green, japanese, leaf, object, place, tool, yellow ;	j 	# V6.0 (🔰) japanese symbol for beginner
+U+1F4AF ;	emoji ;	1037 ;	100, full, hundred, office, score ;	j 	# V6.0 (💯) hundred points symbol
+U+1F4E1 ;	emoji ;	1038 ;	antenna, communication, dish, office, satellite ;	j 	# V6.0 (📡) satellite antenna
+U+1F3C1 ;	emoji ;	1039 ;	checkered, chequered, flag, sport ;	j 	# V6.0 (🏁) chequered flag
+U+2690 ;	text ;	1040 ;	flag ;	x 	# V4.0 (⚐) white flag
+U+2691 ;	text ;	1041 ;	flag ;	x 	# V4.0 (⚑) black flag
+U+26FF ;	text ;	1042 ;	flag, travel ;	a 	# V5.2 (⛿) white flag with horizontal middle black stripe
+U+1F3F1 ;	emoji ;	1043 ;	flag, pennant ;	w 	# V7.0 (🏱) white pennant
+U+1F3F2 ;	emoji ;	1044 ;	flag, pennant ;	x 	# V7.0 (🏲) black pennant
+U+1F3F3 ;	emoji ;	1045 ;	flag, waving ;	w 	# V7.0 (🏳) waving white flag
+U+1F3F4 ;	emoji ;	1046 ;	flag, waving ;	x 	# V7.0 (🏴) waving black flag
+U+1F6A9 ;	emoji ;	1047 ;	flag, post, travel ;	j 	# V6.0 (🚩) triangular flag on post
+U+1F1E6 U+1F1EB ;	emoji ;	1048 ;	afghanistan, flag, Afghanistan ;	x 	# V6.0 (🇦🇫) flag for Afghanistan
+U+1F1E6 U+1F1FD ;	emoji ;	1049 ;	åland, flag, islands, Åland Islands ;	x 	# V6.0 (🇦🇽) flag for Åland Islands
+U+1F1E6 U+1F1F1 ;	emoji ;	1050 ;	albania, flag, Albania ;	x 	# V6.0 (🇦🇱) flag for Albania
+U+1F1E9 U+1F1FF ;	emoji ;	1051 ;	algeria, flag, Algeria ;	x 	# V6.0 (🇩🇿) flag for Algeria
+U+1F1E6 U+1F1F8 ;	emoji ;	1052 ;	american, flag, samoa, American Samoa ;	x 	# V6.0 (🇦🇸) flag for American Samoa
+U+1F1E6 U+1F1E9 ;	emoji ;	1053 ;	andorra, flag, Andorra ;	x 	# V6.0 (🇦🇩) flag for Andorra
+U+1F1E6 U+1F1F4 ;	emoji ;	1054 ;	angola, flag, Angola ;	x 	# V6.0 (🇦🇴) flag for Angola
+U+1F1E6 U+1F1EE ;	emoji ;	1055 ;	anguilla, flag, Anguilla ;	x 	# V6.0 (🇦🇮) flag for Anguilla
+U+1F1E6 U+1F1F6 ;	emoji ;	1056 ;	antarctica, flag, Antarctica ;	x 	# V6.0 (🇦🇶) flag for Antarctica
+U+1F1E6 U+1F1EC ;	emoji ;	1057 ;	antigua, barbuda, flag, Antigua & Barbuda ;	x 	# V6.0 (🇦🇬) flag for Antigua & Barbuda
+U+1F1E6 U+1F1F7 ;	emoji ;	1058 ;	argentina, flag, Argentina ;	x 	# V6.0 (🇦🇷) flag for Argentina
+U+1F1E6 U+1F1F2 ;	emoji ;	1059 ;	armenia, flag, Armenia ;	x 	# V6.0 (🇦🇲) flag for Armenia
+U+1F1E6 U+1F1FC ;	emoji ;	1060 ;	aruba, flag, Aruba ;	x 	# V6.0 (🇦🇼) flag for Aruba
+U+1F1E6 U+1F1E8 ;	emoji ;	1061 ;	ascension, flag, island, Ascension Island ;	x 	# V6.0 (🇦🇨) flag for Ascension Island
+U+1F1E6 U+1F1FA ;	emoji ;	1062 ;	australia, flag, Australia ;	x 	# V6.0 (🇦🇺) flag for Australia
+U+1F1E6 U+1F1F9 ;	emoji ;	1063 ;	austria, flag, Austria ;	x 	# V6.0 (🇦🇹) flag for Austria
+U+1F1E6 U+1F1FF ;	emoji ;	1064 ;	azerbaijan, flag, Azerbaijan ;	x 	# V6.0 (🇦🇿) flag for Azerbaijan
+U+1F1E7 U+1F1F8 ;	emoji ;	1065 ;	bahamas, flag, Bahamas ;	x 	# V6.0 (🇧🇸) flag for Bahamas
+U+1F1E7 U+1F1ED ;	emoji ;	1066 ;	bahrain, flag, Bahrain ;	x 	# V6.0 (🇧🇭) flag for Bahrain
+U+1F1E7 U+1F1E9 ;	emoji ;	1067 ;	bangladesh, flag, Bangladesh ;	x 	# V6.0 (🇧🇩) flag for Bangladesh
+U+1F1E7 U+1F1E7 ;	emoji ;	1068 ;	barbados, flag, Barbados ;	x 	# V6.0 (🇧🇧) flag for Barbados
+U+1F1E7 U+1F1FE ;	emoji ;	1069 ;	belarus, flag, Belarus ;	x 	# V6.0 (🇧🇾) flag for Belarus
+U+1F1E7 U+1F1EA ;	emoji ;	1070 ;	belgium, flag, Belgium ;	x 	# V6.0 (🇧🇪) flag for Belgium
+U+1F1E7 U+1F1FF ;	emoji ;	1071 ;	belize, flag, Belize ;	x 	# V6.0 (🇧🇿) flag for Belize
+U+1F1E7 U+1F1EF ;	emoji ;	1072 ;	benin, flag, Benin ;	x 	# V6.0 (🇧🇯) flag for Benin
+U+1F1E7 U+1F1F2 ;	emoji ;	1073 ;	bermuda, flag, Bermuda ;	x 	# V6.0 (🇧🇲) flag for Bermuda
+U+1F1E7 U+1F1F9 ;	emoji ;	1074 ;	bhutan, flag, Bhutan ;	x 	# V6.0 (🇧🇹) flag for Bhutan
+U+1F1E7 U+1F1F4 ;	emoji ;	1075 ;	bolivia, flag, plurinational, Bolivia ;	x 	# V6.0 (🇧🇴) flag for Bolivia
+U+1F1E7 U+1F1E6 ;	emoji ;	1076 ;	bosnia, flag, herzegovina, Bosnia & Herzegovina ;	x 	# V6.0 (🇧🇦) flag for Bosnia & Herzegovina
+U+1F1E7 U+1F1FC ;	emoji ;	1077 ;	botswana, flag, Botswana ;	x 	# V6.0 (🇧🇼) flag for Botswana
+U+1F1E7 U+1F1FB ;	emoji ;	1078 ;	bouvet, flag, island, Bouvet Island ;	x 	# V6.0 (🇧🇻) flag for Bouvet Island
+U+1F1E7 U+1F1F7 ;	emoji ;	1079 ;	brazil, flag, Brazil ;	x 	# V6.0 (🇧🇷) flag for Brazil
+U+1F1EE U+1F1F4 ;	emoji ;	1080 ;	british, flag, indian, ocean, territory, British Indian Ocean Territory ;	x 	# V6.0 (🇮🇴) flag for British Indian Ocean Territory
+U+1F1FB U+1F1EC ;	emoji ;	1081 ;	british, flag, islands, virgin, British Virgin Islands ;	x 	# V6.0 (🇻🇬) flag for British Virgin Islands
+U+1F1E7 U+1F1F3 ;	emoji ;	1082 ;	brunei, darussalam, flag, Brunei ;	x 	# V6.0 (🇧🇳) flag for Brunei
+U+1F1E7 U+1F1EC ;	emoji ;	1083 ;	bulgaria, flag, Bulgaria ;	x 	# V6.0 (🇧🇬) flag for Bulgaria
+U+1F1E7 U+1F1EB ;	emoji ;	1084 ;	burkina, faso, flag, Burkina Faso ;	x 	# V6.0 (🇧🇫) flag for Burkina Faso
+U+1F1E7 U+1F1EE ;	emoji ;	1085 ;	burundi, flag, Burundi ;	x 	# V6.0 (🇧🇮) flag for Burundi
+U+1F1F0 U+1F1ED ;	emoji ;	1086 ;	cambodia, flag, Cambodia ;	x 	# V6.0 (🇰🇭) flag for Cambodia
+U+1F1E8 U+1F1F2 ;	emoji ;	1087 ;	cameroon, flag, Cameroon ;	x 	# V6.0 (🇨🇲) flag for Cameroon
+U+1F1E8 U+1F1E6 ;	emoji ;	1088 ;	canada, flag, Canada ;	x 	# V6.0 (🇨🇦) flag for Canada
+U+1F1EE U+1F1E8 ;	emoji ;	1089 ;	canary, flag, islands, Canary Islands ;	x 	# V6.0 (🇮🇨) flag for Canary Islands
+U+1F1E8 U+1F1FB ;	emoji ;	1090 ;	cabo, cape, flag, verde, Cape Verde ;	x 	# V6.0 (🇨🇻) flag for Cape Verde
+U+1F1E7 U+1F1F6 ;	emoji ;	1091 ;	bonaire, caribbean, eustatius, flag, netherlands, saba, sint, Caribbean Netherlands ;	x 	# V6.0 (🇧🇶) flag for Caribbean Netherlands
+U+1F1F0 U+1F1FE ;	emoji ;	1092 ;	cayman, flag, islands, Cayman Islands ;	x 	# V6.0 (🇰🇾) flag for Cayman Islands
+U+1F1E8 U+1F1EB ;	emoji ;	1093 ;	african, central, flag, republic, Central African Republic ;	x 	# V6.0 (🇨🇫) flag for Central African Republic
+U+1F1EA U+1F1E6 ;	emoji ;	1094 ;	ceuta, flag, melilla, Ceuta & Melilla ;	x 	# V6.0 (🇪🇦) flag for Ceuta & Melilla
+U+1F1F9 U+1F1E9 ;	emoji ;	1095 ;	chad, flag, Chad ;	x 	# V6.0 (🇹🇩) flag for Chad
+U+1F1E8 U+1F1F1 ;	emoji ;	1096 ;	chile, flag, Chile ;	x 	# V6.0 (🇨🇱) flag for Chile
+U+1F1E8 U+1F1F3 ;	emoji ;	1097 ;	china, flag, China ;	j 	# V6.0 (🇨🇳) flag for China
+U+1F1E8 U+1F1FD ;	emoji ;	1098 ;	christmas, flag, island, Christmas Island ;	x 	# V6.0 (🇨🇽) flag for Christmas Island
+U+1F1E8 U+1F1F5 ;	emoji ;	1099 ;	clipperton, flag, island, Clipperton Island ;	x 	# V6.0 (🇨🇵) flag for Clipperton Island
+U+1F1E8 U+1F1E8 ;	emoji ;	1100 ;	cocos, flag, islands, keeling, Cocos  Islands ;	x 	# V6.0 (🇨🇨) flag for Cocos  Islands
+U+1F1E8 U+1F1F4 ;	emoji ;	1101 ;	colombia, flag, Colombia ;	x 	# V6.0 (🇨🇴) flag for Colombia
+U+1F1F0 U+1F1F2 ;	emoji ;	1102 ;	comoros, flag, Comoros ;	x 	# V6.0 (🇰🇲) flag for Comoros
+U+1F1E8 U+1F1EC ;	emoji ;	1103 ;	brazzaville, congo, flag, rep., republic, Congo - Brazzaville ;	x 	# V6.0 (🇨🇬) flag for Congo - Brazzaville
+U+1F1E8 U+1F1E9 ;	emoji ;	1104 ;	congo, dem., democratic, flag, kinshasa, rep., republic, Congo - Kinshasa ;	x 	# V6.0 (🇨🇩) flag for Congo - Kinshasa
+U+1F1E8 U+1F1F0 ;	emoji ;	1105 ;	cook, flag, islands, Cook Islands ;	x 	# V6.0 (🇨🇰) flag for Cook Islands
+U+1F1E8 U+1F1F7 ;	emoji ;	1106 ;	costa, flag, rica, Costa Rica ;	x 	# V6.0 (🇨🇷) flag for Costa Rica
+U+1F1E8 U+1F1EE ;	emoji ;	1107 ;	coast, cote, côte, flag, ivoire, ivory, Côte d’Ivoire ;	x 	# V6.0 (🇨🇮) flag for Côte d’Ivoire
+U+1F1ED U+1F1F7 ;	emoji ;	1108 ;	croatia, flag, Croatia ;	x 	# V6.0 (🇭🇷) flag for Croatia
+U+1F1E8 U+1F1FA ;	emoji ;	1109 ;	cuba, flag, Cuba ;	x 	# V6.0 (🇨🇺) flag for Cuba
+U+1F1E8 U+1F1FC ;	emoji ;	1110 ;	antilles, curacao, curaçao, flag, netherlands, Curaçao ;	x 	# V6.0 (🇨🇼) flag for Curaçao
+U+1F1E8 U+1F1FE ;	emoji ;	1111 ;	cyprus, flag, Cyprus ;	x 	# V6.0 (🇨🇾) flag for Cyprus
+U+1F1E8 U+1F1FF ;	emoji ;	1112 ;	czech, flag, republic, Czech Republic ;	x 	# V6.0 (🇨🇿) flag for Czech Republic
+U+1F1E9 U+1F1F0 ;	emoji ;	1113 ;	denmark, flag, Denmark ;	x 	# V6.0 (🇩🇰) flag for Denmark
+U+1F1E9 U+1F1EC ;	emoji ;	1114 ;	diego, flag, garcia, Diego Garcia ;	x 	# V6.0 (🇩🇬) flag for Diego Garcia
+U+1F1E9 U+1F1EF ;	emoji ;	1115 ;	djibouti, flag, Djibouti ;	x 	# V6.0 (🇩🇯) flag for Djibouti
+U+1F1E9 U+1F1F2 ;	emoji ;	1116 ;	dominica, flag, Dominica ;	x 	# V6.0 (🇩🇲) flag for Dominica
+U+1F1E9 U+1F1F4 ;	emoji ;	1117 ;	dominica, dominican, flag, republic, Dominican Republic ;	x 	# V6.0 (🇩🇴) flag for Dominican Republic
+U+1F1EA U+1F1E8 ;	emoji ;	1118 ;	ecuador, flag, Ecuador ;	x 	# V6.0 (🇪🇨) flag for Ecuador
+U+1F1EA U+1F1EC ;	emoji ;	1119 ;	arab, egypt, flag, rep., Egypt ;	x 	# V6.0 (🇪🇬) flag for Egypt
+U+1F1F8 U+1F1FB ;	emoji ;	1120 ;	el, flag, salvador, El Salvador ;	x 	# V6.0 (🇸🇻) flag for El Salvador
+U+1F1EC U+1F1F6 ;	emoji ;	1121 ;	equatorial, flag, guinea, Equatorial Guinea ;	x 	# V6.0 (🇬🇶) flag for Equatorial Guinea
+U+1F1EA U+1F1F7 ;	emoji ;	1122 ;	eritrea, flag, Eritrea ;	x 	# V6.0 (🇪🇷) flag for Eritrea
+U+1F1EA U+1F1EA ;	emoji ;	1123 ;	estonia, flag, Estonia ;	x 	# V6.0 (🇪🇪) flag for Estonia
+U+1F1EA U+1F1F9 ;	emoji ;	1124 ;	ethiopia, flag, Ethiopia ;	x 	# V6.0 (🇪🇹) flag for Ethiopia
+U+1F1EA U+1F1FA ;	emoji ;	1125 ;	european, flag, union, European Union ;	x 	# V6.0 (🇪🇺) flag for European Union
+U+1F1EB U+1F1F0 ;	emoji ;	1126 ;	falkland, flag, islands, islas, malvinas, Falkland Islands ;	x 	# V6.0 (🇫🇰) flag for Falkland Islands
+U+1F1EB U+1F1F4 ;	emoji ;	1127 ;	faeroe, faroe, flag, islands, Faroe Islands ;	x 	# V6.0 (🇫🇴) flag for Faroe Islands
+U+1F1EB U+1F1EF ;	emoji ;	1128 ;	fiji, flag, Fiji ;	x 	# V6.0 (🇫🇯) flag for Fiji
+U+1F1EB U+1F1EE ;	emoji ;	1129 ;	finland, flag, Finland ;	x 	# V6.0 (🇫🇮) flag for Finland
+U+1F1EB U+1F1F7 ;	emoji ;	1130 ;	flag, france, France ;	j 	# V6.0 (🇫🇷) flag for France
+U+1F1EC U+1F1EB ;	emoji ;	1131 ;	flag, french, guiana, French Guiana ;	x 	# V6.0 (🇬🇫) flag for French Guiana
+U+1F1F5 U+1F1EB ;	emoji ;	1132 ;	flag, french, polynesia, French Polynesia ;	x 	# V6.0 (🇵🇫) flag for French Polynesia
+U+1F1F9 U+1F1EB ;	emoji ;	1133 ;	flag, french, southern, territories, French Southern Territories ;	x 	# V6.0 (🇹🇫) flag for French Southern Territories
+U+1F1EC U+1F1E6 ;	emoji ;	1134 ;	flag, gabon, Gabon ;	x 	# V6.0 (🇬🇦) flag for Gabon
+U+1F1EC U+1F1F2 ;	emoji ;	1135 ;	flag, gambia, Gambia ;	x 	# V6.0 (🇬🇲) flag for Gambia
+U+1F1EC U+1F1EA ;	emoji ;	1136 ;	flag, georgia, Georgia ;	x 	# V6.0 (🇬🇪) flag for Georgia
+U+1F1E9 U+1F1EA ;	emoji ;	1137 ;	flag, germany, Germany ;	j 	# V6.0 (🇩🇪) flag for Germany
+U+1F1EC U+1F1ED ;	emoji ;	1138 ;	flag, ghana, Ghana ;	x 	# V6.0 (🇬🇭) flag for Ghana
+U+1F1EC U+1F1EE ;	emoji ;	1139 ;	flag, gibraltar, Gibraltar ;	x 	# V6.0 (🇬🇮) flag for Gibraltar
+U+1F1EC U+1F1F7 ;	emoji ;	1140 ;	flag, greece, Greece ;	x 	# V6.0 (🇬🇷) flag for Greece
+U+1F1EC U+1F1F1 ;	emoji ;	1141 ;	flag, greenland, Greenland ;	x 	# V6.0 (🇬🇱) flag for Greenland
+U+1F1EC U+1F1E9 ;	emoji ;	1142 ;	flag, grenada, Grenada ;	x 	# V6.0 (🇬🇩) flag for Grenada
+U+1F1EC U+1F1F5 ;	emoji ;	1143 ;	flag, guadeloupe, Guadeloupe ;	x 	# V6.0 (🇬🇵) flag for Guadeloupe
+U+1F1EC U+1F1FA ;	emoji ;	1144 ;	flag, guam, Guam ;	x 	# V6.0 (🇬🇺) flag for Guam
+U+1F1EC U+1F1F9 ;	emoji ;	1145 ;	flag, guatemala, Guatemala ;	x 	# V6.0 (🇬🇹) flag for Guatemala
+U+1F1EC U+1F1EC ;	emoji ;	1146 ;	channel, flag, guernsey, islands, Guernsey ;	x 	# V6.0 (🇬🇬) flag for Guernsey
+U+1F1EC U+1F1F3 ;	emoji ;	1147 ;	flag, guinea, Guinea ;	x 	# V6.0 (🇬🇳) flag for Guinea
+U+1F1EC U+1F1FC ;	emoji ;	1148 ;	bissau, flag, guinea, Guinea-Bissau ;	x 	# V6.0 (🇬🇼) flag for Guinea-Bissau
+U+1F1EC U+1F1FE ;	emoji ;	1149 ;	flag, guyana, Guyana ;	x 	# V6.0 (🇬🇾) flag for Guyana
+U+1F1ED U+1F1F9 ;	emoji ;	1150 ;	flag, haiti, Haiti ;	x 	# V6.0 (🇭🇹) flag for Haiti
+U+1F1ED U+1F1F2 ;	emoji ;	1151 ;	flag, heard, island, islands, mcdonald, Heard & McDonald Islands ;	x 	# V6.0 (🇭🇲) flag for Heard & McDonald Islands
+U+1F1ED U+1F1F3 ;	emoji ;	1152 ;	flag, honduras, Honduras ;	x 	# V6.0 (🇭🇳) flag for Honduras
+U+1F1ED U+1F1F0 ;	emoji ;	1153 ;	china, flag, hong, kong, Hong Kong ;	x 	# V6.0 (🇭🇰) flag for Hong Kong
+U+1F1ED U+1F1FA ;	emoji ;	1154 ;	flag, hungary, Hungary ;	x 	# V6.0 (🇭🇺) flag for Hungary
+U+1F1EE U+1F1F8 ;	emoji ;	1155 ;	flag, iceland, Iceland ;	x 	# V6.0 (🇮🇸) flag for Iceland
+U+1F1EE U+1F1F3 ;	emoji ;	1156 ;	flag, india, India ;	x 	# V6.0 (🇮🇳) flag for India
+U+1F1EE U+1F1E9 ;	emoji ;	1157 ;	flag, indonesia, Indonesia ;	x 	# V6.0 (🇮🇩) flag for Indonesia
+U+1F1EE U+1F1F7 ;	emoji ;	1158 ;	flag, iran, islamic, rep., republic, Iran ;	x 	# V6.0 (🇮🇷) flag for Iran
+U+1F1EE U+1F1F6 ;	emoji ;	1159 ;	flag, iraq, Iraq ;	x 	# V6.0 (🇮🇶) flag for Iraq
+U+1F1EE U+1F1EA ;	emoji ;	1160 ;	flag, ireland, Ireland ;	x 	# V6.0 (🇮🇪) flag for Ireland
+U+1F1EE U+1F1F2 ;	emoji ;	1161 ;	flag, isle, man, Isle of Man ;	x 	# V6.0 (🇮🇲) flag for Isle of Man
+U+1F1EE U+1F1F1 ;	emoji ;	1162 ;	flag, israel, Israel ;	x 	# V6.0 (🇮🇱) flag for Israel
+U+1F1EE U+1F1F9 ;	emoji ;	1163 ;	flag, italy, Italy ;	j 	# V6.0 (🇮🇹) flag for Italy
+U+1F1EF U+1F1F2 ;	emoji ;	1164 ;	flag, jamaica, Jamaica ;	x 	# V6.0 (🇯🇲) flag for Jamaica
+U+1F1EF U+1F1F5 ;	emoji ;	1165 ;	flag, japan, Japan ;	j 	# V6.0 (🇯🇵) flag for Japan
+U+1F1EF U+1F1EA ;	emoji ;	1166 ;	flag, jersey, Jersey ;	x 	# V6.0 (🇯🇪) flag for Jersey
+U+1F1EF U+1F1F4 ;	emoji ;	1167 ;	flag, jordan, Jordan ;	x 	# V6.0 (🇯🇴) flag for Jordan
+U+1F1F0 U+1F1FF ;	emoji ;	1168 ;	flag, kazakhstan, Kazakhstan ;	x 	# V6.0 (🇰🇿) flag for Kazakhstan
+U+1F1F0 U+1F1EA ;	emoji ;	1169 ;	flag, kenya, Kenya ;	x 	# V6.0 (🇰🇪) flag for Kenya
 U+1F1F0 U+1F1EE ;	emoji ;	1170 ;	flag, kiribati, Kiribati ;	x 	# V6.0 (🇰🇮) flag for Kiribati
-U+1F1FA U+1F1F2 ;	emoji ;	1171 ;	flag, islands, outlying, u.s., united, U.S. Outlying Islands ;	x 	# V6.0 (🇺🇲) flag for U.S. Outlying Islands
-U+1F1ED U+1F1F0 ;	emoji ;	1172 ;	china, flag, hong, kong, Hong Kong ;	x 	# V6.0 (🇭🇰) flag for Hong Kong
-U+1F1F9 U+1F1ED ;	emoji ;	1173 ;	flag, thailand, Thailand ;	x 	# V6.0 (🇹🇭) flag for Thailand
-U+1F1EC U+1F1EB ;	emoji ;	1174 ;	flag, french, guiana, French Guiana ;	x 	# V6.0 (🇬🇫) flag for French Guiana
-U+1F1EC U+1F1E9 ;	emoji ;	1175 ;	flag, grenada, Grenada ;	x 	# V6.0 (🇬🇩) flag for Grenada
-U+1F1F2 U+1F1F4 ;	emoji ;	1176 ;	administrative, china, flag, macao, macau, region, special, Macau ;	x 	# V6.0 (🇲🇴) flag for Macau
-U+1F1FB U+1F1F3 ;	emoji ;	1177 ;	flag, nam, viet, vietnam, Vietnam ;	x 	# V6.0 (🇻🇳) flag for Vietnam
-U+1F1E8 U+1F1F3 ;	emoji ;	1178 ;	china, flag, China ;	j 	# V6.0 (🇨🇳) flag for China
-U+1F1F8 U+1F1F7 ;	emoji ;	1179 ;	flag, suriname, Suriname ;	x 	# V6.0 (🇸🇷) flag for Suriname
-U+1F1F9 U+1F1F7 ;	emoji ;	1180 ;	flag, turkey, Turkey ;	x 	# V6.0 (🇹🇷) flag for Turkey
-U+1F1EC U+1F1FE ;	emoji ;	1181 ;	flag, guyana, Guyana ;	x 	# V6.0 (🇬🇾) flag for Guyana
-U+1F1FE U+1F1EA ;	emoji ;	1182 ;	flag, rep., yemen, Yemen ;	x 	# V6.0 (🇾🇪) flag for Yemen
-U+1F1F2 U+1F1F0 ;	emoji ;	1183 ;	flag, former, fyr, macedonia, rep., republic, Macedonia ;	x 	# V6.0 (🇲🇰) flag for Macedonia
-U+1F1ED U+1F1F7 ;	emoji ;	1184 ;	croatia, flag, Croatia ;	x 	# V6.0 (🇭🇷) flag for Croatia
-U+1F1F7 U+1F1F4 ;	emoji ;	1185 ;	flag, romania, Romania ;	x 	# V6.0 (🇷🇴) flag for Romania
-U+1F1E7 U+1F1F6 ;	emoji ;	1186 ;	bonaire, caribbean, eustatius, flag, netherlands, saba, sint, Caribbean Netherlands ;	x 	# V6.0 (🇧🇶) flag for Caribbean Netherlands
-U+1F1E8 U+1F1E9 ;	emoji ;	1187 ;	congo, dem., democratic, flag, kinshasa, rep., republic, Congo - Kinshasa ;	x 	# V6.0 (🇨🇩) flag for Congo - Kinshasa
-U+1F1F9 U+1F1E9 ;	emoji ;	1188 ;	chad, flag, Chad ;	x 	# V6.0 (🇹🇩) flag for Chad
-U+1F1F6 U+1F1E6 ;	emoji ;	1189 ;	flag, qatar, Qatar ;	x 	# V6.0 (🇶🇦) flag for Qatar
-U+1F1F7 U+1F1EA ;	emoji ;	1190 ;	flag, reunion, réunion, Réunion ;	x 	# V6.0 (🇷🇪) flag for Réunion
-U+1F1F2 U+1F1EA ;	emoji ;	1191 ;	flag, montenegro, Montenegro ;	x 	# V6.0 (🇲🇪) flag for Montenegro
-U+1F1F2 U+1F1FD ;	emoji ;	1192 ;	flag, mexico, Mexico ;	x 	# V6.0 (🇲🇽) flag for Mexico
-U+1F1F2 U+1F1F5 ;	emoji ;	1193 ;	flag, islands, mariana, northern, Northern Mariana Islands ;	x 	# V6.0 (🇲🇵) flag for Northern Mariana Islands
-U+1F1F8 U+1F1FE ;	emoji ;	1194 ;	arab, flag, republic, syria, syrian, Syria ;	x 	# V6.0 (🇸🇾) flag for Syria
-U+1F1F2 U+1F1F7 ;	emoji ;	1195 ;	flag, mauritania, Mauritania ;	x 	# V6.0 (🇲🇷) flag for Mauritania
-U+1F1F3 U+1F1F4 ;	emoji ;	1196 ;	flag, norway, Norway ;	x 	# V6.0 (🇳🇴) flag for Norway
-U+1F1EA U+1F1EC ;	emoji ;	1197 ;	arab, egypt, flag, rep., Egypt ;	x 	# V6.0 (🇪🇬) flag for Egypt
-U+1F1F2 U+1F1E6 ;	emoji ;	1198 ;	flag, morocco, Morocco ;	x 	# V6.0 (🇲🇦) flag for Morocco
-U+1F1F8 U+1F1EF ;	emoji ;	1199 ;	flag, islands, jan, mayen, svalbard, Svalbard & Jan Mayen ;	x 	# V6.0 (🇸🇯) flag for Svalbard & Jan Mayen
-U+1F1EA U+1F1F7 ;	emoji ;	1200 ;	eritrea, flag, Eritrea ;	x 	# V6.0 (🇪🇷) flag for Eritrea
-U+1F1E7 U+1F1FB ;	emoji ;	1201 ;	bouvet, flag, island, Bouvet Island ;	x 	# V6.0 (🇧🇻) flag for Bouvet Island
-U+1F1F8 U+1F1EA ;	emoji ;	1202 ;	flag, sweden, Sweden ;	x 	# V6.0 (🇸🇪) flag for Sweden
-U+1F1E9 U+1F1F2 ;	emoji ;	1203 ;	dominica, flag, Dominica ;	x 	# V6.0 (🇩🇲) flag for Dominica
-U+1F1F2 U+1F1E9 ;	emoji ;	1204 ;	flag, moldova, republic, Moldova ;	x 	# V6.0 (🇲🇩) flag for Moldova
-U+1F1F2 U+1F1FA ;	emoji ;	1205 ;	flag, mauritius, Mauritius ;	x 	# V6.0 (🇲🇺) flag for Mauritius
-U+1F1E7 U+1F1E6 ;	emoji ;	1206 ;	bosnia, flag, herzegovina, Bosnia & Herzegovina ;	x 	# V6.0 (🇧🇦) flag for Bosnia & Herzegovina
-U+1F1E7 U+1F1F2 ;	emoji ;	1207 ;	bermuda, flag, Bermuda ;	x 	# V6.0 (🇧🇲) flag for Bermuda
-U+1F1EE U+1F1F6 ;	emoji ;	1208 ;	flag, iraq, Iraq ;	x 	# V6.0 (🇮🇶) flag for Iraq
-U+1F1F2 U+1F1ED ;	emoji ;	1209 ;	flag, islands, marshall, Marshall Islands ;	x 	# V6.0 (🇲🇭) flag for Marshall Islands
-U+1F1E7 U+1F1EA ;	emoji ;	1210 ;	belgium, flag, Belgium ;	x 	# V6.0 (🇧🇪) flag for Belgium
-U+1F1EA U+1F1EA ;	emoji ;	1211 ;	estonia, flag, Estonia ;	x 	# V6.0 (🇪🇪) flag for Estonia
-U+1F1E6 U+1F1E9 ;	emoji ;	1212 ;	andorra, flag, Andorra ;	x 	# V6.0 (🇦🇩) flag for Andorra
-U+1F1F2 U+1F1FF ;	emoji ;	1213 ;	flag, mozambique, Mozambique ;	x 	# V6.0 (🇲🇿) flag for Mozambique
-U+1F1FF U+1F1E6 ;	emoji ;	1214 ;	africa, flag, south, South Africa ;	x 	# V6.0 (🇿🇦) flag for South Africa
-U+1F1FB U+1F1EA ;	emoji ;	1215 ;	bolivarian, flag, republic, venezuela, Venezuela ;	x 	# V6.0 (🇻🇪) flag for Venezuela
-U+1F1F8 U+1F1E6 ;	emoji ;	1216 ;	arabia, flag, saudi, Saudi Arabia ;	x 	# V6.0 (🇸🇦) flag for Saudi Arabia
-U+1F1F9 U+1F1FF ;	emoji ;	1217 ;	flag, republic, tanzania, united, Tanzania ;	x 	# V6.0 (🇹🇿) flag for Tanzania
+U+1F1FD U+1F1F0 ;	emoji ;	1171 ;	flag, kosovo, Kosovo ;	x 	# V6.0 (🇽🇰) flag for Kosovo
+U+1F1F0 U+1F1FC ;	emoji ;	1172 ;	flag, kuwait, Kuwait ;	x 	# V6.0 (🇰🇼) flag for Kuwait
+U+1F1F0 U+1F1EC ;	emoji ;	1173 ;	flag, kyrgyz, kyrgyzstan, republic, Kyrgyzstan ;	x 	# V6.0 (🇰🇬) flag for Kyrgyzstan
+U+1F1F1 U+1F1E6 ;	emoji ;	1174 ;	democratic, flag, lao, laos, republic, Laos ;	x 	# V6.0 (🇱🇦) flag for Laos
+U+1F1F1 U+1F1FB ;	emoji ;	1175 ;	flag, latvia, Latvia ;	x 	# V6.0 (🇱🇻) flag for Latvia
+U+1F1F1 U+1F1E7 ;	emoji ;	1176 ;	flag, lebanon, Lebanon ;	x 	# V6.0 (🇱🇧) flag for Lebanon
+U+1F1F1 U+1F1F8 ;	emoji ;	1177 ;	flag, lesotho, Lesotho ;	x 	# V6.0 (🇱🇸) flag for Lesotho
+U+1F1F1 U+1F1F7 ;	emoji ;	1178 ;	flag, liberia, Liberia ;	x 	# V6.0 (🇱🇷) flag for Liberia
+U+1F1F1 U+1F1FE ;	emoji ;	1179 ;	arab, flag, libya, libyan, Libya ;	x 	# V6.0 (🇱🇾) flag for Libya
+U+1F1F1 U+1F1EE ;	emoji ;	1180 ;	flag, liechtenstein, Liechtenstein ;	x 	# V6.0 (🇱🇮) flag for Liechtenstein
+U+1F1F1 U+1F1F9 ;	emoji ;	1181 ;	flag, lithuania, Lithuania ;	x 	# V6.0 (🇱🇹) flag for Lithuania
+U+1F1F1 U+1F1FA ;	emoji ;	1182 ;	flag, luxembourg, Luxembourg ;	x 	# V6.0 (🇱🇺) flag for Luxembourg
+U+1F1F2 U+1F1F4 ;	emoji ;	1183 ;	administrative, china, flag, macao, macau, region, special, Macau ;	x 	# V6.0 (🇲🇴) flag for Macau
+U+1F1F2 U+1F1F0 ;	emoji ;	1184 ;	flag, former, fyr, macedonia, rep., republic, Macedonia ;	x 	# V6.0 (🇲🇰) flag for Macedonia
+U+1F1F2 U+1F1EC ;	emoji ;	1185 ;	flag, madagascar, Madagascar ;	x 	# V6.0 (🇲🇬) flag for Madagascar
+U+1F1F2 U+1F1FC ;	emoji ;	1186 ;	flag, malawi, Malawi ;	x 	# V6.0 (🇲🇼) flag for Malawi
+U+1F1F2 U+1F1FE ;	emoji ;	1187 ;	flag, malaysia, Malaysia ;	x 	# V6.0 (🇲🇾) flag for Malaysia
+U+1F1F2 U+1F1FB ;	emoji ;	1188 ;	flag, maldives, Maldives ;	x 	# V6.0 (🇲🇻) flag for Maldives
+U+1F1F2 U+1F1F1 ;	emoji ;	1189 ;	flag, mali, Mali ;	x 	# V6.0 (🇲🇱) flag for Mali
+U+1F1F2 U+1F1F9 ;	emoji ;	1190 ;	flag, malta, Malta ;	x 	# V6.0 (🇲🇹) flag for Malta
+U+1F1F2 U+1F1ED ;	emoji ;	1191 ;	flag, islands, marshall, Marshall Islands ;	x 	# V6.0 (🇲🇭) flag for Marshall Islands
+U+1F1F2 U+1F1F6 ;	emoji ;	1192 ;	flag, martinique, Martinique ;	x 	# V6.0 (🇲🇶) flag for Martinique
+U+1F1F2 U+1F1F7 ;	emoji ;	1193 ;	flag, mauritania, Mauritania ;	x 	# V6.0 (🇲🇷) flag for Mauritania
+U+1F1F2 U+1F1FA ;	emoji ;	1194 ;	flag, mauritius, Mauritius ;	x 	# V6.0 (🇲🇺) flag for Mauritius
+U+1F1FE U+1F1F9 ;	emoji ;	1195 ;	flag, mayotte, Mayotte ;	x 	# V6.0 (🇾🇹) flag for Mayotte
+U+1F1F2 U+1F1FD ;	emoji ;	1196 ;	flag, mexico, Mexico ;	x 	# V6.0 (🇲🇽) flag for Mexico
+U+1F1EB U+1F1F2 ;	emoji ;	1197 ;	fed., federated, flag, micronesia, Micronesia ;	x 	# V6.0 (🇫🇲) flag for Micronesia
+U+1F1F2 U+1F1E9 ;	emoji ;	1198 ;	flag, moldova, republic, Moldova ;	x 	# V6.0 (🇲🇩) flag for Moldova
+U+1F1F2 U+1F1E8 ;	emoji ;	1199 ;	flag, monaco, Monaco ;	x 	# V6.0 (🇲🇨) flag for Monaco
+U+1F1F2 U+1F1F3 ;	emoji ;	1200 ;	flag, mongolia, Mongolia ;	x 	# V6.0 (🇲🇳) flag for Mongolia
+U+1F1F2 U+1F1EA ;	emoji ;	1201 ;	flag, montenegro, Montenegro ;	x 	# V6.0 (🇲🇪) flag for Montenegro
+U+1F1F2 U+1F1F8 ;	emoji ;	1202 ;	flag, montserrat, Montserrat ;	x 	# V6.0 (🇲🇸) flag for Montserrat
+U+1F1F2 U+1F1E6 ;	emoji ;	1203 ;	flag, morocco, Morocco ;	x 	# V6.0 (🇲🇦) flag for Morocco
+U+1F1F2 U+1F1FF ;	emoji ;	1204 ;	flag, mozambique, Mozambique ;	x 	# V6.0 (🇲🇿) flag for Mozambique
+U+1F1F2 U+1F1F2 ;	emoji ;	1205 ;	burma, flag, myanmar, Myanmar  ;	x 	# V6.0 (🇲🇲) flag for Myanmar 
+U+1F1F3 U+1F1E6 ;	emoji ;	1206 ;	flag, namibia, Namibia ;	x 	# V6.0 (🇳🇦) flag for Namibia
+U+1F1F3 U+1F1F7 ;	emoji ;	1207 ;	flag, nauru, Nauru ;	x 	# V6.0 (🇳🇷) flag for Nauru
+U+1F1F3 U+1F1F5 ;	emoji ;	1208 ;	flag, nepal, Nepal ;	x 	# V6.0 (🇳🇵) flag for Nepal
+U+1F1F3 U+1F1F1 ;	emoji ;	1209 ;	flag, netherlands, Netherlands ;	x 	# V6.0 (🇳🇱) flag for Netherlands
+U+1F1F3 U+1F1E8 ;	emoji ;	1210 ;	caledonia, flag, new, New Caledonia ;	x 	# V6.0 (🇳🇨) flag for New Caledonia
+U+1F1F3 U+1F1FF ;	emoji ;	1211 ;	flag, new, zealand, New Zealand ;	x 	# V6.0 (🇳🇿) flag for New Zealand
+U+1F1F3 U+1F1EE ;	emoji ;	1212 ;	flag, nicaragua, Nicaragua ;	x 	# V6.0 (🇳🇮) flag for Nicaragua
+U+1F1F3 U+1F1EA ;	emoji ;	1213 ;	flag, niger, Niger ;	x 	# V6.0 (🇳🇪) flag for Niger
+U+1F1F3 U+1F1EC ;	emoji ;	1214 ;	flag, nigeria, Nigeria ;	x 	# V6.0 (🇳🇬) flag for Nigeria
+U+1F1F3 U+1F1FA ;	emoji ;	1215 ;	flag, niue, Niue ;	x 	# V6.0 (🇳🇺) flag for Niue
+U+1F1F3 U+1F1EB ;	emoji ;	1216 ;	flag, island, norfolk, Norfolk Island ;	x 	# V6.0 (🇳🇫) flag for Norfolk Island
+U+1F1F2 U+1F1F5 ;	emoji ;	1217 ;	flag, islands, mariana, northern, Northern Mariana Islands ;	x 	# V6.0 (🇲🇵) flag for Northern Mariana Islands
 U+1F1F0 U+1F1F5 ;	emoji ;	1218 ;	dem., democratic, flag, korea, north, rep., republic, North Korea ;	x 	# V6.0 (🇰🇵) flag for North Korea
-U+1F1E7 U+1F1E7 ;	emoji ;	1219 ;	barbados, flag, Barbados ;	x 	# V6.0 (🇧🇧) flag for Barbados
-U+1F1E6 U+1F1FF ;	emoji ;	1220 ;	azerbaijan, flag, Azerbaijan ;	x 	# V6.0 (🇦🇿) flag for Azerbaijan
-U+1F1F2 U+1F1F3 ;	emoji ;	1221 ;	flag, mongolia, Mongolia ;	x 	# V6.0 (🇲🇳) flag for Mongolia
-U+1F1E7 U+1F1FE ;	emoji ;	1222 ;	belarus, flag, Belarus ;	x 	# V6.0 (🇧🇾) flag for Belarus
-U+1F1F8 U+1F1FD ;	emoji ;	1223 ;	dutch, flag, maarten, sint, Sint Maarten ;	x 	# V6.0 (🇸🇽) flag for Sint Maarten
-U+1F1FF U+1F1F2 ;	emoji ;	1224 ;	flag, zambia, Zambia ;	x 	# V6.0 (🇿🇲) flag for Zambia
-U+1F1F0 U+1F1FC ;	emoji ;	1225 ;	flag, kuwait, Kuwait ;	x 	# V6.0 (🇰🇼) flag for Kuwait
-U+1F1EF U+1F1F4 ;	emoji ;	1226 ;	flag, jordan, Jordan ;	x 	# V6.0 (🇯🇴) flag for Jordan
-U+1F1F3 U+1F1E6 ;	emoji ;	1227 ;	flag, namibia, Namibia ;	x 	# V6.0 (🇳🇦) flag for Namibia
-U+1F1EE U+1F1F8 ;	emoji ;	1228 ;	flag, iceland, Iceland ;	x 	# V6.0 (🇮🇸) flag for Iceland
-U+1F1F5 U+1F1ED ;	emoji ;	1229 ;	flag, philippines, Philippines ;	x 	# V6.0 (🇵🇭) flag for Philippines
-U+1F1F5 U+1F1F9 ;	emoji ;	1230 ;	flag, portugal, Portugal ;	x 	# V6.0 (🇵🇹) flag for Portugal
-U+1F1EF U+1F1F2 ;	emoji ;	1231 ;	flag, jamaica, Jamaica ;	x 	# V6.0 (🇯🇲) flag for Jamaica
-U+1F1E6 U+1F1F2 ;	emoji ;	1232 ;	armenia, flag, Armenia ;	x 	# V6.0 (🇦🇲) flag for Armenia
-U+1F1F9 U+1F1FC ;	emoji ;	1233 ;	china, flag, province, taiwan, Taiwan ;	x 	# V6.0 (🇹🇼) flag for Taiwan
-U+1F1E8 U+1F1FD ;	emoji ;	1234 ;	christmas, flag, island, Christmas Island ;	x 	# V6.0 (🇨🇽) flag for Christmas Island
-U+1F1F9 U+1F1F0 ;	emoji ;	1235 ;	flag, tokelau, Tokelau ;	x 	# V6.0 (🇹🇰) flag for Tokelau
-U+1F1E7 U+1F1FF ;	emoji ;	1236 ;	belize, flag, Belize ;	x 	# V6.0 (🇧🇿) flag for Belize
-U+1F1F1 U+1F1FB ;	emoji ;	1237 ;	flag, latvia, Latvia ;	x 	# V6.0 (🇱🇻) flag for Latvia
-U+1F1F9 U+1F1F3 ;	emoji ;	1238 ;	flag, tunisia, Tunisia ;	x 	# V6.0 (🇹🇳) flag for Tunisia
-U+1F1EC U+1F1F2 ;	emoji ;	1239 ;	flag, gambia, Gambia ;	x 	# V6.0 (🇬🇲) flag for Gambia
-U+1F1E6 U+1F1EA ;	emoji ;	1240 ;	arab, emirates, flag, united, United Arab Emirates ;	x 	# V6.0 (🇦🇪) flag for United Arab Emirates
-U+1F1E6 U+1F1F1 ;	emoji ;	1241 ;	albania, flag, Albania ;	x 	# V6.0 (🇦🇱) flag for Albania
-U+1F1FC U+1F1F8 ;	emoji ;	1242 ;	flag, samoa, Samoa ;	x 	# V6.0 (🇼🇸) flag for Samoa
-U+1F1FA U+1F1EC ;	emoji ;	1243 ;	flag, uganda, Uganda ;	x 	# V6.0 (🇺🇬) flag for Uganda
-U+1F1F3 U+1F1F5 ;	emoji ;	1244 ;	flag, nepal, Nepal ;	x 	# V6.0 (🇳🇵) flag for Nepal
-U+1F1E9 U+1F1EA ;	emoji ;	1245 ;	flag, germany, Germany ;	j 	# V6.0 (🇩🇪) flag for Germany
-U+1F1F3 U+1F1F7 ;	emoji ;	1246 ;	flag, nauru, Nauru ;	x 	# V6.0 (🇳🇷) flag for Nauru
-U+1F1F0 U+1F1EC ;	emoji ;	1247 ;	flag, kyrgyz, kyrgyzstan, republic, Kyrgyzstan ;	x 	# V6.0 (🇰🇬) flag for Kyrgyzstan
-U+1F1EE U+1F1F2 ;	emoji ;	1248 ;	flag, isle, man, Isle of Man ;	x 	# V6.0 (🇮🇲) flag for Isle of Man
-U+1F1F2 U+1F1FB ;	emoji ;	1249 ;	flag, maldives, Maldives ;	x 	# V6.0 (🇲🇻) flag for Maldives
-U+1F1E8 U+1F1FB ;	emoji ;	1250 ;	cabo, cape, flag, verde, Cape Verde ;	x 	# V6.0 (🇨🇻) flag for Cape Verde
-U+1F1E6 U+1F1FD ;	emoji ;	1251 ;	åland, flag, islands, Åland Islands ;	x 	# V6.0 (🇦🇽) flag for Åland Islands
-U+1F1F0 U+1F1ED ;	emoji ;	1252 ;	cambodia, flag, Cambodia ;	x 	# V6.0 (🇰🇭) flag for Cambodia
-U+1F1F8 U+1F1E9 ;	emoji ;	1253 ;	flag, sudan, Sudan ;	x 	# V6.0 (🇸🇩) flag for Sudan
-U+1F1F0 U+1F1EA ;	emoji ;	1254 ;	flag, kenya, Kenya ;	x 	# V6.0 (🇰🇪) flag for Kenya
-U+1F1EA U+1F1ED ;	emoji ;	1255 ;	flag, sahara, western, Western Sahara ;	x 	# V6.0 (🇪🇭) flag for Western Sahara
-U+1F1ED U+1F1F9 ;	emoji ;	1256 ;	flag, haiti, Haiti ;	x 	# V6.0 (🇭🇹) flag for Haiti
-U+1F1F9 U+1F1F9 ;	emoji ;	1257 ;	flag, tobago, trinidad, Trinidad & Tobago ;	x 	# V6.0 (🇹🇹) flag for Trinidad & Tobago
-U+1F1F5 U+1F1F8 ;	emoji ;	1258 ;	bank, flag, gaza, occupied, palestine, palestinian, strip, territories, territory, west, Palestinian Territories ;	x 	# V6.0 (🇵🇸) flag for Palestinian Territories
-U+1F1EB U+1F1F0 ;	emoji ;	1259 ;	falkland, flag, islands, islas, malvinas, Falkland Islands ;	x 	# V6.0 (🇫🇰) flag for Falkland Islands
-U+1F1F1 U+1F1E6 ;	emoji ;	1260 ;	democratic, flag, lao, laos, republic, Laos ;	x 	# V6.0 (🇱🇦) flag for Laos
-U+1F1E6 U+1F1EE ;	emoji ;	1261 ;	anguilla, flag, Anguilla ;	x 	# V6.0 (🇦🇮) flag for Anguilla
-U+1F1F5 U+1F1F3 ;	emoji ;	1262 ;	flag, islands, pitcairn, Pitcairn Islands ;	x 	# V6.0 (🇵🇳) flag for Pitcairn Islands
-U+1F1F2 U+1F1F8 ;	emoji ;	1263 ;	flag, montserrat, Montserrat ;	x 	# V6.0 (🇲🇸) flag for Montserrat
-U+1F1F0 U+1F1FE ;	emoji ;	1264 ;	cayman, flag, islands, Cayman Islands ;	x 	# V6.0 (🇰🇾) flag for Cayman Islands
-U+1F1F9 U+1F1F1 ;	emoji ;	1265 ;	east, flag, leste, timor, Timor-Leste ;	x 	# V6.0 (🇹🇱) flag for Timor-Leste
-U+1F1F0 U+1F1F3 ;	emoji ;	1266 ;	flag, kitts, nevis, saint, st., St. Kitts & Nevis ;	x 	# V6.0 (🇰🇳) flag for St. Kitts & Nevis
-U+1F1EC U+1F1FA ;	emoji ;	1267 ;	flag, guam, Guam ;	x 	# V6.0 (🇬🇺) flag for Guam
-U+1F1E6 U+1F1FA ;	emoji ;	1268 ;	australia, flag, Australia ;	x 	# V6.0 (🇦🇺) flag for Australia
-U+1F1E8 U+1F1E8 ;	emoji ;	1269 ;	cocos, flag, islands, keeling, Cocos  Islands ;	x 	# V6.0 (🇨🇨) flag for Cocos  Islands
-U+1F1ED U+1F1F2 ;	emoji ;	1270 ;	flag, heard, island, islands, mcdonald, Heard & McDonald Islands ;	x 	# V6.0 (🇭🇲) flag for Heard & McDonald Islands
-U+1F1E8 U+1F1F0 ;	emoji ;	1271 ;	cook, flag, islands, Cook Islands ;	x 	# V6.0 (🇨🇰) flag for Cook Islands
-U+1F1E7 U+1F1EB ;	emoji ;	1272 ;	burkina, faso, flag, Burkina Faso ;	x 	# V6.0 (🇧🇫) flag for Burkina Faso
-U+1F1FB U+1F1FA ;	emoji ;	1273 ;	flag, vanuatu, Vanuatu ;	x 	# V6.0 (🇻🇺) flag for Vanuatu
-U+1F1F9 U+1F1E8 ;	emoji ;	1274 ;	caicos, flag, islands, turks, Turks & Caicos Islands ;	x 	# V6.0 (🇹🇨) flag for Turks & Caicos Islands
-U+1F1E8 U+1F1FC ;	emoji ;	1275 ;	antilles, curacao, curaçao, flag, netherlands, Curaçao ;	x 	# V6.0 (🇨🇼) flag for Curaçao
-U+1F1F9 U+1F1F2 ;	emoji ;	1276 ;	flag, turkmenistan, Turkmenistan ;	x 	# V6.0 (🇹🇲) flag for Turkmenistan
-U+1F1F8 U+1F1ED ;	emoji ;	1277 ;	ascension, cunha, flag, helena, saint, st., tristan, St. Helena ;	x 	# V6.0 (🇸🇭) flag for St. Helena
-U+1F1FD U+1F1F0 ;	emoji ;	1278 ;	flag, kosovo, Kosovo ;	x 	# V6.0 (🇽🇰) flag for Kosovo
-U+1F1E6 U+1F1EC ;	emoji ;	1279 ;	antigua, barbuda, flag, Antigua & Barbuda ;	x 	# V6.0 (🇦🇬) flag for Antigua & Barbuda
-U+1F1EC U+1F1F8 ;	emoji ;	1280 ;	flag, georgia, islands, sandwich, south, South Georgia & South Sandwich Islands ;	x 	# V6.0 (🇬🇸) flag for South Georgia & South Sandwich Islands
-U+1F1FB U+1F1EC ;	emoji ;	1281 ;	british, flag, islands, virgin, British Virgin Islands ;	x 	# V6.0 (🇻🇬) flag for British Virgin Islands
-U+1F1F8 U+1F1F8 ;	emoji ;	1282 ;	flag, south, sudan, South Sudan ;	x 	# V6.0 (🇸🇸) flag for South Sudan
-U+1F1EA U+1F1FA ;	emoji ;	1283 ;	european, flag, union, European Union ;	x 	# V6.0 (🇪🇺) flag for European Union
-U+1F1F1 U+1F1EE ;	emoji ;	1284 ;	flag, liechtenstein, Liechtenstein ;	x 	# V6.0 (🇱🇮) flag for Liechtenstein
-U+1F1F1 U+1F1FE ;	emoji ;	1285 ;	arab, flag, libya, libyan, Libya ;	x 	# V6.0 (🇱🇾) flag for Libya
-U+1F1F3 U+1F1FF ;	emoji ;	1286 ;	flag, new, zealand, New Zealand ;	x 	# V6.0 (🇳🇿) flag for New Zealand
-U+1F1F2 U+1F1FC ;	emoji ;	1287 ;	flag, malawi, Malawi ;	x 	# V6.0 (🇲🇼) flag for Malawi
-U+1F1F5 U+1F1EC ;	emoji ;	1288 ;	flag, guinea, new, papua, Papua New Guinea ;	x 	# V6.0 (🇵🇬) flag for Papua New Guinea
-U+1F1F9 U+1F1E6 ;	emoji ;	1289 ;	cunha, flag, tristan, Tristan da Cunha ;	x 	# V6.0 (🇹🇦) flag for Tristan da Cunha
-U+1F1EC U+1F1F5 ;	emoji ;	1290 ;	flag, guadeloupe, Guadeloupe ;	x 	# V6.0 (🇬🇵) flag for Guadeloupe
-U+1F1E7 U+1F1E9 ;	emoji ;	1291 ;	bangladesh, flag, Bangladesh ;	x 	# V6.0 (🇧🇩) flag for Bangladesh
-U+1F1E6 U+1F1EB ;	emoji ;	1292 ;	afghanistan, flag, Afghanistan ;	x 	# V6.0 (🇦🇫) flag for Afghanistan
-U+1F1E6 U+1F1E8 ;	emoji ;	1293 ;	ascension, flag, island, Ascension Island ;	x 	# V6.0 (🇦🇨) flag for Ascension Island
-U+1F1E6 U+1F1F4 ;	emoji ;	1294 ;	angola, flag, Angola ;	x 	# V6.0 (🇦🇴) flag for Angola
-U+2B06 ;	text ;	1295 ;	arrow ;	aj 	# V4.0 (⬆) upwards black arrow
-U+2197 ;	text ;	1296 ;	arrow, northeast ;	j 	# V1.1 (↗) north east arrow
-U+27A1 ;	text ;	1297 ;	arrow ;	zaj 	# V1.1 (➡) black rightwards arrow
-U+2198 ;	text ;	1298 ;	arrow, southeast ;	j 	# V1.1 (↘) south east arrow
-U+2B07 ;	text ;	1299 ;	arrow, down ;	aj 	# V4.0 (⬇) downwards black arrow
-U+2199 ;	text ;	1300 ;	arrow, southwest ;	j 	# V1.1 (↙) south west arrow
-U+2B05 ;	text ;	1301 ;	arrow ;	aj 	# V4.0 (⬅) leftwards black arrow
-U+2196 ;	text ;	1302 ;	arrow, northwest ;	j 	# V1.1 (↖) north west arrow
-U+2195 ;	text ;	1303 ;	arrow ;	zj 	# V1.1 (↕) up down arrow
-U+2194 ;	text ;	1304 ;	arrow ;	zj 	# V1.1 (↔) left right arrow
-U+21A9 ;	text ;	1305 ;	arrow ;	j 	# V1.1 (↩) leftwards arrow with hook
-U+21AA ;	text ;	1306 ;	arrow ;	j 	# V1.1 (↪) rightwards arrow with hook
-U+2934 ;	text ;	1307 ;	arrow ;	j 	# V3.2 (⤴) arrow pointing rightwards then curving upwards
-U+2935 ;	text ;	1308 ;	arrow, down ;	j 	# V3.2 (⤵) arrow pointing rightwards then curving downwards
-U+1F503 ;	emoji ;	1309 ;	arrow, clockwise, reload ;	j 	# V6.0 (🔃) clockwise downwards and upwards open circle arrows
-U+1F504 ;	emoji ;	1310 ;	anticlockwise, arrow, clockwise ;	x 	# V6.0 (🔄) anticlockwise downwards and upwards open circle arrows
-U+1F5D8 ;	emoji ;	1311 ;	arrow, clockwise ;	w 	# V7.0 (🗘) clockwise right and left semicircle arrows
-U+1F519 ;	emoji ;	1312 ;	above, arrow, back ;	j 	# V6.0 (🔙) back with leftwards arrow above
-U+1F51A ;	emoji ;	1313 ;	above, arrow, end ;	j 	# V6.0 (🔚) end with leftwards arrow above
-U+1F51B ;	emoji ;	1314 ;	above, arrow, mark, on ;	j 	# V6.0 (🔛) on with exclamation mark with left right arrow above
-U+1F51C ;	emoji ;	1315 ;	above, arrow, soon ;	j 	# V6.0 (🔜) soon with rightwards arrow above
-U+1F51D ;	emoji ;	1316 ;	above, arrow, top, up ;	j 	# V6.0 (🔝) top with upwards arrow above
-U+2622 ;	text ;	1317 ;	radioactive, sign ;	x 	# V1.1 (☢) radioactive sign
-U+2623 ;	text ;	1318 ;	biohazard, sign ;	x 	# V1.1 (☣) biohazard sign
-U+262E ;	text ;	1319 ;	peace, sign ;	x 	# V1.1 (☮) peace symbol
-U+262F ;	text ;	1320 ;	sign, yang, yin ;	w 	# V1.1 (☯) yin yang
-U+2672 ;	text ;	1321 ;	recycle, recycling, sign, universal ;	x 	# V3.2 (♲) universal recycling symbol
-U+267E ;	text ;	1322 ;	paper, permanent, sign ;	x 	# V4.1 (♾) permanent paper sign
-U+1F4AE ;	emoji ;	1323 ;	flower, object ;	j 	# V6.0 (💮) white flower
-U+267B ;	text ;	1324 ;	recycle, recycling, solid, travel, universal ;	j 	# V3.2 (♻) black universal recycling symbol
-U+26A1 ;	emoji ;	1325 ;	danger, electric, electricity, high, nature, travel, voltage, zap ;	aj 	# V4.0 (⚡) high voltage sign
-U+2B50 ;	emoji ;	1326 ;	nature, star ;	j 	# V5.1 (⭐) white medium star
-U+2B55 ;	emoji ;	1327 ;	circle, o, travel ;	j 	# V5.2 (⭕) heavy large circle
-U+2705 ;	emoji ;	1328 ;	check, mark, sign ;	j 	# V6.0 (✅) white heavy check mark
-U+2611 ;	text ;	1329 ;	ballot, box, check, sign ;	jw 	# V1.1 (☑) ballot box with check
-U+2714 ;	text ;	1330 ;	check, mark, sign ;	zjw 	# V1.1 (✔) heavy check mark
-U+2715 ;	text ;	1331 ;	cancel, multiplication, multiply, sign, x ;	z 	# V1.1 (✕) multiplication x
-U+2716 ;	text ;	1332 ;	cancel, multiplication, multiply, sign, x ;	zj 	# V1.1 (✖) heavy multiplication x
-U+2717 ;	text ;	1333 ;	ballot, sign ;	z 	# V1.1 (✗) ballot x
-U+2718 ;	text ;	1334 ;	ballot, sign ;	z 	# V1.1 (✘) heavy ballot x
-U+1F5D9 ;	emoji ;	1335 ;	cancel, multiplication, multiply, sign, x ;	w 	# V7.0 (🗙) cancellation x
-U+274C ;	emoji ;	1336 ;	cancel, mark, multiplication, multiply, sign, x ;	j 	# V6.0 (❌) cross mark
-U+274E ;	emoji ;	1337 ;	mark, sign, square ;	j 	# V6.0 (❎) negative squared cross mark
-U+2612 ;	text ;	1338 ;	ballot, box, sign ;	w 	# V1.1 (☒) ballot box with x
-U+2795 ;	emoji ;	1339 ;	plus, sign ;	j 	# V6.0 (➕) heavy plus sign
-U+2796 ;	emoji ;	1340 ;	minus, sign ;	j 	# V6.0 (➖) heavy minus sign
-U+2797 ;	emoji ;	1341 ;	division, sign ;	j 	# V6.0 (➗) heavy division sign
-U+27B0 ;	emoji ;	1342 ;	cur, loop, sign ;	j 	# V6.0 (➰) curly loop
-U+27BF ;	emoji ;	1343 ;	cur, double, loop, sign ;	x 	# V6.0 (➿) double curly loop
-U+303D ;	text ;	1344 ;	mark, part, sign ;	j 	# V3.2 (〽) part alternation mark
-U+2733 ;	text ;	1345 ;	asterisk, sign ;	zj 	# V1.1 (✳) eight spoked asterisk
-U+2734 ;	text ;	1346 ;	sign, star ;	zj 	# V1.1 (✴) eight pointed black star
-U+2747 ;	text ;	1347 ;	sign, sparkle, sparkler ;	zj 	# V1.1 (❇) sparkle
-U+25AA ;	text ;	1348 ;	geometric, sign, square ;	jw 	# V1.1 (▪) black small square
-U+25AB ;	text ;	1349 ;	geometric, sign, square ;	j 	# V1.1 (▫) white small square
-U+25FB ;	text ;	1350 ;	geometric, sign, square ;	j 	# V3.2 (◻) white medium square
-U+25FC ;	text ;	1351 ;	geometric, sign, square ;	jw 	# V3.2 (◼) black medium square
-U+25FD ;	emoji ;	1352 ;	geometric, sign, square ;	j 	# V3.2 (◽) white medium small square
-U+25FE ;	emoji ;	1353 ;	geometric, sign, square ;	jw 	# V3.2 (◾) black medium small square
-U+2610 ;	text ;	1354 ;	ballot, box, geometric, sign ;	x 	# V1.1 (☐) ballot box
-U+25EA ;	text ;	1355 ;	black, square, white ;	x 	# V7.0 (◪) square with lower right diagonal half black
-U+2B1B ;	emoji ;	1356 ;	geometric, sign, square ;	ajw 	# V5.1 (⬛) black large square
-U+2B1C ;	emoji ;	1357 ;	geometric, sign, square ;	jw 	# V5.1 (⬜) white large square
-U+1F536 ;	emoji ;	1358 ;	diamond, geometric, orange, sign ;	j 	# V6.0 (🔶) large orange diamond
-U+1F537 ;	emoji ;	1359 ;	blue, diamond, geometric, sign ;	j 	# V6.0 (🔷) large blue diamond
-U+1F538 ;	emoji ;	1360 ;	diamond, geometric, orange, sign ;	j 	# V6.0 (🔸) small orange diamond
-U+1F539 ;	emoji ;	1361 ;	blue, diamond, geometric, sign ;	j 	# V6.0 (🔹) small blue diamond
-U+1F53A ;	emoji ;	1362 ;	geometric, red, sign ;	j 	# V6.0 (🔺) up-pointing red triangle
-U+1F53B ;	emoji ;	1363 ;	down, geometric, red, sign ;	j 	# V6.0 (🔻) down-pointing red triangle
-U+1F4A0 ;	emoji ;	1364 ;	comic, diamond, emotion, geometric, inside, sign ;	j 	# V6.0 (💠) diamond shape with a dot inside
-U+1F518 ;	emoji ;	1365 ;	button, geometric, radio, sign ;	j 	# V6.0 (🔘) radio button
-U+1F532 ;	emoji ;	1366 ;	button, geometric, sign, square ;	j 	# V6.0 (🔲) black square button
-U+1F533 ;	emoji ;	1367 ;	button, geometric, outlined, sign, square ;	j 	# V6.0 (🔳) white square button
-U+26AA ;	emoji ;	1368 ;	circle, geometric, sign ;	j 	# V4.1 (⚪) medium white circle
-U+26AB ;	emoji ;	1369 ;	circle, geometric, sign ;	jw 	# V4.1 (⚫) medium black circle
-U+1F534 ;	emoji ;	1370 ;	circle, geometric, red, sign ;	j 	# V6.0 (🔴) large red circle
-U+1F535 ;	emoji ;	1371 ;	blue, circle, geometric, sign ;	j 	# V6.0 (🔵) large blue circle
-U+1F53E ;	emoji ;	1372 ;	circle, geometric, sign ;	w 	# V7.0 (🔾) lower right shadowed white circle
-U+1F53F ;	emoji ;	1373 ;	circle, geometric, sign ;	w 	# V7.0 (🔿) upper right shadowed white circle
-U+25CF ;	text ;	1374 ;	black, circle ;	w 	# V7.0 (●) black circle
-U+203C ;	text ;	1375 ;	bangbang, exclamation, mark, punctuation, word ;	aj 	# V1.1 (‼) double exclamation mark
-U+2049 ;	text ;	1376 ;	exclamation, interrobang, mark, punctuation, question, word ;	aj 	# V3.0 (⁉) exclamation question mark
-U+2753 ;	emoji ;	1377 ;	mark, punctuation, question, solid, word ;	jw 	# V6.0 (❓) black question mark ornament
-U+2754 ;	emoji ;	1378 ;	mark, outlined, punctuation, question, word ;	j 	# V6.0 (❔) white question mark ornament
-U+2755 ;	emoji ;	1379 ;	exclamation, mark, outlined, punctuation, word ;	j 	# V6.0 (❕) white exclamation mark ornament
-U+2757 ;	emoji ;	1380 ;	exclamation, mark, punctuation, word ;	j 	# V5.2 (❗) heavy exclamation mark symbol
-U+2762 ;	text ;	1381 ;	exclamation, mark, punctuation, word ;	z 	# V1.1 (❢) heavy exclamation mark ornament
-U+3030 ;	text ;	1382 ;	dash, punctuation, sound, wavy ;	j 	# V1.1 (〰) wavy dash
-U+1F51E ;	emoji ;	1383 ;	18, eighteen, forbidden, no, not, prohibited, under, underage, word ;	j 	# V6.0 (🔞) no one under eighteen symbol
-U+00A9 ;	text ;	1384 ;	copyright, word ;	j 	# V1.1 (©) copyright sign
-U+00AE ;	text ;	1385 ;	registered, word ;	j 	# V1.1 (®) registered sign
-U+1F520 ;	emoji ;	1386 ;	input, latin, letters, uppercase, word ;	j 	# V6.0 (🔠) input symbol for latin capital letters
-U+1F521 ;	emoji ;	1387 ;	abcd, input, latin, letters, lowercase, word ;	j 	# V6.0 (🔡) input symbol for latin small letters
-U+1F522 ;	emoji ;	1388 ;	1234, input, numbers, word ;	j 	# V6.0 (🔢) input symbol for numbers
-U+1F523 ;	emoji ;	1389 ;	input, symbols, word ;	j 	# V6.0 (🔣) input symbol for symbols
-U+1F524 ;	emoji ;	1390 ;	abc, alphabet, input, latin, letters, word ;	j 	# V6.0 (🔤) input symbol for latin letters
-U+1F5DA ;	emoji ;	1391 ;	font, increase, size, word ;	w 	# V7.0 (🗚) increase font size symbol
-U+1F5DB ;	emoji ;	1392 ;	decrease, font, size, word ;	x 	# V7.0 (🗛) decrease font size symbol
-U+1F170 ;	text ;	1393 ;	a, blood, word ;	j 	# V6.0 (🅰) negative squared latin capital letter a
-U+1F18E ;	emoji ;	1394 ;	ab, blood, word ;	j 	# V6.0 (🆎) negative squared ab
-U+1F171 ;	text ;	1395 ;	b, blood, word ;	j 	# V6.0 (🅱) negative squared latin capital letter b
-U+1F191 ;	emoji ;	1396 ;	cl, word ;	j 	# V6.0 (🆑) squared cl
-U+1F192 ;	emoji ;	1397 ;	cool, word ;	j 	# V6.0 (🆒) squared cool
-U+1F193 ;	emoji ;	1398 ;	free, word ;	j 	# V6.0 (🆓) squared free
-U+2139 ;	text ;	1399 ;	information, word ;	j 	# V3.0 (ℹ) information source
-U+1F6C8 ;	emoji ;	1400 ;	circle, information, place ;	w 	# V7.0 (🛈) circled information source
-U+1F194 ;	emoji ;	1401 ;	id, identity, word ;	j 	# V6.0 (🆔) squared id
-U+24C2 ;	text ;	1402 ;	circle, m, word ;	j 	# V1.1 (Ⓜ) circled latin capital letter m
-U+1F195 ;	emoji ;	1403 ;	new, word ;	j 	# V6.0 (🆕) squared new
-U+1F196 ;	emoji ;	1404 ;	ng, word ;	j 	# V6.0 (🆖) squared ng
-U+1F17E ;	text ;	1405 ;	blood, o, word ;	j 	# V6.0 (🅾) negative squared latin capital letter o
-U+1F197 ;	emoji ;	1406 ;	ok, word ;	j 	# V6.0 (🆗) squared ok
-U+1F17F ;	text ;	1407 ;	parking, word ;	aj 	# V5.2 (🅿) negative squared latin capital letter p
-U+2117 ;	text ;	1408 ;	copyright, recording, sound ;	x 	# V1.1 (℗) sound recording copyright
-U+1F198 ;	emoji ;	1409 ;	help, sos, word ;	j 	# V6.0 (🆘) squared sos
-U+2122 ;	text ;	1410 ;	mark, tm, trademark, word ;	j 	# V1.1 (™) trade mark sign
-U+1F199 ;	emoji ;	1411 ;	mark, up, word ;	j 	# V6.0 (🆙) squared up with exclamation mark
-U+1F19A ;	emoji ;	1412 ;	versus, vs, word ;	j 	# V6.0 (🆚) squared vs
-U+1F201 ;	emoji ;	1413 ;	japanese, word ;	j 	# V6.0 (🈁) squared katakana koko
-U+1F202 ;	text ;	1414 ;	japanese, word ;	j 	# V6.0 (🈂) squared katakana sa
-U+1F239 ;	emoji ;	1415 ;	japanese, word ;	j 	# V6.0 (🈹) squared cjk unified ideograph-5272
-U+1F251 ;	emoji ;	1416 ;	chinese, word ;	j 	# V6.0 (🉑) circled ideograph accept
-U+1F234 ;	emoji ;	1417 ;	chinese, word ;	j 	# V6.0 (🈴) squared cjk unified ideograph-5408
-U+1F23A ;	emoji ;	1418 ;	chinese, word ;	j 	# V6.0 (🈺) squared cjk unified ideograph-55b6
-U+1F250 ;	emoji ;	1419 ;	japanese, word ;	j 	# V6.0 (🉐) circled ideograph advantage
-U+1F22F ;	emoji ;	1420 ;	japanese, word ;	aj 	# V5.2 (🈯) squared cjk unified ideograph-6307
-U+1F237 ;	text ;	1421 ;	japanese, word ;	j 	# V6.0 (🈷) squared cjk unified ideograph-6708
-U+1F236 ;	emoji ;	1422 ;	japanese, word ;	j 	# V6.0 (🈶) squared cjk unified ideograph-6709
-U+1F235 ;	emoji ;	1423 ;	chinese, word ;	j 	# V6.0 (🈵) squared cjk unified ideograph-6e80
-U+1F21A ;	emoji ;	1424 ;	japanese, word ;	aj 	# V5.2 (🈚) squared cjk unified ideograph-7121
-U+1F238 ;	emoji ;	1425 ;	chinese, word ;	j 	# V6.0 (🈸) squared cjk unified ideograph-7533
-U+3297 ;	text ;	1426 ;	congratulation, congratulations, ideograph, word ;	j 	# V1.1 (㊗) circled ideograph congratulation
-U+1F232 ;	emoji ;	1427 ;	japanese, word ;	j 	# V6.0 (🈲) squared cjk unified ideograph-7981
-U+3299 ;	text ;	1428 ;	ideograph, secret, word ;	aj 	# V1.1 (㊙) circled ideograph secret
-U+1F233 ;	emoji ;	1429 ;	chinese, word ;	j 	# V6.0 (🈳) squared cjk unified ideograph-7a7a
+U+1F1F3 U+1F1F4 ;	emoji ;	1219 ;	flag, norway, Norway ;	x 	# V6.0 (🇳🇴) flag for Norway
+U+1F1F4 U+1F1F2 ;	emoji ;	1220 ;	flag, oman, Oman ;	x 	# V6.0 (🇴🇲) flag for Oman
+U+1F1F5 U+1F1F0 ;	emoji ;	1221 ;	flag, pakistan, Pakistan ;	x 	# V6.0 (🇵🇰) flag for Pakistan
+U+1F1F5 U+1F1FC ;	emoji ;	1222 ;	flag, palau, Palau ;	x 	# V6.0 (🇵🇼) flag for Palau
+U+1F1F5 U+1F1F8 ;	emoji ;	1223 ;	bank, flag, gaza, occupied, palestine, palestinian, strip, territories, territory, west, Palestinian Territories ;	x 	# V6.0 (🇵🇸) flag for Palestinian Territories
+U+1F1F5 U+1F1E6 ;	emoji ;	1224 ;	flag, panama, Panama ;	x 	# V6.0 (🇵🇦) flag for Panama
+U+1F1F5 U+1F1EC ;	emoji ;	1225 ;	flag, guinea, new, papua, Papua New Guinea ;	x 	# V6.0 (🇵🇬) flag for Papua New Guinea
+U+1F1F5 U+1F1FE ;	emoji ;	1226 ;	flag, paraguay, Paraguay ;	x 	# V6.0 (🇵🇾) flag for Paraguay
+U+1F1F5 U+1F1EA ;	emoji ;	1227 ;	flag, peru, Peru ;	x 	# V6.0 (🇵🇪) flag for Peru
+U+1F1F5 U+1F1ED ;	emoji ;	1228 ;	flag, philippines, Philippines ;	x 	# V6.0 (🇵🇭) flag for Philippines
+U+1F1F5 U+1F1F3 ;	emoji ;	1229 ;	flag, islands, pitcairn, Pitcairn Islands ;	x 	# V6.0 (🇵🇳) flag for Pitcairn Islands
+U+1F1F5 U+1F1F1 ;	emoji ;	1230 ;	flag, poland, Poland ;	x 	# V6.0 (🇵🇱) flag for Poland
+U+1F1F5 U+1F1F9 ;	emoji ;	1231 ;	flag, portugal, Portugal ;	x 	# V6.0 (🇵🇹) flag for Portugal
+U+1F1F5 U+1F1F7 ;	emoji ;	1232 ;	flag, puerto, rico, Puerto Rico ;	x 	# V6.0 (🇵🇷) flag for Puerto Rico
+U+1F1F6 U+1F1E6 ;	emoji ;	1233 ;	flag, qatar, Qatar ;	x 	# V6.0 (🇶🇦) flag for Qatar
+U+1F1F7 U+1F1EA ;	emoji ;	1234 ;	flag, reunion, réunion, Réunion ;	x 	# V6.0 (🇷🇪) flag for Réunion
+U+1F1F7 U+1F1F4 ;	emoji ;	1235 ;	flag, romania, Romania ;	x 	# V6.0 (🇷🇴) flag for Romania
+U+1F1F7 U+1F1FA ;	emoji ;	1236 ;	federation, flag, russia, russian, Russia ;	j 	# V6.0 (🇷🇺) flag for Russia
+U+1F1F7 U+1F1FC ;	emoji ;	1237 ;	flag, republic, rwanda, Rwanda ;	x 	# V6.0 (🇷🇼) flag for Rwanda
+U+1F1FC U+1F1F8 ;	emoji ;	1238 ;	flag, samoa, Samoa ;	x 	# V6.0 (🇼🇸) flag for Samoa
+U+1F1F8 U+1F1F2 ;	emoji ;	1239 ;	flag, marino, san, San Marino ;	x 	# V6.0 (🇸🇲) flag for San Marino
+U+1F1F8 U+1F1F9 ;	emoji ;	1240 ;	flag, principe, príncipe, sao, são, tome, tomé, São Tomé & Príncipe ;	x 	# V6.0 (🇸🇹) flag for São Tomé & Príncipe
+U+1F1F8 U+1F1E6 ;	emoji ;	1241 ;	arabia, flag, saudi, Saudi Arabia ;	x 	# V6.0 (🇸🇦) flag for Saudi Arabia
+U+1F1F8 U+1F1F3 ;	emoji ;	1242 ;	flag, senegal, Senegal ;	x 	# V6.0 (🇸🇳) flag for Senegal
+U+1F1F7 U+1F1F8 ;	emoji ;	1243 ;	flag, serbia, Serbia ;	x 	# V6.0 (🇷🇸) flag for Serbia
+U+1F1F8 U+1F1E8 ;	emoji ;	1244 ;	flag, seychelles, Seychelles ;	x 	# V6.0 (🇸🇨) flag for Seychelles
+U+1F1F8 U+1F1F1 ;	emoji ;	1245 ;	flag, leone, sierra, Sierra Leone ;	x 	# V6.0 (🇸🇱) flag for Sierra Leone
+U+1F1F8 U+1F1EC ;	emoji ;	1246 ;	flag, singapore, Singapore ;	x 	# V6.0 (🇸🇬) flag for Singapore
+U+1F1F8 U+1F1FD ;	emoji ;	1247 ;	dutch, flag, maarten, sint, Sint Maarten ;	x 	# V6.0 (🇸🇽) flag for Sint Maarten
+U+1F1F8 U+1F1F0 ;	emoji ;	1248 ;	flag, republic, slovak, slovakia, Slovakia ;	x 	# V6.0 (🇸🇰) flag for Slovakia
+U+1F1F8 U+1F1EE ;	emoji ;	1249 ;	flag, slovenia, Slovenia ;	x 	# V6.0 (🇸🇮) flag for Slovenia
+U+1F1F8 U+1F1E7 ;	emoji ;	1250 ;	flag, islands, solomon, Solomon Islands ;	x 	# V6.0 (🇸🇧) flag for Solomon Islands
+U+1F1F8 U+1F1F4 ;	emoji ;	1251 ;	flag, somalia, Somalia ;	x 	# V6.0 (🇸🇴) flag for Somalia
+U+1F1FF U+1F1E6 ;	emoji ;	1252 ;	africa, flag, south, South Africa ;	x 	# V6.0 (🇿🇦) flag for South Africa
+U+1F1EC U+1F1F8 ;	emoji ;	1253 ;	flag, georgia, islands, sandwich, south, South Georgia & South Sandwich Islands ;	x 	# V6.0 (🇬🇸) flag for South Georgia & South Sandwich Islands
+U+1F1F0 U+1F1F7 ;	emoji ;	1254 ;	flag, korea, rep., republic, south, South Korea ;	j 	# V6.0 (🇰🇷) flag for South Korea
+U+1F1F8 U+1F1F8 ;	emoji ;	1255 ;	flag, south, sudan, South Sudan ;	x 	# V6.0 (🇸🇸) flag for South Sudan
+U+1F1EA U+1F1F8 ;	emoji ;	1256 ;	flag, spain, Spain ;	j 	# V6.0 (🇪🇸) flag for Spain
+U+1F1F1 U+1F1F0 ;	emoji ;	1257 ;	flag, lanka, sri, Sri Lanka ;	x 	# V6.0 (🇱🇰) flag for Sri Lanka
+U+1F1E7 U+1F1F1 ;	emoji ;	1258 ;	barthelemy, barthélemy, flag, saint, st., St. Barthélemy ;	x 	# V6.0 (🇧🇱) flag for St. Barthélemy
+U+1F1F8 U+1F1ED ;	emoji ;	1259 ;	ascension, cunha, flag, helena, saint, st., tristan, St. Helena ;	x 	# V6.0 (🇸🇭) flag for St. Helena
+U+1F1F0 U+1F1F3 ;	emoji ;	1260 ;	flag, kitts, nevis, saint, st., St. Kitts & Nevis ;	x 	# V6.0 (🇰🇳) flag for St. Kitts & Nevis
+U+1F1F1 U+1F1E8 ;	emoji ;	1261 ;	flag, lucia, saint, st., St. Lucia ;	x 	# V6.0 (🇱🇨) flag for St. Lucia
+U+1F1F2 U+1F1EB ;	emoji ;	1262 ;	flag, french, martin, saint, st., St. Martin ;	x 	# V6.0 (🇲🇫) flag for St. Martin
+U+1F1F5 U+1F1F2 ;	emoji ;	1263 ;	flag, miquelon, pierre, saint, st., St. Pierre & Miquelon ;	x 	# V6.0 (🇵🇲) flag for St. Pierre & Miquelon
+U+1F1FB U+1F1E8 ;	emoji ;	1264 ;	flag, grenadines, saint, st., vincent, St. Vincent & Grenadines ;	x 	# V6.0 (🇻🇨) flag for St. Vincent & Grenadines
+U+1F1F8 U+1F1E9 ;	emoji ;	1265 ;	flag, sudan, Sudan ;	x 	# V6.0 (🇸🇩) flag for Sudan
+U+1F1F8 U+1F1F7 ;	emoji ;	1266 ;	flag, suriname, Suriname ;	x 	# V6.0 (🇸🇷) flag for Suriname
+U+1F1F8 U+1F1EF ;	emoji ;	1267 ;	flag, islands, jan, mayen, svalbard, Svalbard & Jan Mayen ;	x 	# V6.0 (🇸🇯) flag for Svalbard & Jan Mayen
+U+1F1F8 U+1F1FF ;	emoji ;	1268 ;	flag, swaziland, Swaziland ;	x 	# V6.0 (🇸🇿) flag for Swaziland
+U+1F1F8 U+1F1EA ;	emoji ;	1269 ;	flag, sweden, Sweden ;	x 	# V6.0 (🇸🇪) flag for Sweden
+U+1F1E8 U+1F1ED ;	emoji ;	1270 ;	flag, switzerland, Switzerland ;	x 	# V6.0 (🇨🇭) flag for Switzerland
+U+1F1F8 U+1F1FE ;	emoji ;	1271 ;	arab, flag, republic, syria, syrian, Syria ;	x 	# V6.0 (🇸🇾) flag for Syria
+U+1F1F9 U+1F1FC ;	emoji ;	1272 ;	china, flag, province, taiwan, Taiwan ;	x 	# V6.0 (🇹🇼) flag for Taiwan
+U+1F1F9 U+1F1EF ;	emoji ;	1273 ;	flag, tajikistan, Tajikistan ;	x 	# V6.0 (🇹🇯) flag for Tajikistan
+U+1F1F9 U+1F1FF ;	emoji ;	1274 ;	flag, republic, tanzania, united, Tanzania ;	x 	# V6.0 (🇹🇿) flag for Tanzania
+U+1F1F9 U+1F1ED ;	emoji ;	1275 ;	flag, thailand, Thailand ;	x 	# V6.0 (🇹🇭) flag for Thailand
+U+1F1F9 U+1F1F1 ;	emoji ;	1276 ;	east, flag, leste, timor, Timor-Leste ;	x 	# V6.0 (🇹🇱) flag for Timor-Leste
+U+1F1F9 U+1F1EC ;	emoji ;	1277 ;	flag, togo, Togo ;	x 	# V6.0 (🇹🇬) flag for Togo
+U+1F1F9 U+1F1F0 ;	emoji ;	1278 ;	flag, tokelau, Tokelau ;	x 	# V6.0 (🇹🇰) flag for Tokelau
+U+1F1F9 U+1F1F4 ;	emoji ;	1279 ;	flag, tonga, Tonga ;	x 	# V6.0 (🇹🇴) flag for Tonga
+U+1F1F9 U+1F1F9 ;	emoji ;	1280 ;	flag, tobago, trinidad, Trinidad & Tobago ;	x 	# V6.0 (🇹🇹) flag for Trinidad & Tobago
+U+1F1F9 U+1F1E6 ;	emoji ;	1281 ;	cunha, flag, tristan, Tristan da Cunha ;	x 	# V6.0 (🇹🇦) flag for Tristan da Cunha
+U+1F1F9 U+1F1F3 ;	emoji ;	1282 ;	flag, tunisia, Tunisia ;	x 	# V6.0 (🇹🇳) flag for Tunisia
+U+1F1F9 U+1F1F7 ;	emoji ;	1283 ;	flag, turkey, Turkey ;	x 	# V6.0 (🇹🇷) flag for Turkey
+U+1F1F9 U+1F1F2 ;	emoji ;	1284 ;	flag, turkmenistan, Turkmenistan ;	x 	# V6.0 (🇹🇲) flag for Turkmenistan
+U+1F1F9 U+1F1E8 ;	emoji ;	1285 ;	caicos, flag, islands, turks, Turks & Caicos Islands ;	x 	# V6.0 (🇹🇨) flag for Turks & Caicos Islands
+U+1F1F9 U+1F1FB ;	emoji ;	1286 ;	flag, tuvalu, Tuvalu ;	x 	# V6.0 (🇹🇻) flag for Tuvalu
+U+1F1FA U+1F1EC ;	emoji ;	1287 ;	flag, uganda, Uganda ;	x 	# V6.0 (🇺🇬) flag for Uganda
+U+1F1FA U+1F1E6 ;	emoji ;	1288 ;	flag, ukraine, Ukraine ;	x 	# V6.0 (🇺🇦) flag for Ukraine
+U+1F1E6 U+1F1EA ;	emoji ;	1289 ;	arab, emirates, flag, united, United Arab Emirates ;	x 	# V6.0 (🇦🇪) flag for United Arab Emirates
+U+1F1EC U+1F1E7 ;	emoji ;	1290 ;	britain, cornwall, flag, great, ireland, kingdom, northern, scotland, united, wales, United Kingdom ;	j 	# V6.0 (🇬🇧) flag for United Kingdom
+U+1F1FA U+1F1F8 ;	emoji ;	1291 ;	america, flag, u.s., u.s.a., united, us, usa, United States ;	j 	# V6.0 (🇺🇸) flag for United States
+U+1F1FA U+1F1FE ;	emoji ;	1292 ;	flag, uruguay, Uruguay ;	x 	# V6.0 (🇺🇾) flag for Uruguay
+U+1F1FA U+1F1F2 ;	emoji ;	1293 ;	flag, islands, outlying, u.s., united, U.S. Outlying Islands ;	x 	# V6.0 (🇺🇲) flag for U.S. Outlying Islands
+U+1F1FB U+1F1EE ;	emoji ;	1294 ;	flag, islands, u.s., united, virgin, U.S. Virgin Islands ;	x 	# V6.0 (🇻🇮) flag for U.S. Virgin Islands
+U+1F1FA U+1F1FF ;	emoji ;	1295 ;	flag, uzbekistan, Uzbekistan ;	x 	# V6.0 (🇺🇿) flag for Uzbekistan
+U+1F1FB U+1F1FA ;	emoji ;	1296 ;	flag, vanuatu, Vanuatu ;	x 	# V6.0 (🇻🇺) flag for Vanuatu
+U+1F1FB U+1F1E6 ;	emoji ;	1297 ;	city, flag, holy, see, vatican, Vatican City ;	x 	# V6.0 (🇻🇦) flag for Vatican City
+U+1F1FB U+1F1EA ;	emoji ;	1298 ;	bolivarian, flag, republic, venezuela, Venezuela ;	x 	# V6.0 (🇻🇪) flag for Venezuela
+U+1F1FB U+1F1F3 ;	emoji ;	1299 ;	flag, nam, viet, vietnam, Vietnam ;	x 	# V6.0 (🇻🇳) flag for Vietnam
+U+1F1FC U+1F1EB ;	emoji ;	1300 ;	flag, futuna, islands, wallis, Wallis & Futuna ;	x 	# V6.0 (🇼🇫) flag for Wallis & Futuna
+U+1F1EA U+1F1ED ;	emoji ;	1301 ;	flag, sahara, western, Western Sahara ;	x 	# V6.0 (🇪🇭) flag for Western Sahara
+U+1F1FE U+1F1EA ;	emoji ;	1302 ;	flag, rep., yemen, Yemen ;	x 	# V6.0 (🇾🇪) flag for Yemen
+U+1F1FF U+1F1F2 ;	emoji ;	1303 ;	flag, zambia, Zambia ;	x 	# V6.0 (🇿🇲) flag for Zambia
+U+1F1FF U+1F1FC ;	emoji ;	1304 ;	flag, zimbabwe, Zimbabwe ;	x 	# V6.0 (🇿🇼) flag for Zimbabwe
+U+2B06 ;	text ;	1305 ;	arrow ;	aj 	# V4.0 (⬆) upwards black arrow
+U+2197 ;	text ;	1306 ;	arrow, northeast ;	j 	# V1.1 (↗) north east arrow
+U+27A1 ;	text ;	1307 ;	arrow ;	zaj 	# V1.1 (➡) black rightwards arrow
+U+2198 ;	text ;	1308 ;	arrow, southeast ;	j 	# V1.1 (↘) south east arrow
+U+2B07 ;	text ;	1309 ;	arrow, down ;	aj 	# V4.0 (⬇) downwards black arrow
+U+2199 ;	text ;	1310 ;	arrow, southwest ;	j 	# V1.1 (↙) south west arrow
+U+2B05 ;	text ;	1311 ;	arrow ;	aj 	# V4.0 (⬅) leftwards black arrow
+U+2196 ;	text ;	1312 ;	arrow, northwest ;	j 	# V1.1 (↖) north west arrow
+U+2195 ;	text ;	1313 ;	arrow ;	zj 	# V1.1 (↕) up down arrow
+U+2194 ;	text ;	1314 ;	arrow ;	zj 	# V1.1 (↔) left right arrow
+U+21A9 ;	text ;	1315 ;	arrow ;	j 	# V1.1 (↩) leftwards arrow with hook
+U+21AA ;	text ;	1316 ;	arrow ;	j 	# V1.1 (↪) rightwards arrow with hook
+U+2934 ;	text ;	1317 ;	arrow ;	j 	# V3.2 (⤴) arrow pointing rightwards then curving upwards
+U+2935 ;	text ;	1318 ;	arrow, down ;	j 	# V3.2 (⤵) arrow pointing rightwards then curving downwards
+U+1F503 ;	emoji ;	1319 ;	arrow, clockwise, reload ;	j 	# V6.0 (🔃) clockwise downwards and upwards open circle arrows
+U+1F504 ;	emoji ;	1320 ;	anticlockwise, arrow, clockwise ;	x 	# V6.0 (🔄) anticlockwise downwards and upwards open circle arrows
+U+1F5D8 ;	emoji ;	1321 ;	arrow, clockwise ;	w 	# V7.0 (🗘) clockwise right and left semicircle arrows
+U+1F519 ;	emoji ;	1322 ;	above, arrow, back ;	j 	# V6.0 (🔙) back with leftwards arrow above
+U+1F51A ;	emoji ;	1323 ;	above, arrow, end ;	j 	# V6.0 (🔚) end with leftwards arrow above
+U+1F51B ;	emoji ;	1324 ;	above, arrow, mark, on ;	j 	# V6.0 (🔛) on with exclamation mark with left right arrow above
+U+1F51C ;	emoji ;	1325 ;	above, arrow, soon ;	j 	# V6.0 (🔜) soon with rightwards arrow above
+U+1F51D ;	emoji ;	1326 ;	above, arrow, top, up ;	j 	# V6.0 (🔝) top with upwards arrow above
+U+1F549 ;	emoji ;	1327 ;	hindu, om, religion ;	w 	# V7.0 (🕉) om symbol
+U+2721 ;	text ;	1328 ;	david, jew, jewish, religion, star ;	w 	# V1.1 (✡) star of david
+U+2638 ;	text ;	1329 ;	buddhist, dharma, object, religion, wheel ;	w 	# V1.1 (☸) wheel of dharma
+U+262F ;	text ;	1330 ;	religion, sign, tao, taoist, yang, yin ;	w 	# V1.1 (☯) yin yang
+U+271D ;	text ;	1331 ;	christian, cross, religion ;	w 	# V1.1 (✝) latin cross
+U+2626 ;	text ;	1332 ;	christian, cross, religion ;	x 	# V1.1 (☦) orthodox cross
+U+26E9 ;	text ;	1333 ;	religion, shinto, shrine ;	a 	# V5.2 (⛩) shinto shrine
+U+262A ;	text ;	1334 ;	islam, muslim, religion ;	w 	# V1.1 (☪) star and crescent
+U+262E ;	text ;	1335 ;	peace, sign ;	x 	# V1.1 (☮) peace symbol
+U+2622 ;	text ;	1336 ;	radioactive, sign ;	x 	# V1.1 (☢) radioactive sign
+U+2623 ;	text ;	1337 ;	biohazard, sign ;	x 	# V1.1 (☣) biohazard sign
+U+267E ;	text ;	1338 ;	paper, permanent, sign ;	x 	# V4.1 (♾) permanent paper sign
+U+2672 ;	text ;	1339 ;	recycle, recycling, sign, universal ;	x 	# V3.2 (♲) universal recycling symbol
+U+267B ;	text ;	1340 ;	recycle, recycling, solid, travel, universal ;	j 	# V3.2 (♻) black universal recycling symbol
+U+26A1 ;	emoji ;	1341 ;	danger, electric, electricity, high, nature, travel, voltage, zap ;	aj 	# V4.0 (⚡) high voltage sign
+U+2B50 ;	emoji ;	1342 ;	nature, star ;	j 	# V5.1 (⭐) white medium star
+U+2B55 ;	emoji ;	1343 ;	circle, o, travel ;	j 	# V5.2 (⭕) heavy large circle
+U+2705 ;	emoji ;	1344 ;	check, mark, sign ;	j 	# V6.0 (✅) white heavy check mark
+U+2611 ;	text ;	1345 ;	ballot, box, check, sign ;	jw 	# V1.1 (☑) ballot box with check
+U+2714 ;	text ;	1346 ;	check, mark, sign ;	zjw 	# V1.1 (✔) heavy check mark
+U+2715 ;	text ;	1347 ;	cancel, multiplication, multiply, sign, x ;	z 	# V1.1 (✕) multiplication x
+U+2716 ;	text ;	1348 ;	cancel, multiplication, multiply, sign, x ;	zj 	# V1.1 (✖) heavy multiplication x
+U+2717 ;	text ;	1349 ;	ballot, sign ;	z 	# V1.1 (✗) ballot x
+U+2718 ;	text ;	1350 ;	ballot, sign ;	z 	# V1.1 (✘) heavy ballot x
+U+1F5D9 ;	emoji ;	1351 ;	cancel, multiplication, multiply, sign, x ;	w 	# V7.0 (🗙) cancellation x
+U+274C ;	emoji ;	1352 ;	cancel, mark, multiplication, multiply, sign, x ;	j 	# V6.0 (❌) cross mark
+U+274E ;	emoji ;	1353 ;	mark, sign, square ;	j 	# V6.0 (❎) negative squared cross mark
+U+2612 ;	text ;	1354 ;	ballot, box, sign ;	w 	# V1.1 (☒) ballot box with x
+U+2795 ;	emoji ;	1355 ;	plus, sign ;	j 	# V6.0 (➕) heavy plus sign
+U+2796 ;	emoji ;	1356 ;	minus, sign ;	j 	# V6.0 (➖) heavy minus sign
+U+2797 ;	emoji ;	1357 ;	division, sign ;	j 	# V6.0 (➗) heavy division sign
+U+27B0 ;	emoji ;	1358 ;	cur, loop, sign ;	j 	# V6.0 (➰) curly loop
+U+27BF ;	emoji ;	1359 ;	cur, double, loop, sign ;	x 	# V6.0 (➿) double curly loop
+U+303D ;	text ;	1360 ;	mark, part, sign ;	j 	# V3.2 (〽) part alternation mark
+U+2733 ;	text ;	1361 ;	asterisk, sign ;	zj 	# V1.1 (✳) eight spoked asterisk
+U+2734 ;	text ;	1362 ;	sign, star ;	zj 	# V1.1 (✴) eight pointed black star
+U+2747 ;	text ;	1363 ;	sign, sparkle, sparkler ;	zj 	# V1.1 (❇) sparkle
+U+25AA ;	text ;	1364 ;	geometric, sign, square ;	jw 	# V1.1 (▪) black small square
+U+25AB ;	text ;	1365 ;	geometric, sign, square ;	j 	# V1.1 (▫) white small square
+U+25FB ;	text ;	1366 ;	geometric, sign, square ;	j 	# V3.2 (◻) white medium square
+U+25FC ;	text ;	1367 ;	geometric, sign, square ;	jw 	# V3.2 (◼) black medium square
+U+25FD ;	emoji ;	1368 ;	geometric, sign, square ;	j 	# V3.2 (◽) white medium small square
+U+25FE ;	emoji ;	1369 ;	geometric, sign, square ;	jw 	# V3.2 (◾) black medium small square
+U+2610 ;	text ;	1370 ;	ballot, box, geometric, sign ;	x 	# V1.1 (☐) ballot box
+U+25EA ;	text ;	1371 ;	black, square, white ;	x 	# V7.0 (◪) square with lower right diagonal half black
+U+2B1B ;	emoji ;	1372 ;	geometric, sign, square ;	ajw 	# V5.1 (⬛) black large square
+U+2B1C ;	emoji ;	1373 ;	geometric, sign, square ;	jw 	# V5.1 (⬜) white large square
+U+1F536 ;	emoji ;	1374 ;	diamond, geometric, orange, sign ;	j 	# V6.0 (🔶) large orange diamond
+U+1F537 ;	emoji ;	1375 ;	blue, diamond, geometric, sign ;	j 	# V6.0 (🔷) large blue diamond
+U+1F538 ;	emoji ;	1376 ;	diamond, geometric, orange, sign ;	j 	# V6.0 (🔸) small orange diamond
+U+1F539 ;	emoji ;	1377 ;	blue, diamond, geometric, sign ;	j 	# V6.0 (🔹) small blue diamond
+U+1F53A ;	emoji ;	1378 ;	geometric, red, sign ;	j 	# V6.0 (🔺) up-pointing red triangle
+U+1F53B ;	emoji ;	1379 ;	down, geometric, red, sign ;	j 	# V6.0 (🔻) down-pointing red triangle
+U+1F4A0 ;	emoji ;	1380 ;	comic, diamond, emotion, geometric, inside, sign ;	j 	# V6.0 (💠) diamond shape with a dot inside
+U+1F518 ;	emoji ;	1381 ;	button, geometric, radio, sign ;	j 	# V6.0 (🔘) radio button
+U+1F532 ;	emoji ;	1382 ;	button, geometric, sign, square ;	j 	# V6.0 (🔲) black square button
+U+1F533 ;	emoji ;	1383 ;	button, geometric, outlined, sign, square ;	j 	# V6.0 (🔳) white square button
+U+26AA ;	emoji ;	1384 ;	circle, geometric, sign ;	j 	# V4.1 (⚪) medium white circle
+U+26AB ;	emoji ;	1385 ;	circle, geometric, sign ;	jw 	# V4.1 (⚫) medium black circle
+U+1F534 ;	emoji ;	1386 ;	circle, geometric, red, sign ;	j 	# V6.0 (🔴) large red circle
+U+1F535 ;	emoji ;	1387 ;	blue, circle, geometric, sign ;	j 	# V6.0 (🔵) large blue circle
+U+1F53E ;	emoji ;	1388 ;	circle, geometric, sign ;	w 	# V7.0 (🔾) lower right shadowed white circle
+U+1F53F ;	emoji ;	1389 ;	circle, geometric, sign ;	w 	# V7.0 (🔿) upper right shadowed white circle
+U+25CF ;	text ;	1390 ;	black, circle ;	w 	# V7.0 (●) black circle
+U+203C ;	text ;	1391 ;	bangbang, exclamation, mark, punctuation, word ;	aj 	# V1.1 (‼) double exclamation mark
+U+2049 ;	text ;	1392 ;	exclamation, interrobang, mark, punctuation, question, word ;	aj 	# V3.0 (⁉) exclamation question mark
+U+2753 ;	emoji ;	1393 ;	mark, punctuation, question, solid, word ;	jw 	# V6.0 (❓) black question mark ornament
+U+2754 ;	emoji ;	1394 ;	mark, outlined, punctuation, question, word ;	j 	# V6.0 (❔) white question mark ornament
+U+2755 ;	emoji ;	1395 ;	exclamation, mark, outlined, punctuation, word ;	j 	# V6.0 (❕) white exclamation mark ornament
+U+2757 ;	emoji ;	1396 ;	exclamation, mark, punctuation, word ;	j 	# V5.2 (❗) heavy exclamation mark symbol
+U+2762 ;	text ;	1397 ;	exclamation, mark, punctuation, word ;	z 	# V1.1 (❢) heavy exclamation mark ornament
+U+3030 ;	text ;	1398 ;	dash, punctuation, sound, wavy ;	j 	# V1.1 (〰) wavy dash
+U+1F51E ;	emoji ;	1399 ;	18, eighteen, forbidden, no, not, prohibited, under, underage, word ;	j 	# V6.0 (🔞) no one under eighteen symbol
+U+00A9 ;	text ;	1400 ;	copyright, word ;	j 	# V1.1 (©) copyright sign
+U+00AE ;	text ;	1401 ;	registered, word ;	j 	# V1.1 (®) registered sign
+U+1F520 ;	emoji ;	1402 ;	input, latin, letters, uppercase, word ;	j 	# V6.0 (🔠) input symbol for latin capital letters
+U+1F521 ;	emoji ;	1403 ;	abcd, input, latin, letters, lowercase, word ;	j 	# V6.0 (🔡) input symbol for latin small letters
+U+1F522 ;	emoji ;	1404 ;	1234, input, numbers, word ;	j 	# V6.0 (🔢) input symbol for numbers
+U+1F523 ;	emoji ;	1405 ;	input, symbols, word ;	j 	# V6.0 (🔣) input symbol for symbols
+U+1F524 ;	emoji ;	1406 ;	abc, alphabet, input, latin, letters, word ;	j 	# V6.0 (🔤) input symbol for latin letters
+U+1F5DA ;	emoji ;	1407 ;	font, increase, size, word ;	w 	# V7.0 (🗚) increase font size symbol
+U+1F5DB ;	emoji ;	1408 ;	decrease, font, size, word ;	x 	# V7.0 (🗛) decrease font size symbol
+U+1F170 ;	text ;	1409 ;	a, blood, word ;	j 	# V6.0 (🅰) negative squared latin capital letter a
+U+1F18E ;	emoji ;	1410 ;	ab, blood, word ;	j 	# V6.0 (🆎) negative squared ab
+U+1F171 ;	text ;	1411 ;	b, blood, word ;	j 	# V6.0 (🅱) negative squared latin capital letter b
+U+1F191 ;	emoji ;	1412 ;	cl, word ;	j 	# V6.0 (🆑) squared cl
+U+1F192 ;	emoji ;	1413 ;	cool, word ;	j 	# V6.0 (🆒) squared cool
+U+1F193 ;	emoji ;	1414 ;	free, word ;	j 	# V6.0 (🆓) squared free
+U+2139 ;	text ;	1415 ;	information, word ;	j 	# V3.0 (ℹ) information source
+U+1F6C8 ;	emoji ;	1416 ;	circle, information, place ;	w 	# V7.0 (🛈) circled information source
+U+1F194 ;	emoji ;	1417 ;	id, identity, word ;	j 	# V6.0 (🆔) squared id
+U+24C2 ;	text ;	1418 ;	circle, m, word ;	j 	# V1.1 (Ⓜ) circled latin capital letter m
+U+1F195 ;	emoji ;	1419 ;	new, word ;	j 	# V6.0 (🆕) squared new
+U+1F196 ;	emoji ;	1420 ;	ng, word ;	j 	# V6.0 (🆖) squared ng
+U+1F17E ;	text ;	1421 ;	blood, o, word ;	j 	# V6.0 (🅾) negative squared latin capital letter o
+U+1F197 ;	emoji ;	1422 ;	ok, word ;	j 	# V6.0 (🆗) squared ok
+U+1F17F ;	text ;	1423 ;	parking, word ;	aj 	# V5.2 (🅿) negative squared latin capital letter p
+U+2117 ;	text ;	1424 ;	copyright, recording, sound ;	x 	# V1.1 (℗) sound recording copyright
+U+1F198 ;	emoji ;	1425 ;	help, sos, word ;	j 	# V6.0 (🆘) squared sos
+U+2122 ;	text ;	1426 ;	mark, tm, trademark, word ;	j 	# V1.1 (™) trade mark sign
+U+1F199 ;	emoji ;	1427 ;	mark, up, word ;	j 	# V6.0 (🆙) squared up with exclamation mark
+U+1F19A ;	emoji ;	1428 ;	versus, vs, word ;	j 	# V6.0 (🆚) squared vs
+U+1F201 ;	emoji ;	1429 ;	japanese, word ;	j 	# V6.0 (🈁) squared katakana koko
+U+1F202 ;	text ;	1430 ;	japanese, word ;	j 	# V6.0 (🈂) squared katakana sa
+U+1F239 ;	emoji ;	1431 ;	japanese, word ;	j 	# V6.0 (🈹) squared cjk unified ideograph-5272
+U+1F251 ;	emoji ;	1432 ;	chinese, word ;	j 	# V6.0 (🉑) circled ideograph accept
+U+1F234 ;	emoji ;	1433 ;	chinese, word ;	j 	# V6.0 (🈴) squared cjk unified ideograph-5408
+U+1F23A ;	emoji ;	1434 ;	chinese, word ;	j 	# V6.0 (🈺) squared cjk unified ideograph-55b6
+U+1F250 ;	emoji ;	1435 ;	japanese, word ;	j 	# V6.0 (🉐) circled ideograph advantage
+U+1F22F ;	emoji ;	1436 ;	japanese, word ;	aj 	# V5.2 (🈯) squared cjk unified ideograph-6307
+U+1F237 ;	text ;	1437 ;	japanese, word ;	j 	# V6.0 (🈷) squared cjk unified ideograph-6708
+U+1F236 ;	emoji ;	1438 ;	japanese, word ;	j 	# V6.0 (🈶) squared cjk unified ideograph-6709
+U+1F235 ;	emoji ;	1439 ;	chinese, word ;	j 	# V6.0 (🈵) squared cjk unified ideograph-6e80
+U+1F21A ;	emoji ;	1440 ;	japanese, word ;	aj 	# V5.2 (🈚) squared cjk unified ideograph-7121
+U+1F238 ;	emoji ;	1441 ;	chinese, word ;	j 	# V6.0 (🈸) squared cjk unified ideograph-7533
+U+3297 ;	text ;	1442 ;	congratulation, congratulations, ideograph, word ;	j 	# V1.1 (㊗) circled ideograph congratulation
+U+1F232 ;	emoji ;	1443 ;	japanese, word ;	j 	# V6.0 (🈲) squared cjk unified ideograph-7981
+U+3299 ;	text ;	1444 ;	ideograph, secret, word ;	aj 	# V1.1 (㊙) circled ideograph secret
+U+1F233 ;	emoji ;	1445 ;	chinese, word ;	j 	# V6.0 (🈳) squared cjk unified ideograph-7a7a

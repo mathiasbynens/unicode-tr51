@@ -6,13 +6,13 @@ This package enables an easy way of getting the list of all emoji symbols (in st
 
 ## Installation
 
-Via [npm](http://npmjs.org/):
+Via [npm](https://www.npmjs.org/):
 
 ```bash
 npm install unicode-tr51
 ```
 
-In [Node.js](http://nodejs.org/):
+In [Node.js](https://nodejs.org/):
 
 ```js
 var emojiCodePoints = require('unicode-tr51/code-points');
