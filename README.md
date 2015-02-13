@@ -6,7 +6,7 @@ This package enables an easy way of getting the list of all emoji symbols (in st
 
 ## Installation
 
-Via [npm](https://www.npmjs.org/):
+Via [npm](https://www.npmjs.com/):
 
 ```bash
 npm install unicode-tr51

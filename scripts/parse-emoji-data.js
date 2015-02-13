@@ -28,9 +28,9 @@ lines.forEach(function(line) {
 		return;
 	}
 	var currentCodePoints = data[0].trim().split(' ').map(function(string) {
-		// Turn a string representing a code point such as `'U+0023'` into the
+		// Turn a string representing a code point such as `'0023'` into the
 		// corresponding number, e.g. `0x23`.
-		return parseInt(string.slice(2), 16);
+		return parseInt(string, 16);
 	});
 	if (currentCodePoints.length == 1) {
 		codePoints.push(currentCodePoints[0]);
