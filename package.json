@@ -1,6 +1,6 @@
 {
 	"name": "unicode-tr51",
-	"version": "4.0.0",
+	"version": "5.0.0",
 	"description": "Emoji data extracted from Unicode Technical Report #51.",
 	"homepage": "https://mths.be/unicode-tr51",
 	"main": "symbols.js",
