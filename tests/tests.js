@@ -29,6 +29,16 @@ describe('Emoji data', function() {
 		}));
 		assert(emojiSymbols.indexOf('\uD83C\uDDFA\uD83C\uDDF8') >= 0);
 
+		// Check emoji that have a textual representation by default.
+		// U+0031 DIGIT ONE
+		// U+20E3 COMBINING ENCLOSING KEYCAP
+		assert(emojiCodePoints.some(function(value) {
+			return Array.isArray(value) &&
+				value[0] == 0x0031 &&
+				value[1] == 0x20E3;
+		}));
+		assert(emojiSymbols.indexOf('1\u20E3') >= 0);
+
 	});
 
 });

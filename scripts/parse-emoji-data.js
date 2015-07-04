@@ -24,9 +24,11 @@ lines.forEach(function(line) {
 		return;
 	}
 	var data = line.trim().split(';');
-	if (data[1].trim() != 'emoji') {
-		return;
-	}
+	// To ignore emoji that have a text representation by default, uncomment
+	// the following:
+	//if (data[1].trim() != 'emoji') {
+	//	return;
+	//}
 	var currentCodePoints = data[0].trim().split(' ').map(function(string) {
 		// Turn a string representing a code point such as `'0023'` into the
 		// corresponding number, e.g. `0x23`.
