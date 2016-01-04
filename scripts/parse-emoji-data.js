@@ -1,39 +1,48 @@
-var fs = require('fs');
-var path = require('path');
-var jsesc = require('jsesc');
-require('string.fromcodepoint');
+'use strict';
 
-var ROOT = path.resolve(__dirname, '..');
+const fs = require('fs');
+const path = require('path');
+const jsesc = require('jsesc');
+const range = require('lodash.range');
+
+const ROOT = path.resolve(__dirname, '..');
 
 // Collect an array of strings; one for each emoji. Note that this cannot be
 // passed to Regenerate directly, as each string might contain multiple code
 // points.
-var symbols = [];
+const symbols = [];
 
 // Collect an array of numbers (in case the emoji consists of a single code
 // point) or nested arrays of numbers (in case the emoji consists of multiple
 // code points). Note that this still cannot be used with Regenerate directly,
 // as it treats each code point as an individual item (by design).
-var codePoints = [];
+const codePoints = [];
 
-var source = fs.readFileSync(ROOT + '/data/emoji-data.txt', 'utf-8');
+const hex2dec = function(string) {
+	// Turn a string representing a code point such as `'0023'` into the
+	// corresponding number, e.g. `0x23`.
+	return parseInt(string, 16);
+};
 
-var lines = source.split('\n');
+const source = fs.readFileSync(ROOT + '/data/emoji-data.txt', 'utf-8');
+
+const lines = source.split('\n');
 lines.forEach(function(line) {
 	if (!line || /^#/.test(line)) {
 		return;
 	}
-	var data = line.trim().split(';');
-	// To ignore emoji that have a text representation by default, uncomment
-	// the following:
-	//if (data[1].trim() != 'emoji') {
-	//	return;
-	//}
-	var currentCodePoints = data[0].trim().split(' ').map(function(string) {
-		// Turn a string representing a code point such as `'0023'` into the
-		// corresponding number, e.g. `0x23`.
-		return parseInt(string, 16);
-	});
+	const data = line.trim().split(';');
+	const codePointsColumn = data[0].trim();
+	if (codePointsColumn.includes('..')) {
+		const parts = codePointsColumn.split('..');
+		const start = hex2dec(parts[0]);
+		const end = hex2dec(parts[1]);
+		for (const codePoint of range(start, end + 1)) {
+			codePoints.push(codePoint);
+			symbols.push(String.fromCodePoint(codePoint));
+		}
+	}
+	const currentCodePoints = data[0].trim().split(' ').map(hex2dec);
 	if (currentCodePoints.length == 1) {
 		codePoints.push(currentCodePoints[0]);
 		symbols.push(String.fromCodePoint(currentCodePoints[0]));
