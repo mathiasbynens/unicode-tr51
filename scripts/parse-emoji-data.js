@@ -1,56 +1,68 @@
-var fs = require('fs');
-var path = require('path');
-var jsesc = require('jsesc');
-require('string.fromcodepoint');
+'use strict';
 
-var ROOT = path.resolve(__dirname, '..');
+const fs = require('fs');
+const jsesc = require('jsesc');
 
-// Collect an array of strings; one for each emoji. Note that this cannot be
-// passed to Regenerate directly, as each string might contain multiple code
-// points.
-var symbols = [];
+const range = function(start, stop) {
+	// inclusive, e.g. `range(1, 3)` → `[1, 2, 3]`
+	const result = [];
+	for (; start <= stop; result.push(start++));
+	return result;
+};
 
-// Collect an array of numbers (in case the emoji consists of a single code
-// point) or nested arrays of numbers (in case the emoji consists of multiple
-// code points). Note that this still cannot be used with Regenerate directly,
-// as it treats each code point as an individual item (by design).
-var codePoints = [];
+const append = function(map, key, value) {
+	if (map.has(key)) {
+		map.get(key).push(value);
+	} else {
+		map.set(key, [value]);
+	}
+};
 
-var source = fs.readFileSync(ROOT + '/data/emoji-data.txt', 'utf-8');
-
-var lines = source.split('\n');
-lines.forEach(function(line) {
-	if (!line || /^#/.test(line)) {
+const parseEmojiData = function() {
+	const map = new Map();
+	const source = fs.readFileSync('data/emoji-data.txt', 'utf8');
+	if (!source) {
 		return;
 	}
-	var data = line.trim().split(';');
-	// To ignore emoji that have a text representation by default, uncomment
-	// the following:
-	//if (data[1].trim() != 'emoji') {
-	//	return;
-	//}
-	var currentCodePoints = data[0].trim().split(' ').map(function(string) {
-		// Turn a string representing a code point such as `'0023'` into the
-		// corresponding number, e.g. `0x23`.
-		return parseInt(string, 16);
-	});
-	if (currentCodePoints.length == 1) {
-		codePoints.push(currentCodePoints[0]);
-		symbols.push(String.fromCodePoint(currentCodePoints[0]));
-	} else {
-		codePoints.push(currentCodePoints);
-		symbols.push(String.fromCodePoint.apply(null, currentCodePoints));
+	const lines = source.split('\n');
+	for (const line of lines) {
+		if (!line || /^#/.test(line)) {
+			continue;
+		}
+		const data = line.trim().split(';');
+		const charRange = data[0].replace('..', '-').trim();
+		const rangeParts = charRange.split('-');
+		const value = data[1].split('#')[0].trim();
+		if (rangeParts.length == 2) {
+			range(
+				parseInt(rangeParts[0], 16),
+				parseInt(rangeParts[1], 16)
+			).forEach(function(codePoint) {
+				append(map, value, codePoint);
+			});
+		} else {
+			const codePoint = parseInt(charRange, 16);
+			append(map, value, codePoint);
+		}
 	}
-});
+	return map;
+};
 
-function writeFile(fileName, object) {
+const map = parseEmojiData();
+
+const writeData = function(fileName, data) {
 	fs.writeFileSync(
-		ROOT + '/' + fileName,
-		'module.exports = ' + jsesc(object, {
-			'compact': false
-		}) + ';\n'
+		fileName,
+		`module.exports = ` + jsesc(data, {
+			'compact': false,
+			'numbers': 'hexadecimal'
+		}) + `;\n`
 	);
+};
+
+for (const [propertyName, codePoints] of map.entries()) {
+	writeData(`./${ propertyName }.js`, codePoints);
 }
 
-writeFile('symbols.js', symbols);
-writeFile('code-points.js', codePoints);
+const properties = [...map.keys()];
+writeData(`./index.js`, properties);
