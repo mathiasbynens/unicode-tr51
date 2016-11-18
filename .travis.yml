@@ -6,7 +6,7 @@ node_js:
   - '6'
   - '7'
 script:
-  - 'if [ "${TRAVIS_NODE_VERSION}" = "6" ]; then
+  - 'if [ "${TRAVIS_NODE_VERSION}" = "7" ]; then
        npm run build;
      fi'
   - 'npm test'
