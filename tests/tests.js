@@ -10,6 +10,7 @@ describe('Emoji data', function() {
 	it('contains expected code points', function() {
 
 		assert(Emoji.indexOf(0x1F198) > -1);
+		assert(Emoji.indexOf(0x1F9DD) > -1);
 		assert(Emoji_Modifier.indexOf(0x1F3FD) > -1);
 		assert(Emoji_Modifier_Base.indexOf(0x1F3C3) > -1);
 		assert(Emoji_Presentation.indexOf(0x1F367) > -1);
