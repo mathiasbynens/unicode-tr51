@@ -27,6 +27,7 @@
     "LICENSE-MIT.txt",
     "index.js",
     "Emoji.js",
+    "Emoji_Component.js",
     "Emoji_Modifier.js",
     "Emoji_Modifier_Base.js",
     "Emoji_Presentation.js"

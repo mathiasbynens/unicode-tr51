@@ -16,8 +16,9 @@ In [Node.js](https://nodejs.org/):
 
 ```js
 const properties = require('unicode-tr51');
-// → [ 'Emoji', 'Emoji_Modifier', 'Emoji_Modifier_Base', 'Emoji_Presentation' ]
+// → [ 'Emoji', 'Emoji_Component', Emoji_Modifier', 'Emoji_Modifier_Base', 'Emoji_Presentation' ]
 const Emoji = require('unicode-tr51/Emoji.js');
+const Emoji_Component = require('unicode-tr51/Emoji_Component.js');
 const Emoji_Modifier = require('unicode-tr51/Emoji_Modifier.js');
 const Emoji_Modifier_Base = require('unicode-tr51/Emoji_Modifier_Base.js');
 const Emoji_Presentation = require('unicode-tr51/Emoji_Presentation.js');

@@ -1,7 +1,7 @@
 module.exports = [
 	'Emoji',
-	'Emoji_Presentation',
+	'Emoji_Component',
 	'Emoji_Modifier',
 	'Emoji_Modifier_Base',
-	'Emoji_Component'
+	'Emoji_Presentation'
 ];
