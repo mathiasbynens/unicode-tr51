@@ -3,9 +3,9 @@
 const fs = require('fs');
 const jsesc = require('jsesc');
 
-const parseEmojiSequences = function() {
+const parseEmojiSequences = function(fileName) {
 	const sequences = [];
-	const source = fs.readFileSync('data/emoji-sequences.txt', 'utf8');
+	const source = fs.readFileSync(fileName, 'utf8');
 	if (!source) {
 		return;
 	}
@@ -25,7 +25,8 @@ const parseEmojiSequences = function() {
 	return sequences;
 };
 
-const sequences = parseEmojiSequences();
+const sequences = parseEmojiSequences('data/emoji-sequences.txt')
+	.concat(parseEmojiSequences('data/emoji-zwj-sequences.txt'));
 
 const writeData = function(fileName, data) {
 	fs.writeFileSync(
