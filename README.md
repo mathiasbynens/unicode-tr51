@@ -22,6 +22,9 @@ const Emoji_Component = require('unicode-tr51/Emoji_Component.js');
 const Emoji_Modifier = require('unicode-tr51/Emoji_Modifier.js');
 const Emoji_Modifier_Base = require('unicode-tr51/Emoji_Modifier_Base.js');
 const Emoji_Presentation = require('unicode-tr51/Emoji_Presentation.js');
+// A list of all emoji sequences is available as an array of strings:
+const sequences = require('unicode-tr51/sequences.js');
+// Note that the sequence properties (e.g. `Emoji_Flag_Sequence`) aren’t (yet) exposed individually.
 ```
 
 ## Author

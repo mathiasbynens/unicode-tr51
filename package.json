@@ -30,14 +30,15 @@
     "Emoji_Component.js",
     "Emoji_Modifier.js",
     "Emoji_Modifier_Base.js",
-    "Emoji_Presentation.js"
+    "Emoji_Presentation.js",
+    "sequences.js"
   ],
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "download": "curl -L http://unicode.org/Public/emoji/5.0/emoji-data.txt > data/emoji-data.txt",
-    "build": "node scripts/parse-emoji-data.js",
+    "download": "curl -L http://unicode.org/Public/emoji/5.0/emoji-data.txt > data/emoji-data.txt && curl -L http://unicode.org/Public/emoji/5.0/emoji-sequences.txt > data/emoji-sequences.txt",
+    "build": "node scripts/parse-emoji-data.js && node scripts/parse-emoji-sequences.js",
     "coverage": "istanbul cover --report html node_modules/.bin/_mocha scripts/parse-emoji-data.js -- -u exports -R spec",
     "test": "mocha tests"
   },
