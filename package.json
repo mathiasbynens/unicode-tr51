@@ -26,6 +26,7 @@
   "files": [
     "LICENSE-MIT.txt",
     "index.js",
+    "emoji-version.js",
     "Emoji.js",
     "Emoji_Component.js",
     "Emoji_Modifier.js",

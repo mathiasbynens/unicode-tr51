@@ -55,7 +55,8 @@ const writeData = function(fileName, data) {
 		fileName,
 		`module.exports = ` + jsesc(data, {
 			'compact': false,
-			'numbers': 'hexadecimal'
+			'numbers': 'hexadecimal',
+			'wrap': true
 		}) + `;\n`
 	);
 };
@@ -65,4 +66,8 @@ for (const [propertyName, codePoints] of map.entries()) {
 }
 
 const properties = [...map.keys()];
-writeData(`./index.js`, properties);
+writeData('./index.js', properties);
+
+const downloadCommand = require('../package.json').scripts.download;
+const version = downloadCommand.match(/\/emoji\/([^\/]+)\/emoji-data.txt/)[1];
+writeData('./emoji-version.js', version);

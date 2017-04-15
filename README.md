@@ -27,6 +27,12 @@ const sequences = require('unicode-tr51/sequences.js');
 // Note that the sequence properties (e.g. `Emoji_Flag_Sequence`) aren’t (yet) exposed individually.
 ```
 
+To get the UTR51 version the data was based on:
+
+```js
+const version = require('unicode-tr51/emoji-version.js');
+```
+
 ## Author
 
 | [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias "Follow @mathias on Twitter") |
