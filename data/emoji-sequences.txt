@@ -1,11 +1,11 @@
 # emoji-sequences.txt
-# Date: 2017-03-27, 07:59:46 GMT
+# Date: 2017-06-27, 10:19:38 GMT
 # © 2017 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
 # Emoji Sequence Data for UTR #51
-# Version: 5.0
+# Version: 6.0
 #
 # For documentation and usage, see http://www.unicode.org/reports/tr51
 #
@@ -564,11 +564,11 @@
 1F4AA 1F3FD   ; Emoji_Modifier_Sequence   ; flexed biceps: medium skin tone                                #  8.0  [1] (💪🏽)
 1F4AA 1F3FE   ; Emoji_Modifier_Sequence   ; flexed biceps: medium-dark skin tone                           #  8.0  [1] (💪🏾)
 1F4AA 1F3FF   ; Emoji_Modifier_Sequence   ; flexed biceps: dark skin tone                                  #  8.0  [1] (💪🏿)
-1F574 1F3FB   ; Emoji_Modifier_Sequence   ; man in business suit levitating: light skin tone               #  8.0  [1] (🕴🏻)
-1F574 1F3FC   ; Emoji_Modifier_Sequence   ; man in business suit levitating: medium-light skin tone        #  8.0  [1] (🕴🏼)
-1F574 1F3FD   ; Emoji_Modifier_Sequence   ; man in business suit levitating: medium skin tone              #  8.0  [1] (🕴🏽)
-1F574 1F3FE   ; Emoji_Modifier_Sequence   ; man in business suit levitating: medium-dark skin tone         #  8.0  [1] (🕴🏾)
-1F574 1F3FF   ; Emoji_Modifier_Sequence   ; man in business suit levitating: dark skin tone                #  8.0  [1] (🕴🏿)
+1F574 1F3FB   ; Emoji_Modifier_Sequence   ; man in suit levitating: light skin tone                        #  8.0  [1] (🕴🏻)
+1F574 1F3FC   ; Emoji_Modifier_Sequence   ; man in suit levitating: medium-light skin tone                 #  8.0  [1] (🕴🏼)
+1F574 1F3FD   ; Emoji_Modifier_Sequence   ; man in suit levitating: medium skin tone                       #  8.0  [1] (🕴🏽)
+1F574 1F3FE   ; Emoji_Modifier_Sequence   ; man in suit levitating: medium-dark skin tone                  #  8.0  [1] (🕴🏾)
+1F574 1F3FF   ; Emoji_Modifier_Sequence   ; man in suit levitating: dark skin tone                         #  8.0  [1] (🕴🏿)
 1F575 1F3FB   ; Emoji_Modifier_Sequence   ; detective: light skin tone                                     #  8.0  [1] (🕵🏻)
 1F575 1F3FC   ; Emoji_Modifier_Sequence   ; detective: medium-light skin tone                              #  8.0  [1] (🕵🏼)
 1F575 1F3FD   ; Emoji_Modifier_Sequence   ; detective: medium skin tone                                    #  8.0  [1] (🕵🏽)
@@ -579,11 +579,11 @@
 1F57A 1F3FD   ; Emoji_Modifier_Sequence   ; man dancing: medium skin tone                                  #  9.0  [1] (🕺🏽)
 1F57A 1F3FE   ; Emoji_Modifier_Sequence   ; man dancing: medium-dark skin tone                             #  9.0  [1] (🕺🏾)
 1F57A 1F3FF   ; Emoji_Modifier_Sequence   ; man dancing: dark skin tone                                    #  9.0  [1] (🕺🏿)
-1F590 1F3FB   ; Emoji_Modifier_Sequence   ; raised hand with fingers splayed: light skin tone              #  8.0  [1] (🖐🏻)
-1F590 1F3FC   ; Emoji_Modifier_Sequence   ; raised hand with fingers splayed: medium-light skin tone       #  8.0  [1] (🖐🏼)
-1F590 1F3FD   ; Emoji_Modifier_Sequence   ; raised hand with fingers splayed: medium skin tone             #  8.0  [1] (🖐🏽)
-1F590 1F3FE   ; Emoji_Modifier_Sequence   ; raised hand with fingers splayed: medium-dark skin tone        #  8.0  [1] (🖐🏾)
-1F590 1F3FF   ; Emoji_Modifier_Sequence   ; raised hand with fingers splayed: dark skin tone               #  8.0  [1] (🖐🏿)
+1F590 1F3FB   ; Emoji_Modifier_Sequence   ; hand with fingers splayed: light skin tone                     #  8.0  [1] (🖐🏻)
+1F590 1F3FC   ; Emoji_Modifier_Sequence   ; hand with fingers splayed: medium-light skin tone              #  8.0  [1] (🖐🏼)
+1F590 1F3FD   ; Emoji_Modifier_Sequence   ; hand with fingers splayed: medium skin tone                    #  8.0  [1] (🖐🏽)
+1F590 1F3FE   ; Emoji_Modifier_Sequence   ; hand with fingers splayed: medium-dark skin tone               #  8.0  [1] (🖐🏾)
+1F590 1F3FF   ; Emoji_Modifier_Sequence   ; hand with fingers splayed: dark skin tone                      #  8.0  [1] (🖐🏿)
 1F595 1F3FB   ; Emoji_Modifier_Sequence   ; middle finger: light skin tone                                 #  8.0  [1] (🖕🏻)
 1F595 1F3FC   ; Emoji_Modifier_Sequence   ; middle finger: medium-light skin tone                          #  8.0  [1] (🖕🏼)
 1F595 1F3FD   ; Emoji_Modifier_Sequence   ; middle finger: medium skin tone                                #  8.0  [1] (🖕🏽)

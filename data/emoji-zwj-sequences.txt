@@ -1,11 +1,11 @@
 # emoji-zwj-sequences.txt
-# Date: 2017-03-27, 07:59:46 GMT
+# Date: 2017-06-27, 10:19:38 GMT
 # © 2017 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
 # Emoji ZWJ Sequences for UTR #51
-# Version: 5.0
+# Version: 6.0
 #
 # For documentation and usage, see http://www.unicode.org/reports/tr51
 #
@@ -476,8 +476,8 @@
 1F3CC 1F3FF 200D 2642 FE0F                  ; Emoji_ZWJ_Sequence  ; man golfing: dark skin tone                                    #  8.0  [1] (🏌🏿‍♂️)
 1F3CC FE0F 200D 2640 FE0F                   ; Emoji_ZWJ_Sequence  ; woman golfing                                                  #  7.0  [1] (🏌️‍♀️)
 1F3CC FE0F 200D 2642 FE0F                   ; Emoji_ZWJ_Sequence  ; man golfing                                                    #  7.0  [1] (🏌️‍♂️)
-1F46F 200D 2640 FE0F                        ; Emoji_ZWJ_Sequence  ; women with bunny ears partying                                 #  6.0  [1] (👯‍♀️)
-1F46F 200D 2642 FE0F                        ; Emoji_ZWJ_Sequence  ; men with bunny ears partying                                   #  6.0  [1] (👯‍♂️)
+1F46F 200D 2640 FE0F                        ; Emoji_ZWJ_Sequence  ; women with bunny ears                                          #  6.0  [1] (👯‍♀️)
+1F46F 200D 2642 FE0F                        ; Emoji_ZWJ_Sequence  ; men with bunny ears                                            #  6.0  [1] (👯‍♂️)
 1F486 200D 2640 FE0F                        ; Emoji_ZWJ_Sequence  ; woman getting massage                                          #  6.0  [1] (💆‍♀️)
 1F486 200D 2642 FE0F                        ; Emoji_ZWJ_Sequence  ; man getting massage                                            #  6.0  [1] (💆‍♂️)
 1F486 1F3FB 200D 2640 FE0F                  ; Emoji_ZWJ_Sequence  ; woman getting massage: light skin tone                         #  8.0  [1] (💆🏻‍♀️)

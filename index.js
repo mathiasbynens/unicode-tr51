@@ -3,5 +3,6 @@ module.exports = [
 	'Emoji_Presentation',
 	'Emoji_Modifier',
 	'Emoji_Modifier_Base',
-	'Emoji_Component'
+	'Emoji_Component',
+	'Extended_Pictographic'
 ];
