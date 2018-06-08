@@ -1,4 +1,4 @@
-# unicode-tr51 [![Build status](https://travis-ci.org/mathiasbynens/unicode-tr51.svg?branch=master)](https://travis-ci.org/mathiasbynens/unicode-tr51) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/unicode-tr51/master.svg)](https://coveralls.io/r/mathiasbynens/unicode-tr51) [![Dependency status](https://gemnasium.com/mathiasbynens/unicode-tr51.svg)](https://gemnasium.com/mathiasbynens/unicode-tr51)
+# unicode-tr51 [![Build status](https://travis-ci.org/mathiasbynens/unicode-tr51.svg?branch=master)](https://travis-ci.org/mathiasbynens/unicode-tr51) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/unicode-tr51/master.svg)](https://coveralls.io/r/mathiasbynens/unicode-tr51)
 
 _unicode-tr51_ contains data extracted from [the `emoji-data.txt` file](http://unicode.org/Public/emoji/latest/emoji-data.txt) that is part of [Unicode Technical Report #51](http://unicode.org/reports/tr51/).
 
